@@ -1,545 +1,522 @@
 VALID,VALID2,LAT,LON,MAG,WFO,TYPECODE,TYPETEXT,CITY,COUNTY,STATE,SOURCE,REMARK,UGC,UGCNAME,QUALIFIER
-202406221300,2024/06/22 13:00,44.30,-101.61,0.54,UNR,R,RAIN,12 SSE Milesville,Haakon,SD,CoCoRaHS,24-hour rainfall.,SDC055,Haakon,M
-202406221300,2024/06/22 13:00,44.02,-103.24,0.54,UNR,R,RAIN,4 S Dwtn Rapid City,Pennington,SD,NWS Employee,24-hour rainfall.,SDC103,Pennington,M
-202406221300,2024/06/22 13:00,44.05,-103.21,0.56,UNR,R,RAIN,2 SSE Dwtn Rapid City,Pennington,SD,CoCoRaHS,24-hour rainfall.,SDC103,Pennington,M
-202406221300,2024/06/22 13:00,44.87,-102.57,0.58,UNR,R,RAIN,6 WSW Opal,Meade,SD,CoCoRaHS,24-hour rainfall.,SDC093,Meade,M
-202406221300,2024/06/22 13:00,45.45,-102.07,0.65,UNR,R,RAIN,9 SE Meadow,Perkins,SD,CoCoRaHS,24-hour rainfall.,SDC105,Perkins,M
-202406221300,2024/06/22 13:00,45.70,-103.79,0.71,UNR,R,RAIN,9 SSW Ladner,Harding,SD,CoCoRaHS,24-hour rainfall.,SDC063,Harding,M
-202406221300,2024/06/22 13:00,44.34,-105.66,0.77,UNR,R,RAIN,8 WNW Dwtn Gillette,Campbell,WY,CoCoRaHS,24-hour rainfall.,WYC005,Campbell,M
-202406221300,2024/06/22 13:00,44.23,-105.46,0.83,UNR,R,RAIN,5 SSE Dwtn Gillette,Campbell,WY,CoCoRaHS,24-hour rainfall.,WYC005,Campbell,M
-202406221300,2024/06/22 13:00,44.47,-105.60,0.88,UNR,R,RAIN,14 NNW Dwtn Gillette,Campbell,WY,CoCoRaHS,24-hour rainfall.,WYC005,Campbell,M
-202406221300,2024/06/22 13:00,43.42,-91.51,0.89,ARX,R,RAIN,3 S Dorchester,Allamakee,IA,Mesonet,Mesonet station DCHI4 3 S Dorchester.,IAC005,Allamakee,M
-202406221300,2024/06/22 13:00,44.24,-105.51,0.9,UNR,R,RAIN,3 S Dwtn Gillette,Campbell,WY,CoCoRaHS,24-hour rainfall.,WYC005,Campbell,M
-202406221300,2024/06/22 13:00,44.25,-105.35,0.9,UNR,R,RAIN,8 WSW Rozet,Campbell,WY,CoCoRaHS,24-hour rainfall.,WYC005,Campbell,M
-202406221300,2024/06/22 13:00,43.57,-91.38,0.94,ARX,R,RAIN,3 S Freeburg,Houston,MN,Cocorahs,Cocorahs station MN-HS-29 Caledonia 7.7 SE.,MNC055,Houston,M
-202406221300,2024/06/22 13:00,43.56,-91.51,1.04,ARX,R,RAIN,4 NW Eitzen,Houston,MN,Cocorahs,Cocorahs station MN-HS-4 Caledonia 5.4 S.,MNC055,Houston,M
-202406221300,2024/06/22 13:00,43.88,-91.23,1.11,ARX,R,RAIN,1 SW Onalaska,La Crosse,WI,Cocorahs,Cocorahs station WI-LC-18 Onalaska 0.6 SW.,WIC063,La Crosse,M
-202406221300,2024/06/22 13:00,43.11,-100.61,1.12,UNR,R,RAIN,14 S Mission,Todd,SD,Co-Op Observer,24-hour rainfall.,SDC121,Todd,M
-202406221300,2024/06/22 13:00,43.79,-91.23,1.2,ARX,R,RAIN,2 S La Crosse,La Crosse,WI,Cocorahs,Cocorahs station WI-LC-27 La Crosse 2.4 S.,WIC063,La Crosse,M
-202406221300,2024/06/22 13:00,46.03,-104.08,1.23,BYZ,R,RAIN,8 E Webster,Fallon,MT,Cocorahs,Cocorahs station MT-FL-3 Baker 24.7 SSE.,MTC025,Fallon,M
-202406221300,2024/06/22 13:00,44.08,-101.10,1.37,UNR,R,RAIN,3 E Midland,Haakon,SD,CoCoRaHS,24-hour rainfall.,SDC055,Haakon,M
-202406221300,2024/06/22 13:00,44.48,-83.83,1.49,APX,R,RAIN,3 ENE South Branch,Iosco,MI,Cocorahs,Cocorahs station MI-IC-10 South Branch 2.9 ENE.,MIC069,Iosco,M
-202406221300,2024/06/22 13:00,43.77,-91.17,1.5,ARX,R,RAIN,5 SE La Crosse,La Crosse,WI,Cocorahs,Cocorahs station WI-LC-8 La Crosse 5.4 SE.,WIC063,La Crosse,M
-202406221300,2024/06/22 13:00,43.79,-90.06,1.51,ARX,R,RAIN,1 ESE Mauston,Juneau,WI,CO-OP Observer,CO-OP Observer station MAUW3 1.0 E Mauston.,WIC057,Juneau,M
-202406221300,2024/06/22 13:00,43.04,-91.21,1.92,ARX,R,RAIN,1 WSW Marquette,Clayton,IA,Mesonet,Mesonet station MBRI4 1 WSW Marquette.,IAC043,Clayton,M
-202406221300,2024/06/22 13:00,44.47,-95.79,1.97,FSD,R,RAIN,1 N Marshall,Lyon,MN,CO-OP Observer,3 day rainfall total.,MNC083,Lyon,M
-202406221300,2024/06/22 13:00,44.32,-92.00,2.11,ARX,R,RAIN,1 N Kellogg,Wabasha,MN,Mesonet,Mesonet station KELM5 1 N Kellogg.,MNC157,Wabasha,M
-202406221300,2024/06/22 13:00,43.79,-91.59,2.27,ARX,R,RAIN,2 NNW Houston,Houston,MN,Cocorahs,Cocorahs station MN-HS-22 Houston 2.3 NNW.,MNC055,Houston,M
-202406221300,2024/06/22 13:00,42.91,-91.47,2.28,ARX,R,RAIN,4 WSW Saint Olaf,Clayton,IA,Mesonet,Mesonet station BSHI4 Big Spring Fish Hatchery.,IAC043,Clayton,M
-202406221300,2024/06/22 13:00,43.79,-92.91,2.46,ARX,R,RAIN,3 SW Waltham,Mower,MN,Cocorahs,Cocorahs station MN-MW-15 Waltham 2.9 SW.,MNC099,Mower,M
-202406221300,2024/06/22 13:00,43.98,-92.56,2.56,ARX,R,RAIN,5 WSW Rochester,Olmsted,MN,Mesonet,Mesonet station SFZM5 5 WSW Rochester.,MNC109,Olmsted,M
-202406221300,2024/06/22 13:00,44.44,-92.26,2.59,ARX,R,RAIN,1 ESE Lake City,Wabasha,MN,Cocorahs,Cocorahs station MN-WB-9 Lake City 0.9 E.,MNC157,Wabasha,M
-202406221300,2024/06/22 13:00,44.01,-96.33,2.8,FSD,R,RAIN,1 NNW Pipestone,Pipestone,MN,CO-OP Observer,3 day rainfall total.,MNC117,Pipestone,M
-202406221300,2024/06/22 13:00,44.02,-92.53,2.82,ARX,R,RAIN,3 WNW Rochester,Olmsted,MN,Cocorahs,Cocorahs station MN-OL-63 Rochester 2.4 WNW.,MNC109,Olmsted,M
-202406221300,2024/06/22 13:00,43.40,-90.39,3.0,ARX,R,RAIN,4 SSW Rockbridge,Richland,WI,Cocorahs,Cocorahs station WI-RL-6 Richland Center 4.0 N.,WIC103,Richland,M
-202406221300,2024/06/22 13:00,44.43,-92.27,3.1,ARX,R,RAIN,1 S Lake City,Wabasha,MN,Cocorahs,Cocorahs station MN-WB-17 Lake City 0.7 SE.,MNC157,Wabasha,M
-202406221300,2024/06/22 13:00,44.00,-95.95,3.21,FSD,R,RAIN,Lake Wilson,Murray,MN,CO-OP Observer,3 day rainfall total.,MNC101,Murray,M
-202406221300,2024/06/22 13:00,43.88,-92.22,3.43,ARX,R,RAIN,2 E Cummingsville,Olmsted,MN,Cocorahs,Cocorahs station MN-OL-79 Chatfield 2.7 NNW.,MNC109,Olmsted,M
-202406221300,2024/06/22 13:00,43.85,-92.30,3.5,ARX,R,RAIN,3 SW Cummingsville,Olmsted,MN,Public,,MNC109,Olmsted,M
-202406221300,2024/06/22 13:00,43.99,-92.47,3.52,ARX,R,RAIN,2 S Rochester,Olmsted,MN,Cocorahs,Cocorahs station MN-OL-109 Rochester 2.1 S.,MNC109,Olmsted,M
-202406221300,2024/06/22 13:00,44.07,-92.51,4.19,ARX,R,RAIN,4 NNW Rochester,Olmsted,MN,Cocorahs,Cocorahs station MN-OL-68 Rochester 3.9 NNW.,MNC109,Olmsted,M
-202406221300,2024/06/22 13:00,43.43,-98.49,4.61,FSD,R,RAIN,2 ESE Harrison,Douglas,SD,Cocorahs,3 day rainfall total. Cocorahs station SD-DG-12 Corsica 4.3 W.,SDC043,Douglas,M
-202406221300,2024/06/22 13:00,41.20,-98.45,4.7,GID,R,RAIN,1 SSE Saint Paul,Howard,NE,CO-OP Observer,CO-OP Observer station STPN1 Saint Paul.,NEC093,Howard,M
-202406221300,2024/06/22 13:00,44.29,-93.29,4.91,MPX,R,RAIN,1 W Faribault,Rice,MN,Cocorahs,72 hour rainfall total ending at 11AM June 22_ 2024. Cocorahs station MN-RC-52 Faribault 0.7 SW.,MNC131,Rice,M
-202406221300,2024/06/22 13:00,43.55,-97.50,5.25,FSD,R,RAIN,Bridgewater,McCook,SD,CO-OP Observer,3 day rainfall total.,SDC087,McCook,M
-202406221300,2024/06/22 13:00,43.66,-96.21,6.26,FSD,R,RAIN,Luverne,Rock,MN,Cocorahs,3 day rainfall total. Cocorahs station MN-RK-6 Luverne 0.6 NNE.,MNC133,Rock,M
-202406221300,2024/06/22 13:00,43.69,-92.39,6.5,ARX,R,RAIN,Spring Valley,Fillmore,MN,Public,,MNC045,Fillmore,M
-202406221300,2024/06/22 13:00,43.87,-95.12,7.97,FSD,R,RAIN,Windom,Cottonwood,MN,CO-OP Observer,3 day rainfall total.,MNC033,Cottonwood,M
-202406221300,2024/06/22 13:00,43.18,-95.65,8.61,FSD,R,RAIN,Sanborn,O'Brien,IA,Cocorahs,3 day rainfall total. Cocorahs station IA-OB-4 Sanborn 0.3 ENE.,IAC141,O'Brien,M
-202406221300,2024/06/22 13:00,43.45,-95.33,8.82,FSD,R,RAIN,Lake Park,Dickinson,IA,Cocorahs,3 day rainfall total. Cocorahs station IA-DK-6 Lake Park 0.2 N.,IAC059,Dickinson,M
-202406221300,2024/06/22 13:00,43.42,-96.28,10.08,FSD,R,RAIN,3 ESE Lester,Lyon,IA,Cocorahs,3 day rainfall total. Cocorahs station IA-LY-11 Rock Rapids 5.6 W.,IAC119,Lyon,M
-202406221300,2024/06/22 13:00,43.30,-96.60,13.1,FSD,R,RAIN,1 W Canton,Lincoln,SD,Cocorahs,3 day rainfall total. Cocorahs station SD-LN-43 Canton 1.2 W.,SDC083,Lincoln,M
-202406221301,2024/06/22 13:01,43.19,-96.12,6.79,FSD,R,RAIN,1 E Hull,Sioux,IA,Mesonet,Three day rain total from PWS.,IAC167,Sioux,M
-202406221302,2024/06/22 13:02,41.19,-97.98,4.2,GID,R,RAIN,5 N Central City,Merrick,NE,Public,,NEC121,Merrick,M
-202406221303,2024/06/22 13:03,43.28,-96.06,9.94,FSD,R,RAIN,5 SW George,Lyon,IA,Mesonet,Three day rainfall total from PWS.,IAC119,Lyon,M
-202406221305,2024/06/22 13:05,37.81,-107.66,0.5,GJT,R,RAIN,Silverton,San Juan,CO,CO-OP Observer,,COC111,San Juan,M
-202406221305,2024/06/22 13:05,43.22,-96.81,12.74,FSD,R,RAIN,8 SSW Worthing,Lincoln,SD,Mesonet,Three day storm total rainfall from PWS.,SDC083,Lincoln,M
-202406221309,2024/06/22 13:09,43.22,-96.92,11.99,FSD,R,RAIN,5 SE Davis,Lincoln,SD,Mesonet,Three day rainfall total from PWS.,SDC083,Lincoln,M
-202406221310,2024/06/22 13:10,44.06,-90.17,4.48,ARX,R,RAIN,2 N Cloverdale,Juneau,WI,Mesonet,Mesonet station NCHW3 NECEDAH NWR RY DAM NECEDAH 5 WNW WI US.,WIC057,Juneau,M
-202406221310,2024/06/22 13:10,43.11,-96.53,6.16,FSD,R,RAIN,4 WSW Hudson,Lincoln,SD,Mesonet,Three day rainfall total from PWS.,SDC083,Lincoln,M
-202406221310,2024/06/22 13:10,41.21,-98.42,6.9,GID,R,RAIN,2 ESE Saint Paul,Howard,NE,Public,Image of rain gauge on social media.,NEC093,Howard,E
-202406221312,2024/06/22 13:12,43.45,-96.41,10.02,FSD,R,RAIN,1 ESE Larchwood,Lyon,IA,Mesonet,Three day rainfall total from PWS.,IAC119,Lyon,M
-202406221313,2024/06/22 13:13,41.32,-98.86,4.9,GID,R,RAIN,2 NE Sherman Reservoir,Sherman,NE,Public,Social media report.,NEC163,Sherman,E
-202406221314,2024/06/22 13:14,43.41,-95.74,7.4,FSD,R,RAIN,1 NNE Sibley,Osceola,IA,Mesonet,Three day rainfall total from PWS.,IAC143,Osceola,M
-202406221315,2024/06/22 13:15,43.21,-91.10,0.01,ARX,R,RAIN,5 NW Eastman,Crawford,WI,CO-OP Observer,CO-OP Observer station LYNW3 2.8 E Harpers Ferry.,WIC023,Crawford,M
-202406221315,2024/06/22 13:15,43.57,-91.23,0.05,ARX,R,RAIN,Genoa,Vernon,WI,CO-OP Observer,CO-OP Observer station GENW3 Genoa Dam 8.,WIC123,Vernon,M
-202406221315,2024/06/22 13:15,43.96,-95.06,6.99,FSD,R,RAIN,2 SE Delft,Cottonwood,MN,Mesonet,Three day rainfall total from PWS.,MNC033,Cottonwood,M
-202406221316,2024/06/22 13:16,43.94,-94.93,8.44,FSD,R,RAIN,Mountain Lake,Cottonwood,MN,Mesonet,Three day storm total rainfall from PWS.,MNC033,Cottonwood,M
-202406221318,2024/06/22 13:18,43.01,-92.03,1.87,ARX,R,RAIN,1 ENE Alpha,Fayette,IA,Cocorahs,Cocorahs station IA-FY-3 Waucoma 3.2 S.,IAC065,Fayette,M
-202406221318,2024/06/22 13:18,41.32,-97.67,4.97,GID,R,RAIN,1 S Silver Creek,Merrick,NE,Mesonet,,NEC121,Merrick,M
-202406221318,2024/06/22 13:18,43.70,-95.72,6.75,FSD,R,RAIN,7 NE Rushmore,Nobles,MN,Mesonet,Three day storm total rainfall from PWS.,MNC105,Nobles,M
-202406221319,2024/06/22 13:19,44.30,-91.23,3.9,ARX,R,RAIN,Blair,Trempealeau,WI,Mesonet,Mesonet station TBLW3 Blair (IFLOWS).,WIC121,Trempealeau,M
-202406221319,2024/06/22 13:19,43.71,-95.98,8.18,FSD,R,RAIN,3 SSW Lismore,Nobles,MN,Mesonet,Three day storm total rainfall from PWS.,MNC105,Nobles,M
-202406221320,2024/06/22 13:20,44.42,-104.40,0.52,UNR,R,RAIN,2 NW Sundance,Crook,WY,CoCoRaHS,24-hour rainfall.,WYC011,Crook,M
-202406221321,2024/06/22 13:21,43.86,-97.45,8.74,FSD,R,RAIN,3 ESE Canova,Miner,SD,Mesonet,Three day storm total rainfall from PWS.,SDC097,Miner,M
-202406221323,2024/06/22 13:23,42.53,-94.18,3.06,DMX,R,RAIN,2 NNW Fort Dodge,Webster,IA,Mesonet,Mesonet station GW4516 FORT DODGE. 3.06 inches.,IAC187,Webster,M
-202406221323,2024/06/22 13:23,43.87,-97.10,8.64,FSD,R,RAIN,5 ESE Orland,Lake,SD,Mesonet,Three day rainfall totals from PWS.,SDC079,Lake,M
-202406221325,2024/06/22 13:25,43.40,-94.75,3.16,DMX,R,RAIN,2 WNW Gruver,Emmet,IA,ASOS,ASOS station KEST Estherville Airport. 3.16 inches.,IAC063,Emmet,M
-202406221325,2024/06/22 13:25,43.74,-97.11,6.33,FSD,R,RAIN,5 NE Montrose,Minnehaha,SD,Mesonet,Three day storm total from PWS.,SDC099,Minnehaha,M
-202406221325,2024/06/22 13:25,44.06,-90.54,None,ARX,E,FLOOD,4 NNE Tunnel City,Monroe,WI,Public,County M is covered with water.,WIC081,Monroe,
-202406221326,2024/06/22 13:26,43.65,-92.97,0.47,ARX,R,RAIN,1 S Austin,Mower,MN,CO-OP Observer,CO-OP Observer station ASTM5 Austin Waste Water Treatment Facility.,MNC099,Mower,M
-202406221326,2024/06/22 13:26,41.28,-97.67,4.22,GID,R,RAIN,4 S Silver Creek,Polk,NE,Public,Social media report.,NEC143,Polk,E
-202406221326,2024/06/22 13:26,44.19,-93.65,6.45,MPX,R,RAIN,1 SE Elysian,Waseca,MN,Cocorahs,72 hour rainfall total ending at 11AM June 22_ 2024. Cocorahs station MN-WC-19 Janesville 5.4 NNE.,MNC161,Waseca,M
-202406221328,2024/06/22 13:28,43.34,-91.64,1.94,ARX,R,RAIN,8 ENE Decorah,Winneshiek,IA,Cocorahs,Cocorahs station IA-WH-1 7 ENE Decorah.,IAC191,Winneshiek,M
-202406221330,2024/06/22 13:30,43.94,-91.41,1.05,ARX,R,RAIN,3 NE Nodine,Winona,MN,Mesonet,Mesonet station BSPM5 3 NE Nodine.,MNC169,Winona,M
-202406221330,2024/06/22 13:30,43.65,-92.98,1.41,ARX,R,RAIN,2 SSW Austin,Mower,MN,Mesonet,Mesonet station TRCM5 Austin 3 NW - Turtle Creek.,MNC099,Mower,M
-202406221330,2024/06/22 13:30,43.72,-91.98,1.74,ARX,R,RAIN,Lanesboro,Fillmore,MN,Mesonet,Mesonet station LNSM5 Lanesboro.,MNC045,Fillmore,M
-202406221330,2024/06/22 13:30,44.17,-92.55,2.1,ARX,R,RAIN,1 W Oronoco,Olmsted,MN,Mesonet,Mesonet station ONOM5 1 W Oronoco.,MNC109,Olmsted,M
-202406221330,2024/06/22 13:30,44.26,-92.49,2.16,ARX,R,RAIN,3 ESE Mazeppa,Wabasha,MN,Mesonet,Mesonet station ZPAM5 3 ESE Mazeppa.,MNC157,Wabasha,M
-202406221330,2024/06/22 13:30,43.90,-90.58,2.27,ARX,R,RAIN,5 NNE Norwalk,Monroe,WI,Cocorahs,Cocorahs station WI-MN-13 Tomah 7.5 SSW.,WIC081,Monroe,M
-202406221330,2024/06/22 13:30,44.06,-92.05,2.51,ARX,R,RAIN,3 SW Elba,Winona,MN,Mesonet,Mesonet station WWPM5 3 SW Elba.,MNC169,Winona,M
-202406221330,2024/06/22 13:30,44.01,-92.45,2.76,ARX,R,RAIN,2 ESE Rochester,Olmsted,MN,Mesonet,Mesonet station RBCM5 Rochester-Beltline Bear Creek.,MNC109,Olmsted,M
-202406221330,2024/06/22 13:30,43.75,-92.96,2.94,ARX,R,RAIN,1 ENE Lansing,Mower,MN,Mesonet,Mesonet station LANM5 Lansing - Cedar River.,MNC099,Mower,M
-202406221330,2024/06/22 13:30,44.02,-92.53,3.04,ARX,R,RAIN,3 W Rochester,Olmsted,MN,Mesonet,Mesonet station RCRM5 3 W Rochester.,MNC109,Olmsted,M
-202406221330,2024/06/22 13:30,44.03,-92.43,3.05,ARX,R,RAIN,3 ENE Rochester,Olmsted,MN,Mesonet,Mesonet station ROCM5 3 ENE Rochester.,MNC109,Olmsted,M
-202406221330,2024/06/22 13:30,44.05,-92.05,3.05,ARX,R,RAIN,3 SSW Elba,Winona,MN,Mesonet,Mesonet station WSPM5 Whitewater State Park.,MNC169,Winona,M
-202406221330,2024/06/22 13:30,43.08,-94.24,3.14,DMX,R,RAIN,1 NNW Algona,Kossuth,IA,Mesonet,Mesonet station 3044D Algona. 3.14 inches.,IAC109,Kossuth,M
-202406221330,2024/06/22 13:30,44.03,-92.47,3.43,ARX,R,RAIN,1 N Rochester,Olmsted,MN,Mesonet,Mesonet station RCCM5 Rochester-Cascade Creek.,MNC109,Olmsted,M
-202406221330,2024/06/22 13:30,43.04,-94.23,4.0,DMX,R,RAIN,2 S Algona,Kossuth,IA,Public,Public relayed_ via social media_ 4 inches of rainfall from yesterday evening and overnight.,IAC109,Kossuth,M
-202406221330,2024/06/22 13:30,44.00,-92.37,4.15,ARX,R,RAIN,1 WSW Chester,Olmsted,MN,Cocorahs,Cocorahs station MN-OL-84 Rochester 5.6 E.,MNC109,Olmsted,M
-202406221330,2024/06/22 13:30,43.23,-93.31,4.26,DMX,R,RAIN,5 SE Hanlontown,Cerro Gordo,IA,Mesonet,Mesonet station GW0743 Mason City. 4.26 inches.,IAC033,Cerro Gordo,M
-202406221330,2024/06/22 13:30,43.96,-92.68,5.06,ARX,R,RAIN,4 NW Rock Dell,Dodge,MN,Cocorahs,Cocorahs station MN-DD-30 Kasson 5.7 SE.,MNC039,Dodge,M
-202406221330,2024/06/22 13:30,43.76,-92.27,5.83,ARX,R,RAIN,1 NNW Fillmore,Fillmore,MN,Mesonet,Mesonet station FLMM5 1 NNW Fillmore.,MNC045,Fillmore,M
-202406221330,2024/06/22 13:30,42.96,-94.45,7.5,DMX,R,RAIN,1 ENE West Bend,Palo Alto,IA,Public,This is from Friday 6 am through 830am this morning. Public_ via social media_ relayed 7.5 inches rainfall.,IAC147,Palo Alto,M
-202406221332,2024/06/22 13:32,45.14,-90.20,2.09,ARX,R,RAIN,6 W Goodrich,Taylor,WI,Public,,WIC119,Taylor,M
-202406221333,2024/06/22 13:33,41.27,-98.55,5.5,GID,R,RAIN,1 SE Elba,Howard,NE,Public,Two social media reports close by.,NEC093,Howard,E
-202406221336,2024/06/22 13:36,41.32,-98.71,4.4,GID,R,RAIN,5 WSW Cotesfield,Howard,NE,Public,Image of rain gauge on social media.,NEC093,Howard,E
-202406221337,2024/06/22 13:37,44.08,-91.74,2.06,ARX,R,RAIN,1 SE Minnesota City,Winona,MN,Public,,MNC169,Winona,M
-202406221339,2024/06/22 13:39,46.52,-100.35,1.1,BIS,R,RAIN,4 NW Hazelton,Emmons,ND,CO-OP Observer,Storm total rainfall.,NDC029,Emmons,M
-202406221342,2024/06/22 13:42,41.39,-97.90,4.2,GID,R,RAIN,4 ENE Fullerton,Nance,NE,Public,Social media report.,NEC125,Nance,E
-202406221345,2024/06/22 13:45,43.11,-93.82,4.5,DMX,R,RAIN,1 NW Britt,Hancock,IA,Public,Public_ via social media_ relayed 4.50 inches of rain from yesterday evening and overnight.,IAC081,Hancock,M
-202406221350,2024/06/22 13:50,43.29,-93.28,3.18,DMX,R,RAIN,4 W Manly,Worth,IA,Public,Public_ via social media_ relayed rainfall amount of 3.18 inches from evening and overnight.,IAC195,Worth,M
-202406221350,2024/06/22 13:50,43.14,-93.37,5.0,DMX,R,RAIN,Clear Lake,Cerro Gordo,IA,Public,Public_ via social media_ relayed 5 inches of rain from yesterday evening and overnight.,IAC033,Cerro Gordo,M
-202406221350,2024/06/22 13:50,43.36,-93.77,5.1,DMX,R,RAIN,1 S Thompson,Winnebago,IA,Public,Public_ via social media_ relayed 5.10 inches of rain from yesterday evening and overnight.,IAC189,Winnebago,M
-202406221354,2024/06/22 13:54,43.34,-90.38,3.1,ARX,R,RAIN,Richland Center,Richland,WI,Public,,WIC103,Richland,M
-202406221354,2024/06/22 13:54,44.07,-91.23,4.5,ARX,R,RAIN,4 NW Stevenstown,Trempealeau,WI,Public,Cumulative event total so far.,WIC121,Trempealeau,M
-202406221359,2024/06/22 13:59,41.17,-98.14,4.3,GID,R,RAIN,Archer,Merrick,NE,Public,Image of rain gauge on social media.,NEC121,Merrick,M
-202406221400,2024/06/22 14:00,44.28,-101.91,0.66,UNR,R,RAIN,17 SW Milesville,Haakon,SD,CoCoRaHS,24-hour rainfall.,SDC055,Haakon,M
-202406221400,2024/06/22 14:00,45.78,-103.90,1.05,UNR,R,RAIN,9 WSW Ladner,Harding,SD,CoCoRaHS,24-hour rainfall.,SDC063,Harding,M
-202406221400,2024/06/22 14:00,44.66,-101.33,1.79,UNR,R,RAIN,9 N Kirley,Haakon,SD,CoCoRaHS,24-hour rainfall.,SDC055,Haakon,M
-202406221400,2024/06/22 14:00,43.49,-99.06,2.98,FSD,R,RAIN,Academy 2NE,Charles Mix,SD,CO-OP Observer,3 day rainfall total.,SDC023,Charles Mix,M
-202406221400,2024/06/22 14:00,42.93,-95.33,3.69,FSD,R,RAIN,1 NNE Peterson,Clay,IA,CO-OP Observer,3 day rainfall total.,IAC041,Clay,M
-202406221400,2024/06/22 14:00,43.42,-93.53,4.5,DMX,R,RAIN,Lake Mills,Winnebago,IA,Public,Public_ via social media_ relayed 4.5 inches rainfall from yesterday evening and overnight.,IAC189,Winnebago,M
-202406221400,2024/06/22 14:00,42.67,-92.36,5.0,DMX,R,RAIN,2 W Denver,Bremer,IA,Public,Public_ via social media_ relayed 5 inches rainfall from yesterday evening and overnight.,IAC017,Bremer,M
-202406221400,2024/06/22 14:00,43.99,-97.09,5.18,FSD,R,RAIN,1 SSE Madison,Lake,SD,CO-OP Observer,3 day rainfall total.,SDC079,Lake,M
-202406221400,2024/06/22 14:00,43.70,-97.19,5.79,FSD,R,RAIN,Montrose,McCook,SD,CO-OP Observer,3 day rainfall total.,SDC087,McCook,M
-202406221403,2024/06/22 14:03,41.16,-97.84,3.05,GID,R,RAIN,4 S Clarks,Hamilton,NE,Public,Personal weather station KNECLARK16.,NEC081,Hamilton,M
-202406221403,2024/06/22 14:03,44.12,-94.05,7.16,MPX,R,RAIN,1 SSW Skyline,Blue Earth,MN,Cocorahs,72 hour rainfall total ending at 11AM June 22_ 2024. Cocorahs station MN-BU-72 Mankato 4.8 SW.,MNC013,Blue Earth,M
-202406221410,2024/06/22 14:10,44.22,-88.78,2.4,GRB,R,RAIN,1 NNW Zittau,Winnebago,WI,CO-OP Observer,Storm total as of 9:10 am.,WIC139,Winnebago,M
-202406221414,2024/06/22 14:14,43.29,-94.22,5.25,DMX,R,RAIN,Bancroft,Kossuth,IA,Public,Public_ via social media_ relayed 5.25 inches of rain from yesterday evening and overnight.,IAC109,Kossuth,M
-202406221415,2024/06/22 14:15,44.16,-87.95,4.0,GRB,R,RAIN,1 ESE Reedsville,Manitowoc,WI,Public,Twitter/X report from public. Still raining steady at time of observation.,WIC071,Manitowoc,E
-202406221422,2024/06/22 14:22,44.02,-88.58,2.2,GRB,R,RAIN,1 NW Oshkosh,Winnebago,WI,Public,,WIC139,Winnebago,M
-202406221422,2024/06/22 14:22,41.21,-98.08,5.1,GID,R,RAIN,4 NE Archer,Merrick,NE,Public,Image of a rain gauge in social media.,NEC121,Merrick,E
-202406221424,2024/06/22 14:24,41.32,-98.63,5.5,GID,R,RAIN,2 S Cotesfield,Howard,NE,Public,Social media report.,NEC093,Howard,E
-202406221425,2024/06/22 14:25,44.28,-105.45,0.56,UNR,R,RAIN,3 E Dwtn Gillette,Campbell,WY,Mesonet,24-hour rainfall.,WYC005,Campbell,M
-202406221425,2024/06/22 14:25,44.35,-105.54,0.58,UNR,R,RAIN,5 NNW Dwtn Gillette,Campbell,SD,ASOS,24-hour rainfall.,SDC021,Campbell,M
-202406221425,2024/06/22 14:25,45.67,-102.17,0.61,UNR,R,RAIN,7 S Shadehill,Perkins,SD,Mesonet,24-hour rainfall.,SDC105,Perkins,M
-202406221425,2024/06/22 14:25,44.87,-102.57,0.63,UNR,R,RAIN,6 WSW Opal,Meade,SD,Mesonet,24-hour rainfall.,SDC093,Meade,M
-202406221425,2024/06/22 14:25,44.46,-105.84,0.65,UNR,R,RAIN,1 NE Echeta,Campbell,WY,Mesonet,24-hour rainfall.,WYC005,Campbell,M
-202406221425,2024/06/22 14:25,45.91,-102.92,0.66,UNR,R,RAIN,14 WNW Lodgepole,Perkins,SD,Mesonet,24-hour rainfall.,SDC105,Perkins,M
-202406221425,2024/06/22 14:25,44.99,-101.25,0.66,UNR,R,RAIN,1 WSW South Eagle Butte,Ziebach,SD,Mesonet,24-hour rainfall.,SDC137,Ziebach,M
-202406221425,2024/06/22 14:25,45.04,-102.02,0.74,UNR,R,RAIN,1 NNE Faith,Meade,SD,ASOS,24-hour rainfall.,SDC093,Meade,M
-202406221425,2024/06/22 14:25,43.98,-103.42,1.05,UNR,R,RAIN,2 ENE Sheridan Lake,Pennington,SD,Mesonet,24-hour rainfall.,SDC103,Pennington,M
-202406221425,2024/06/22 14:25,44.58,-104.72,1.25,UNR,R,RAIN,1 S Devils Tower,Crook,WY,Mesonet,24-hour rainfall.,WYC011,Crook,M
-202406221425,2024/06/22 14:25,44.57,-102.67,1.51,UNR,R,RAIN,Union Center,Meade,SD,Mesonet,24-hour rainfall.,SDC093,Meade,M
-202406221427,2024/06/22 14:27,43.98,-103.35,0.53,UNR,R,RAIN,2 NE Rockerville,Pennington,SD,Other Federal,24-hour rainfall.,SDC103,Pennington,M
-202406221427,2024/06/22 14:27,44.04,-103.50,0.63,UNR,R,RAIN,2 S Pactola Res,Pennington,SD,Other Federal,24-hour rainfall.,SDC103,Pennington,M
-202406221427,2024/06/22 14:27,43.97,-101.77,0.71,UNR,R,RAIN,7 E Cottonwood,Jackson,SD,Other Federal,24-hour rainfall.,SDC071,Jackson,M
-202406221427,2024/06/22 14:27,44.07,-101.16,1.26,UNR,R,RAIN,1 SW Midland,Haakon,SD,Other Federal,24-hour rainfall.,SDC055,Haakon,M
-202406221429,2024/06/22 14:29,41.18,-98.31,4.4,GID,R,RAIN,6 SW Palmer,Howard,NE,Public,Social media report.,NEC093,Howard,E
-202406221430,2024/06/22 14:30,44.13,-88.17,3.73,GRB,R,RAIN,1 WNW Hilbert,Calumet,WI,Mesonet,Storm total since yesterday. It was still raining at the time of the report.,WIC015,Calumet,M
-202406221430,2024/06/22 14:30,43.29,-96.81,17.83,FSD,R,RAIN,4 SW Worthing,Lincoln,SD,Mesonet,Three day rainfall total from PWS.,SDC083,Lincoln,M
-202406221430,2024/06/22 14:30,44.14,-88.16,None,GRB,E,FLOOD,1 NNW Hilbert,Calumet,WI,Law Enforcement,Water across a road in the Hilbert area. Report from Calumet County Sheriff.,WIC015,Calumet,
-202406221430,2024/06/22 14:30,44.12,-88.30,None,GRB,E,FLOOD,3 SSW High Cliff State,Calumet,WI,Law Enforcement,Water across road in Faro Springs area between High Cliff State Park and Stockbridge. Report from Calumet County Sheriff.,WIC015,Calumet,
-202406221431,2024/06/22 14:31,43.27,-96.73,17.48,FSD,R,RAIN,4 SSE Worthing,Lincoln,SD,Mesonet,Three day rainfall total from PWS.,SDC083,Lincoln,M
-202406221435,2024/06/22 14:35,37.43,-107.56,0.28,GJT,R,RAIN,4 NNE Vallecito,La Plata,CO,Trained Spotter,All fell between 5PM and 10PM on 6/21.,COC067,La Plata,M
-202406221436,2024/06/22 14:36,39.27,-108.93,0.5,GJT,R,RAIN,5 NW Mack,Mesa,CO,Trained Spotter,24 hour total.,COC077,Mesa,M
-202406221436,2024/06/22 14:36,44.15,-87.96,3.88,GRB,R,RAIN,1 SSE Reedsville,Manitowoc,WI,Mesonet,Storm total since yesterday. Still raining at the time of the report.,WIC071,Manitowoc,M
-202406221438,2024/06/22 14:38,40.97,-99.34,None,GID,E,FLOOD,4 NE Miller,Buffalo,NE,Fire Dept/Rescue,Several fences taken out from overnight flooding.,NEC019,Buffalo,
-202406221448,2024/06/22 14:48,44.21,-89.18,3.53,GRB,R,RAIN,4 NW Saxeville,Waushara,WI,Mesonet,Storm total so far as of 9:48 am.,WIC137,Waushara,M
-202406221451,2024/06/22 14:51,42.83,-91.79,2.7,ARX,R,RAIN,1 SSE Fayette,Fayette,IA,Public,,IAC065,Fayette,M
-202406221451,2024/06/22 14:51,44.18,-88.07,2.99,GRB,R,RAIN,1 WNW Brillion,Calumet,WI,Mesonet,Storm total since yesterday.,WIC015,Calumet,M
-202406221451,2024/06/22 14:51,42.96,-91.81,3.2,ARX,R,RAIN,West Union,Fayette,IA,Public,,IAC065,Fayette,M
-202406221451,2024/06/22 14:51,42.95,-91.95,None,ARX,F,FLASH FLOOD,1 N Hawkeye,Fayette,IA,Trained Spotter,Flash flooding from near Hawkeye to West Union. Numerous roads under water.,IAC065,Fayette,
-202406221500,2024/06/22 15:00,42.81,-95.98,1.66,FSD,R,RAIN,Remsen,Plymouth,IA,CO-OP Observer,3 day rainfall total.,IAC149,Plymouth,M
-202406221500,2024/06/22 15:00,43.51,-93.27,3.89,MPX,R,RAIN,4 S Glenville,Freeborn,MN,Mesonet,72 hour rainfall total ending at 11AM June 22_ 2024. Mesonet station GDVM5 4.2 S Glenville.,MNC047,Freeborn,M
-202406221500,2024/06/22 15:00,43.39,-93.94,4.0,DMX,R,RAIN,Buffalo Center,Winnebago,IA,Public,Public_ via social media_ relayed 4 inches rainfall from yesterday evening and overnight.,IAC189,Winnebago,M
-202406221500,2024/06/22 15:00,41.29,-98.52,6.2,GID,R,RAIN,3 E Elba,Howard,NE,Public,Social media report.,NEC093,Howard,E
-202406221500,2024/06/22 15:00,41.18,-97.60,None,GID,E,FLOOD,3 W Osceola,Polk,NE,NWS Employee,Davis Creek near Osceola is flooded with one lane closed on the highway west of town.,NEC143,Polk,
-202406221500,2024/06/22 15:00,41.03,-99.38,None,GID,E,FLOOD,7 N Miller,Buffalo,NE,Fire Dept/Rescue,Pictures of damaged private driveway near Highway 183 near the South Loup River. Reported that water was over the highway but has now receded.,NEC019,Buffalo,
-202406221500,2024/06/22 15:00,41.18,-97.56,None,GID,E,FLOOD,Osceola,Polk,NE,NWS Employee,Water over Highway near Osceola. Location adjusted from previous LSR.,NEC143,Polk,
-202406221504,2024/06/22 15:04,41.19,-98.49,4.75,GID,R,RAIN,2 SW Saint Paul,Howard,NE,Public,Social media report.,NEC093,Howard,E
-202406221527,2024/06/22 15:27,44.43,-88.11,1.74,GRB,R,RAIN,3 WSW De Pere,Brown,WI,Broadcast Media,1.34 inches this morning_ with an event total of 1.74 inches so far.,WIC009,Brown,M
-202406221535,2024/06/22 15:35,44.10,-94.10,7.17,MPX,R,RAIN,4 SW Skyline,Blue Earth,MN,CO-OP Observer,72 hour rainfall total ending at 11AM June 22_ 2024. CO-OP Observer station RAPM5 4.2 SW Skyline.,MNC013,Blue Earth,M
-202406221538,2024/06/22 15:38,44.03,-88.54,2.14,GRB,R,RAIN,2 NE Oshkosh,Winnebago,WI,Public,,WIC139,Winnebago,M
-202406221539,2024/06/22 15:39,42.72,-90.99,3.0,ARX,R,RAIN,Cassville,Grant,WI,Public,,WIC043,Grant,M
-202406221539,2024/06/22 15:39,43.16,-91.02,5.0,ARX,R,RAIN,Eastman,Crawford,WI,Public,since 1:30 pm Friday.,WIC023,Crawford,M
-202406221545,2024/06/22 15:45,43.31,-90.93,3.1,ARX,R,RAIN,Mount Sterling,Crawford,WI,Public,,WIC023,Crawford,M
-202406221545,2024/06/22 15:45,43.78,-93.99,5.01,MPX,R,RAIN,2 NE Delavan,Faribault,MN,Mesonet,72 hour rainfall total ending at 11AM June 22_ 2024. Mesonet station EW9447 Minnesota Lake.,MNC043,Faribault,M
-202406221546,2024/06/22 15:46,43.96,-91.26,1.75,ARX,R,RAIN,Holmen,La Crosse,WI,Public,,WIC063,La Crosse,M
-202406221546,2024/06/22 15:46,42.90,-75.16,None,ALY,T,TORNADO,1 N Hitching Corner,Herkimer,NY,NWS Storm Survey,,NYC043,Herkimer,
-202406221549,2024/06/22 15:49,43.97,-93.37,4.19,MPX,R,RAIN,1 SE Lemond,Steele,MN,Mesonet,72 hour rainfall total ending at 11AM June 22_ 2024. Mesonet station AV343 Hope.,MNC147,Steele,M
-202406221549,2024/06/22 15:49,44.06,-92.55,4.2,ARX,R,RAIN,3 SSE Douglas,Olmsted,MN,Public,,MNC109,Olmsted,M
-202406221550,2024/06/22 15:50,44.07,-91.71,2.8,ARX,R,RAIN,Goodview,Winona,MN,Trained Spotter,,MNC169,Winona,M
-202406221550,2024/06/22 15:50,44.05,-94.42,6.03,MPX,R,RAIN,Madelia,Watonwan,MN,Mesonet,72 hour rainfall total ending at 11AM June 22_ 2024. Mesonet station DW2182 Madelia.,MNC165,Watonwan,M
-202406221552,2024/06/22 15:52,44.05,-91.66,4.0,ARX,R,RAIN,Winona,Winona,MN,Public,,MNC169,Winona,M
-202406221555,2024/06/22 15:55,41.12,-97.68,2.8,GID,R,RAIN,4 W Stromsburg,Polk,NE,Public,Social media report.,NEC143,Polk,E
-202406221600,2024/06/22 16:00,44.46,-89.15,2.55,GRB,R,RAIN,Scandinavia,Waupaca,WI,Trained Spotter,12 hour rainfall amount from 11 pm last night to 11 am today.,WIC135,Waupaca,M
-202406221600,2024/06/22 16:00,44.09,-93.22,4.17,MPX,R,RAIN,1 NNE Owatonna,Steele,MN,Broadcast Media,72 hour rainfall total ending at 11AM June 22_ 2024. Relayed by KOWZ Radio.,MNC147,Steele,M
-202406221600,2024/06/22 16:00,44.21,-92.63,5.25,MPX,R,RAIN,1 ENE Pine Island,Goodhue,MN,Trained Spotter,72 hour rainfall total ending at 11AM June 22_ 2024.,MNC049,Goodhue,M
-202406221600,2024/06/22 16:00,43.98,-94.57,7.76,MPX,R,RAIN,3 E St. James,Watonwan,MN,AWOS,72 hour rainfall total ending at 11AM June 22_ 2024.,MNC165,Watonwan,M
-202406221600,2024/06/22 16:00,32.01,-80.84,None,CHS,P,RIP CURRENTS,1 NNE Tybee Island,Chatham,GA,Lifeguard,Two strong ongoing rip currents reported at the North Jetty and Taylor St beach.,GAC051,Chatham,
-202406221600,2024/06/22 16:00,41.25,-97.66,None,GID,E,FLOOD,6 S Silver Creek,Polk,NE,Fire Dept/Rescue,County dispatch relayed flooding on Hwy 39.,NEC143,Polk,
-202406221601,2024/06/22 16:01,43.76,-91.35,0.6,ARX,R,RAIN,Hokah,Houston,MN,Public,,MNC055,Houston,M
-202406221601,2024/06/22 16:01,43.04,-91.14,2.4,ARX,R,RAIN,Prairie Du Chien,Crawford,WI,Public,,WIC023,Crawford,M
-202406221601,2024/06/22 16:01,43.87,-93.04,4.5,ARX,R,RAIN,9 WNW Waltham,Dodge,MN,Public,,MNC039,Dodge,E
-202406221605,2024/06/22 16:05,43.86,-92.49,5.0,ARX,R,RAIN,Stewartville,Olmsted,MN,Public,,MNC109,Olmsted,M
-202406221605,2024/06/22 16:05,31.99,-80.85,None,CHS,P,RIP CURRENTS,1 SSE Tybee Island,Chatham,GA,Lifeguard,Tybee Island lifeguards report 10 to 12 strong ongoing rip currents between the pier and the south jetty.,GAC051,Chatham,
-202406221605,2024/06/22 16:05,32.00,-80.84,None,CHS,P,RIP CURRENTS,Tybee Island,Chatham,GA,Lifeguard,Tybee Island lifeguards report several strong ongoing rip currents between 6th St and 16th St.,GAC051,Chatham,
-202406221609,2024/06/22 16:09,43.80,-91.75,5.0,ARX,R,RAIN,1 S Rushford,Fillmore,MN,Public,,MNC045,Fillmore,M
-202406221610,2024/06/22 16:10,43.36,-90.74,3.0,ARX,R,RAIN,2 SSW Clayton,Crawford,WI,Public,,WIC023,Crawford,E
-202406221610,2024/06/22 16:10,31.99,-80.85,None,CHS,P,RIP CURRENTS,1 SSE Tybee Island,Chatham,GA,Lifeguard,Tybee Island lifeguards report one strong ongoing rip current at the 17th St beach.,GAC051,Chatham,
-202406221610,2024/06/22 16:10,41.36,-98.03,None,GID,E,FLOOD,3 W Fullerton,Nance,NE,County Official,Broadcast media relayed a report from the county supervisor of several flooded and damaged roads in the Fullerton area. One specific picture showed a flooded county road 3W of Fullerton.,NEC125,Nance,
-202406221615,2024/06/22 16:15,43.42,-96.16,5.03,FSD,R,RAIN,1 SSE Rock Rapids,Lyon,IA,CO-OP Observer,3 day rainfall total.,IAC119,Lyon,M
-202406221617,2024/06/22 16:17,44.09,-91.75,3.75,ARX,R,RAIN,Minnesota City,Winona,MN,Public,,MNC169,Winona,M
-202406221620,2024/06/22 16:20,44.39,-96.42,None,FSD,D,TSTM WND DMG,8 S Hendricks,Lincoln,MN,Emergency Mngr,Reports of several trees down and power lines near the intersection of county road 15 and 1. Damage extended slightly further east with minor property damage near the intersection of county highway 1,MNC081,Lincoln,
-202406221622,2024/06/22 16:22,44.16,-87.95,None,GRB,E,FLOOD,Reedsville,Manitowoc,WI,Law Enforcement,Reports of basement flooding in the Reedsville area_ but no road closures in Manitowoc County. Report from Manitowoc County Sheriff.,WIC071,Manitowoc,
-202406221624,2024/06/22 16:24,43.05,-92.95,2.2,ARX,R,RAIN,Rockford,Floyd,IA,Public,,IAC067,Floyd,M
-202406221625,2024/06/22 16:25,44.14,-88.18,None,GRB,E,FLOOD,1 SSE Saint John,Calumet,WI,Law Enforcement,Water over roads in the Hilbert area. High water signs placed on a half mile stretch of road near Hwy 114 and McHugh Road. Water over the road also reported in the Stockbridge area.,WIC015,Calumet,
-202406221630,2024/06/22 16:30,47.00,-109.87,2.4,TFX,R,RAIN,Hobson,Judith Basin,MT,Trained Spotter,2.4 inches of rain with thunderstorms yesterday. Includes melted hail.,MTC045,Judith Basin,M
-202406221631,2024/06/22 16:31,44.37,-92.05,3.9,ARX,R,RAIN,Wabasha,Wabasha,MN,Public,,MNC157,Wabasha,M
-202406221635,2024/06/22 16:35,42.80,-74.76,None,BGM,D,TSTM WND DMG,Cherry Valley,Otsego,NY,911 Call Center,Trees down.,NYC077,Otsego,
-202406221637,2024/06/22 16:37,43.72,-89.84,3.0,ARX,R,RAIN,1 W Plainville,Juneau,WI,Public,,WIC057,Juneau,M
-202406221642,2024/06/22 16:42,41.11,-74.77,None,PHI,D,TSTM WND DMG,1 NW Hampton Twp,Sussex,NJ,Fire Dept/Rescue,Tree down on wires along Branchville-Lawson Road. Time estimated from radar.,NJC037,Sussex,
-202406221646,2024/06/22 16:46,41.32,-98.71,3.35,GID,R,RAIN,5 WSW Cotesfield,Howard,NE,Public,A social media report.,NEC093,Howard,E
-202406221649,2024/06/22 16:49,41.23,-98.56,5.5,GID,R,RAIN,4 S Elba,Howard,NE,Public,Social media report.,NEC093,Howard,E
-202406221652,2024/06/22 16:52,41.39,-98.33,5.75,GID,R,RAIN,3 E Wolbach,Greeley,NE,Public,Social media report.,NEC077,Greeley,E
-202406221657,2024/06/22 16:57,41.16,-98.50,4.2,GID,R,RAIN,4 NE Dannebrog,Howard,NE,Public,Social media report.,NEC093,Howard,E
-202406221657,2024/06/22 16:57,41.16,-98.50,4.4,GID,R,RAIN,4 NE Dannebrog,Howard,NE,Public,Corrects previous rain report from 4 NE Dannebrog. Social media report.,NEC093,Howard,E
-202406221659,2024/06/22 16:59,44.39,-95.89,1.0,FSD,H,HAIL,Lynd,Lyon,MN,Trained Spotter,Quarter sized hail stripped a lot of leaves.,MNC083,Lyon,E
-202406221659,2024/06/22 16:59,44.39,-95.89,None,FSD,D,TSTM WND DMG,Lynd,Lyon,MN,Trained Spotter,Multiple trees blown down by winds estimated at 60 to 70 mph. Some downed trees had trunk diameters as large as 4 feet.,MNC083,Lyon,
-202406221700,2024/06/22 17:00,43.84,-92.19,6.6,ARX,R,RAIN,Chatfield,Fillmore,MN,Public,,MNC045,Fillmore,M
-202406221716,2024/06/22 17:16,43.05,-91.39,3.5,ARX,R,RAIN,Monona,Clayton,IA,Public,,IAC043,Clayton,M
-202406221718,2024/06/22 17:18,43.96,-91.66,4.0,ARX,R,RAIN,1 E Wilson,Winona,MN,Public,,MNC169,Winona,M
-202406221723,2024/06/22 17:23,44.22,-85.94,2.17,APX,R,RAIN,1 NE Wellston,Manistee,MI,Mesonet,Mesonet station WLLM4 Wellston. 24 hour total.,MIC101,Manistee,M
-202406221746,2024/06/22 17:46,44.66,-83.59,1.18,APX,R,RAIN,1 SSE Barton City,Alcona,MI,Mesonet,Mesonet station BCYM4 Barton City.,MIC001,Alcona,M
-202406221750,2024/06/22 17:50,41.13,-98.71,5.5,GID,R,RAIN,4 N Boelus,Howard,NE,Public,Social media report.,NEC093,Howard,E
-202406221752,2024/06/22 17:52,42.40,-73.58,None,ALY,D,TSTM WND DMG,Rock City,Columbia,NY,Amateur Radio,2 trees and wires down on Highland Road. One of the downed trees is at the intersection of Highland Road and Rock City Road.,NYC021,Columbia,
-202406221752,2024/06/22 17:52,40.84,-74.12,None,OKX,D,TSTM WND DMG,1 SSW Wallington,Bergen,NJ,Trained Spotter,large tree across Jackson Ave.,NJC003,Bergen,
-202406221756,2024/06/22 17:56,44.27,-86.25,1.41,APX,R,RAIN,2 E Parkdale,Manistee,MI,AWOS,6 hour rainfall total at AWOS station KMBL Manistee - Blacker Airport.,MIC101,Manistee,M
-202406221759,2024/06/22 17:59,44.33,-88.17,1.43,GRB,R,RAIN,Wrightstown,Brown,WI,Public,,WIC009,Brown,M
-202406221800,2024/06/22 18:00,44.23,-86.34,2.1,APX,R,RAIN,1 SSW Manistee,Manistee,MI,Mesonet,Mesonet station DW9113 Manistee. 24 hour total.,MIC101,Manistee,M
-202406221800,2024/06/22 18:00,44.23,-85.95,2.55,APX,R,RAIN,1 N Wellston,Manistee,MI,Trained Spotter,2.55 inches of rain observed over the last 24 hours 1 N Wellston as of 2pm.,MIC101,Manistee,M
-202406221800,2024/06/22 18:00,43.70,-96.75,8.06,FSD,R,RAIN,4 NE Crooks,Minnehaha,SD,Public,72 hour rainfall total.,SDC099,Minnehaha,M
-202406221805,2024/06/22 18:05,45.76,-84.52,1.19,APX,R,RAIN,3 NW Point Aux Pins on,Mackinac,MI,Mesonet,Mesonet station GW1094 Pointe Aux Pins.,MIC097,Mackinac,M
-202406221809,2024/06/22 18:09,42.32,-73.40,None,ALY,L,LIGHTNING,1 N West Stockbridge Ce,Berkshire,MA,Fire Dept/Rescue,Barn fire started by lightning.,MAC003,Berkshire,
-202406221815,2024/06/22 18:15,44.25,-84.18,1.22,APX,R,RAIN,3 SE West Branch,Ogemaw,MI,AWOS,AWOS station KY31 West Branch.,MIC129,Ogemaw,M
-202406221815,2024/06/22 18:15,42.26,-73.42,None,ALY,D,TSTM WND DMG,2 NNW Alford,Berkshire,MA,Amateur Radio,Report of a tree down on West Carter Road in West Stockbridge_ MA.,MAC003,Berkshire,
-202406221815,2024/06/22 18:15,42.30,-73.41,None,ALY,D,TSTM WND DMG,Camp Kingsmont,Berkshire,MA,Amateur Radio,Multiple trees down on West Alford Road at the West Stockbridge Town Line.,MAC003,Berkshire,
-202406221815,2024/06/22 18:15,42.34,-73.38,None,ALY,D,TSTM WND DMG,Crane Lake Camp,Berkshire,MA,Amateur Radio,Report of a tree down on Interstate 90 in the Westbound Lane.,MAC003,Berkshire,
-202406221815,2024/06/22 18:15,44.17,-92.00,None,ARX,E,FLOOD,5 N Elba,Winona,MN,Law Enforcement,Water over Hwy 74 south of Beaver.,MNC169,Winona,
-202406221820,2024/06/22 18:20,44.22,-91.99,None,ARX,E,FLOOD,6 WNW Minneiska,Wabasha,MN,Trained Spotter,Spotter reported water over County Rd 14.,MNC157,Wabasha,
-202406221821,2024/06/22 18:21,43.31,-91.79,2.0,ARX,R,RAIN,Decorah,Winneshiek,IA,Public,,IAC191,Winneshiek,M
-202406221822,2024/06/22 18:22,43.56,-90.89,4.25,ARX,R,RAIN,Viroqua,Vernon,WI,Public,,WIC123,Vernon,M
-202406221825,2024/06/22 18:25,42.25,-73.36,None,ALY,D,TSTM WND DMG,Housatonic,Berkshire,MA,Public,Tree down on house.,MAC003,Berkshire,
-202406221830,2024/06/22 18:30,36.18,-106.20,None,ABQ,E,FLOOD,1 WNW Medanales,Rio Arriba,NM,Public,The Rio Chama is blocked with sand_ and the water is creating a new channel and washing away the soli and affecting more than a dozen farms. Area affected is a mile north of State Road 233. Time is o,NMC039,Rio Arriba,
-202406221830,2024/06/22 18:30,42.29,-73.33,None,ALY,D,TSTM WND DMG,Glendale,Berkshire,MA,Amateur Radio,One tree and wires down on Butler Road in Stockbridge_ MA.,MAC003,Berkshire,
-202406221838,2024/06/22 18:38,41.11,-98.53,None,GID,E,FLOOD,1 SE Dannebrog,Howard,NE,Emergency Mngr,Water is just starting to spill across HWY 58 through Dannebrog.,NEC093,Howard,
-202406221838,2024/06/22 18:38,41.11,-98.55,None,GID,E,FLOOD,1 SW Dannebrog,Howard,NE,Emergency Mngr,Corrects previous flood report from 1 SE Dannebrog. Water is just starting to spill across HWY 58 through Dannebrog.,NEC093,Howard,
-202406221850,2024/06/22 18:50,40.57,-74.64,0.25,PHI,H,HAIL,Raritan,Somerset,NJ,Trained Spotter,Pea size hail.,NJC035,Somerset,M
-202406221853,2024/06/22 18:53,42.11,-73.24,None,ALY,D,TSTM WND DMG,1 NW Southfield,Berkshire,MA,Amateur Radio,Report of power lines and a tree down in Russel near Carrington Road.,MAC003,Berkshire,
-202406221856,2024/06/22 18:56,41.54,-75.53,None,BGM,D,TSTM WND DMG,Mayfield,Lackawanna,PA,911 Call Center,Trees and Wires down.,PAC069,Lackawanna,
-202406221856,2024/06/22 18:56,41.34,-75.53,None,BGM,D,TSTM WND DMG,Moscow,Lackawanna,PA,911 Call Center,Trees/Wires down.,PAC069,Lackawanna,
-202406221900,2024/06/22 19:00,28.43,-81.33,39.0,MLB,N,NON-TSTM WND GST,1 WSW Orlando Internati,Orange,FL,Mesonet,Delayed report. The Mesonet station (2040W Fswn) at the Orlando International Airport measured a wind gust of 39MPH/34KTS from the southeast.,FLC095,Orange,M
-202406221900,2024/06/22 19:00,41.85,-73.55,None,ALY,D,TSTM WND DMG,Amenia,Dutchess,NY,Social Media,Trees down on Sharon Station Road.,NYC027,Dutchess,
-202406221909,2024/06/22 19:09,40.59,-74.63,None,PHI,D,TSTM WND DMG,Bridgewater,Somerset,NJ,911 Call Center,Report of several trees and wires down in Bridgewater_ NJ. Time estimated from radar.,NJC035,Somerset,
-202406221910,2024/06/22 19:10,40.61,-74.63,0.25,PHI,H,HAIL,2 N Bridgewater,Somerset,NJ,Cocorahs,Pea size hail.,NJC035,Somerset,M
-202406221910,2024/06/22 19:10,40.58,-74.62,None,PHI,D,TSTM WND DMG,1 N Somerville,Somerset,NJ,911 Call Center,Multiple reports of trees and wires down in the Somerville_ Manville_ and Bridgewater Areas. Time estimated from radar.,NJC035,Somerset,
-202406221918,2024/06/22 19:18,44.12,-84.93,None,GRR,D,TSTM WND DMG,2 SW Leota,Clare,MI,Emergency Mngr,Several downed trees with power outages.,MIC035,Clare,
-202406221920,2024/06/22 19:20,40.58,-74.52,None,PHI,D,TSTM WND DMG,1 NNE Bound Brook,Somerset,NJ,911 Call Center,Multiple reports of trees down in Middlesex Borough on the Somerset County side. Time estimated from radar.,NJC035,Somerset,
-202406221920,2024/06/22 19:20,40.58,-74.50,None,PHI,D,TSTM WND DMG,Middlesex,Middlesex,NJ,911 Call Center,Report of trees and wires down in Middlesex Borough. Time estimated from radar.,NJC023,Middlesex,
-202406221923,2024/06/22 19:23,40.63,-74.25,None,OKX,D,TSTM WND DMG,1 WNW Linden,Union,NJ,Newspaper,Multiple downed trees reported to media.,NJC039,Union,
-202406221924,2024/06/22 19:24,43.90,-93.50,None,MPX,D,TSTM WND DMG,New Richland,Waseca,MN,Trained Spotter,Photos of large tree branches down across town and several trees snapped near their base. Noted branches down on homes and power lines down. Time estimated via radar.,MNC161,Waseca,
-202406221925,2024/06/22 19:25,43.89,-93.49,None,MPX,D,TSTM WND DMG,New Richland,Waseca,MN,Storm Chaser,Chaser reported several uprooted trees in New Richland. Noted that the winds were likely below severe criteria but the recent excessive rainfall caused the trees to uproot easier.,MNC161,Waseca,
-202406221935,2024/06/22 19:35,42.11,-72.41,None,BOX,D,TSTM WND DMG,2 SE Wilbraham,Hampden,MA,Fire Dept/Rescue,trees down along Monson Rd. One tree onto a house with minor damage. Relayed by Amateur Radio. Time estimated by radar.,MAC013,Hampden,
-202406221935,2024/06/22 19:35,42.06,-72.42,None,BOX,D,TSTM WND DMG,Hampden,Hampden,MA,Fire Dept/Rescue,trees down on dozens of roads throughout town. Time estimated from radar.,MAC013,Hampden,
-202406221935,2024/06/22 19:35,42.11,-72.41,None,BOX,D,TSTM WND DMG,Wilbraham,Hampden,MA,Fire Dept/Rescue,Updated information - south portion of town more impacted. Several homes along Monson Rd with trees onto their roof. 1 with significant damage with tree going through the roof. Time estimated by rada,MAC013,Hampden,
-202406221939,2024/06/22 19:39,40.58,-74.22,None,PHI,D,TSTM WND DMG,Carteret,Middlesex,NJ,Public,Late report. Caller reported numerous trees down in Carteret. Radar indicated microburst. Time estimated from radar.,NJC023,Middlesex,
-202406221941,2024/06/22 19:41,40.50,-74.26,39.0,OKX,M,MARINE TSTM WIND,Perth Amboy,Richmond,NY,Mesonet,,NYC085,Richmond,M
-202406221950,2024/06/22 19:50,41.97,-72.24,None,BOX,D,TSTM WND DMG,Stafford,Tolland,CT,Public,half of a large tree fell onto a house on South Rd.,CTC013,Tolland,
-202406221950,2024/06/22 19:50,41.99,-72.26,None,BOX,D,TSTM WND DMG,Staffordville,Tolland,CT,Public,photo of large limbs downed along with a broken power pole. time estimated from radar.,CTC013,Tolland,
-202406221955,2024/06/22 19:55,41.67,-72.60,1.5,BOX,H,HAIL,South Glastonbury,Hartford,CT,Public,video of ping pong size hail on social media.,CTC003,Hartford,E
-202406221955,2024/06/22 19:55,41.97,-72.23,None,BOX,D,TSTM WND DMG,Union,Tolland,CT,Trained Spotter,Multiple trees down along Rte 190. Time estimated from radar.,CTC013,Tolland,
-202406221958,2024/06/22 19:58,41.67,-72.66,1.0,BOX,H,HAIL,Rocky Hill,Hartford,CT,Public,Report from mPING - Quarter size hail.,CTC003,Hartford,E
-202406222000,2024/06/22 20:00,34.04,-77.90,None,ILM,P,RIP CURRENTS,Carolina Beach,New Hanover,NC,Lifeguard,Numerous rip current rescues reported at New Hanover county beaches today. 33 people rescued at Carolina Beach_ approximately 20 at Kure Beach_ and 6 at Wrightsville Beach.,NCC129,New Hanover,
-202406222005,2024/06/22 20:05,41.93,-72.09,None,BOX,D,TSTM WND DMG,Woodstock Valley,Windham,CT,Fire Dept/Rescue,tree/wires down along Rt 171 and Rt 198. Relayed by amateur radio. Time estimated from radar.,CTC015,Windham,
-202406222005,2024/06/22 20:05,40.02,-108.10,None,GJT,F,FLASH FLOOD,11 WSW Meeker,Rio Blanco,CO,Dept of Highways,Colorado Highway 64 was closed due to flooding and mudslide around mile marker 65.,COC103,Rio Blanco,
-202406222006,2024/06/22 20:06,41.69,-73.18,None,ALY,D,TSTM WND DMG,East Morris,Litchfield,CT,911 Call Center,Several trees down in Morris,CTC005,Litchfield,
-202406222008,2024/06/22 20:08,44.76,-86.06,1.06,APX,R,RAIN,4 S Empire,Benzie,MI,Mesonet,Mesonet station SBDM4 Bear.,MIC019,Benzie,M
-202406222008,2024/06/22 20:08,41.60,-72.53,None,OKX,D,TSTM WND DMG,3 NW East Hampton,Middlesex,CT,Public,Photos showing numerous trees down with wires.,CTC007,Middlesex,
-202406222008,2024/06/22 20:08,40.37,-74.08,None,PHI,D,TSTM WND DMG,1 NW Red Bank,Monmouth,NJ,Public,Report from mPING: 1-inch tree limbs broken.,NJC025,Monmouth,
-202406222010,2024/06/22 20:10,41.61,-72.52,None,OKX,D,TSTM WND DMG,3 NNW East Hampton,Middlesex,CT,Public,photos and video of numerous trees and wires down at a campground will trees causing damage to several RVs.,CTC007,Middlesex,
-202406222012,2024/06/22 20:12,40.47,-74.01,62.0,PHI,G,TSTM WND GST,Sandy Hook,Monmouth,NJ,Other Federal,A 62 mph thunderstorm wind gust measured at the Sandy Hook NOS weather station.,NJC025,Monmouth,M
-202406222015,2024/06/22 20:15,41.85,-72.01,None,BOX,D,TSTM WND DMG,Pomfret,Windham,CT,Fire Dept/Rescue,tree/wires down on Hampton Rd. Relayed by Amateur radio. Time estimated from radar.,CTC015,Windham,
-202406222016,2024/06/22 20:16,40.43,-73.99,None,PHI,D,TSTM WND DMG,2 NE Monmouth Hills,Monmouth,NJ,Public,Report from mPING: Trees uprooted or snapped.,NJC025,Monmouth,
-202406222017,2024/06/22 20:17,41.58,-72.51,1.25,OKX,H,HAIL,1 NW East Hampton,Middlesex,CT,Public,Video of half dollar size hail on social media.,CTC007,Middlesex,E
-202406222017,2024/06/22 20:17,41.58,-72.51,1.75,OKX,H,HAIL,1 NW East Hampton,Middlesex,CT,Public,Corrects previous hail report from 1 NW East Hampton. Video of half dollar size hail on social media and photo of golf ball size hail.,CTC007,Middlesex,E
-202406222017,2024/06/22 20:17,44.11,-84.35,None,APX,D,TSTM WND DMG,4 ENE Hockaday,Gladwin,MI,Emergency Mngr,Report of trees and wires down on Cedar Lake Road. Possible tornado. Time estimated by radar.,MIC051,Gladwin,
-202406222023,2024/06/22 20:23,40.34,-73.99,46.0,PHI,M,MARINE TSTM WIND,1 NW Monmouth Beach,ANZ450,NJ,Mesonet,XMNB-Monmouth gusted to 40 kt.,ANZ450,Coastal waters from Sandy Hook to Manasquan Inlet NJ out 20 nm,M
-202406222024,2024/06/22 20:24,44.10,-84.27,None,APX,D,TSTM WND DMG,7 E Hockaday,Gladwin,MI,Emergency Mngr,Report of wires down relayed by Gladwin County EM. Tornado possible. Time estimated by radar.,MIC051,Gladwin,
-202406222024,2024/06/22 20:24,44.12,-84.29,None,APX,D,TSTM WND DMG,7 ENE Hockaday,Gladwin,MI,Emergency Mngr,Trees and wires down on Bench Road. Possible tornado. Time estimated by radar.,MIC051,Gladwin,
-202406222024,2024/06/22 20:24,44.12,-84.27,None,APX,D,TSTM WND DMG,7 W Alger,Gladwin,MI,NWS Employee,Report of trees down over Wildwood Road in northeastern Gladwin County. Possible tornado. Time estimated by radar.,MIC051,Gladwin,
-202406222024,2024/06/22 20:24,44.11,-84.27,None,APX,D,TSTM WND DMG,7 W Alger,Gladwin,MI,Public,Large tree branches downed onto wires one mile north of the Bourret Township Fire Hall. Possible tornado. Time estimated by radar.,MIC051,Gladwin,
-202406222025,2024/06/22 20:25,40.41,-74.03,None,PHI,D,TSTM WND DMG,1 ESE Atlantic Highland,Monmouth,NJ,911 Call Center,Numerous trees blown down across NE Monmouth County from Port Monmouth to the Highlands. Time estimated from radar.,NJC025,Monmouth,
-202406222026,2024/06/22 20:26,41.57,-73.05,None,OKX,D,TSTM WND DMG,1 NW Waterbury,New Haven,CT,Law Enforcement,Downed tree on Willow St.,CTC009,New Haven,
-202406222026,2024/06/22 20:26,41.63,-72.64,None,OKX,D,TSTM WND DMG,2 NNW Cromwell,Middlesex,CT,Law Enforcement,**3 INJ** first responders identified a tree struck by lightning and 3 patients near the strike. EMS crew treated two patients who were transported to area hospitals for further evaluation_ and one p,CTC007,Middlesex,
-202406222026,2024/06/22 20:26,41.63,-72.64,None,OKX,L,LIGHTNING,2 NNW Cromwell,Middlesex,CT,Law Enforcement,Corrects previous tstm wnd dmg report from 2 NNW Cromwell. **3 INJ** first responders identified a tree struck by lightning and 3 patients near the strike. EMS crew treated two patients who were tran,CTC007,Middlesex,
-202406222032,2024/06/22 20:32,41.55,-72.97,1.0,OKX,H,HAIL,3 ESE Waterbury,New Haven,CT,Trained Spotter,Near Crosby High School.,CTC009,New Haven,M
-202406222032,2024/06/22 20:32,44.68,-84.13,1.79,APX,R,RAIN,1 N Mio,Oscoda,MI,Mesonet,Mesonet station MMOM4 Mio.,MIC135,Oscoda,M
-202406222036,2024/06/22 20:36,44.13,-84.12,None,APX,D,TSTM WND DMG,1 N Alger,Arenac,MI,Emergency Mngr,Arenac County EM reports damage in and around the town of Alger. Possible tornado. Time estimated by radar.,MIC011,Arenac,
-202406222040,2024/06/22 20:40,46.31,-105.03,1.87,BYZ,R,RAIN,4 SE Knowlton,Custer,MT,Mesonet,Mesonet station KTFM8 Knowlton.,MTC017,Custer,M
-202406222043,2024/06/22 20:43,44.13,-84.09,None,APX,D,TSTM WND DMG,2 ENE Alger,Arenac,MI,Emergency Mngr,Arenac County Emergency Manager reports damage in and around the community surrounding Forest Lake. Possible tornado. Time estimated by radar.,MIC011,Arenac,
-202406222045,2024/06/22 20:45,41.51,-72.96,1.5,OKX,H,HAIL,3 W Cheshire,New Haven,CT,Public,photo of ping pong ball sized hail.,CTC009,New Haven,M
-202406222046,2024/06/22 20:46,41.12,-98.55,None,GID,E,FLOOD,Dannebrog,Howard,NE,Emergency Mngr,Sand bags are starting to be laid down across HWY 51 through Dannebrog.,NEC093,Howard,
-202406222048,2024/06/22 20:48,40.98,-77.82,None,CTP,D,TSTM WND DMG,3 NNW Milesburg,Centre,PA,Emergency Mngr,Trees snapped and uprooted between 1200 and 1600 block Moose Run Rd. Powerlines down.,PAC027,Centre,
-202406222050,2024/06/22 20:50,38.53,-107.92,0.25,GJT,H,HAIL,4 NW Montrose,Montrose,CO,Trained Spotter,,COC085,Montrose,M
-202406222050,2024/06/22 20:50,43.67,-92.98,None,ARX,E,FLOOD,Austin,Mower,MN,Broadcast Media,Street flooding reported in downtown Austin. Reported by KAAL.,MNC099,Mower,
-202406222050,2024/06/22 20:50,41.54,-72.95,None,OKX,D,TSTM WND DMG,3 NW Cheshire,New Haven,CT,Trained Spotter,Large tree across road near Hwy 70 & Waterbury Rd.,CTC009,New Haven,
-202406222100,2024/06/22 21:00,40.29,-76.96,None,CTP,D,TSTM WND DMG,1 W Enola,Cumberland,PA,911 Call Center,Trees down between Pine Hill Rd and Wertzville Rd.,PAC041,Cumberland,
-202406222100,2024/06/22 21:00,40.25,-76.97,None,CTP,D,TSTM WND DMG,2 NNW Shiremanstown,Cumberland,PA,911 Call Center,Tree down on 500 block Good Hope Rd.,PAC041,Cumberland,
-202406222101,2024/06/22 21:01,44.13,-84.12,1.4,APX,R,RAIN,1 NNW Alger,Arenac,MI,Mesonet,Mesonet station AGRM4 Alger.,MIC011,Arenac,M
-202406222105,2024/06/22 21:05,31.99,-80.85,None,CHS,P,RIP CURRENTS,1 SSE Tybee Island,Chatham,GA,Lifeguard,Tybee Island lifeguards reported 2 rip currents ongoing between the pier and 15th Street. One went out 5 yards; the other went out 10 yards.,GAC051,Chatham,
-202406222105,2024/06/22 21:05,31.99,-80.85,None,CHS,P,RIP CURRENTS,1 S Tybee Island,Chatham,GA,Lifeguard,Tybee Island lifeguards reported 2 rip currents ongoing between 18th and 19th Street. One went out 60 yards; the other went out 25 yards.,GAC051,Chatham,
-202406222105,2024/06/22 21:05,32.02,-80.84,None,CHS,P,RIP CURRENTS,2 NNE Tybee Island,Chatham,GA,Lifeguard,Tybee Island lifeguards reported 4 to 5 rip currents ongoing between Taylor Street and North Jetty. The rips near Taylor Street went out 30-40 yards.,GAC051,Chatham,
-202406222105,2024/06/22 21:05,40.25,-76.93,None,CTP,D,TSTM WND DMG,1 NNW Camp Hill,Cumberland,PA,911 Call Center,Tree down on wires on Rathton Rd.,PAC041,Cumberland,
-202406222106,2024/06/22 21:06,32.25,-110.83,None,TWC,F,FLASH FLOOD,5 NE Tucson,Pima,AZ,Public,Swift water rescue.,AZC019,Pima,
-202406222107,2024/06/22 21:07,40.23,-76.88,None,CTP,D,TSTM WND DMG,New Cumberland,Cumberland,PA,Public,Tree down on property along 16th St.,PAC041,Cumberland,
-202406222108,2024/06/22 21:08,41.16,-74.07,None,OKX,D,TSTM WND DMG,1 ENE Wesley Hills,Rockland,NY,Dept of Highways,Tree down at Hwy 306 & Pearl Dr.,NYC087,Rockland,
-202406222110,2024/06/22 21:10,43.77,-93.17,None,MPX,F,FLASH FLOOD,2 ENE Hollandale,Freeborn,MN,Emergency Mngr,County roads washed out.,MNC047,Freeborn,
-202406222110,2024/06/22 21:10,43.67,-93.63,None,MPX,F,FLASH FLOOD,3 W Alden,Freeborn,MN,Emergency Mngr,County Road 61 washed out near intersection with I-90.,MNC047,Freeborn,
-202406222110,2024/06/22 21:10,28.11,-82.46,None,TBW,D,TSTM WND DMG,2 SSE Lutz,Hillsborough,FL,Broadcast Media,Pictures were received showing a large tree down in Lutz. Time was estimated from radar.,FLC057,Hillsborough,
-202406222113,2024/06/22 21:13,45.34,-84.01,1.36,APX,R,RAIN,2 ENE Millersburg,Presque Isle,MI,Mesonet,Mesonet station TT808 Big Cut.,MIC141,Presque Isle,M
-202406222113,2024/06/22 21:13,44.50,-85.69,1.71,APX,R,RAIN,1 WSW Buckley,Wexford,MI,Mesonet,Mesonet station TT809 Buckley.,MIC165,Wexford,M
-202406222114,2024/06/22 21:14,41.36,-72.84,None,OKX,D,TSTM WND DMG,2 SSE North Haven,New Haven,CT,Law Enforcement,Corrects previous tstm wnd dmg report from 2 SSE North Haven. Tree down with wires on middletown ave in North Haven.,CTC009,New Haven,
-202406222115,2024/06/22 21:15,44.74,-85.71,1.26,APX,R,RAIN,5 NNW Grawn,Grand Traverse,MI,Mesonet,Mesonet station GW3308 Traverse City.,MIC055,Grand Traverse,M
-202406222116,2024/06/22 21:16,32.23,-110.87,None,TWC,F,FLASH FLOOD,3 NNE Tucson,Pima,AZ,Public,Swift water rescue.,AZC019,Pima,
-202406222118,2024/06/22 21:18,41.48,-73.32,None,OKX,D,TSTM WND DMG,5 N Newtown,New Haven,CT,Law Enforcement,downed tree on Sachem Rd.,CTC009,New Haven,
-202406222120,2024/06/22 21:20,45.02,-84.68,1.02,APX,R,RAIN,1 SSW Gaylord,Otsego,MI,ASOS,ASOS station KGLR Gaylord - Otsego County Airport.,MIC137,Otsego,M
-202406222123,2024/06/22 21:23,44.22,-85.94,2.74,APX,R,RAIN,1 NE Wellston,Manistee,MI,Mesonet,Mesonet station WLLM4 Wellston.,MIC101,Manistee,M
-202406222123,2024/06/22 21:23,27.77,-82.63,39.0,TBW,G,TSTM WND GST,2 ENE Saint Petersburg,Pinellas,FL,ASOS,ASOS station KSPG St Petersburg - Albert Whitted.,FLC103,Pinellas,M
-202406222124,2024/06/22 21:24,39.23,-106.87,49.0,GJT,N,NON-TSTM WND GST,3 NW Aspen,Pitkin,CO,ASOS,ASOS report. Direction was southwest.,COC097,Pitkin,M
-202406222125,2024/06/22 21:25,40.95,-74.24,None,OKX,D,TSTM WND DMG,1 NE Wayne,Passaic,NJ,Law Enforcement,Downed trees reported by Wayne PD.,NJC031,Passaic,
-202406222125,2024/06/22 21:25,41.42,-73.16,None,OKX,D,TSTM WND DMG,2 W Oxford,New Haven,CT,Dept of Highways,Route 188 CLOSED between Hogsback Road & Captain Wooster Road because of wires and poles down.,CTC009,New Haven,
-202406222127,2024/06/22 21:27,45.51,-84.12,1.1,APX,R,RAIN,2 NNW Huron Beach,Presque Isle,MI,Mesonet,Mesonet station FW7517 Millersburg.,MIC141,Presque Isle,M
-202406222129,2024/06/22 21:29,44.96,-85.65,1.43,APX,R,RAIN,1 S Suttons Bay,Leelanau,MI,Mesonet,Mesonet station FW9533 Suttons Bay.,MIC089,Leelanau,M
-202406222130,2024/06/22 21:30,44.73,-85.57,1.09,APX,R,RAIN,2 SE Traverse City,Grand Traverse,MI,ASOS,ASOS station KTVC Traverse City - Cherry Capital Airport.,MIC055,Grand Traverse,M
-202406222131,2024/06/22 21:31,40.22,-76.81,None,CTP,D,TSTM WND DMG,1 SE Steelton,Dauphin,PA,Fire Dept/Rescue,Tree down on 2200 block S Front St partially blocking roadway.,PAC043,Dauphin,
-202406222134,2024/06/22 21:34,42.62,-92.46,None,DMX,C,FUNNEL CLOUD,1 S Janesville,Black Hawk,IA,Emergency Mngr,Funnel cloud near Highway 218 approaching the Bremer County line.,IAC013,Black Hawk,
-202406222140,2024/06/22 21:40,44.72,-85.99,1.51,APX,R,RAIN,4 NNE Honor,Benzie,MI,Trained Spotter,Observed rainfall since 12am at 4 NNE Honor.,MIC019,Benzie,M
-202406222140,2024/06/22 21:40,32.25,-110.91,None,TWC,F,FLASH FLOOD,4 NNW Tucson,Pima,AZ,Park/Forest Srvc,Wildland Firefighter reported street flooding with flow over curbs and up to the height of the fire hydrant. Washes are flowing bankfull.,AZC019,Pima,
-202406222141,2024/06/22 21:41,32.26,-110.94,None,TWC,F,FLASH FLOOD,5 NW Tucson,Pima,AZ,Public,Reported by Trained Spotter. Flooding in roadways_ slow traffic limited to single lane.,AZC019,Pima,
-202406222142,2024/06/22 21:42,41.20,-76.81,None,CTP,D,TSTM WND DMG,1 W Muncy,Lycoming,PA,911 Call Center,Trees down on the train tracks along Rt 405 in Muncy Township.,PAC081,Lycoming,
-202406222142,2024/06/22 21:42,32.24,-110.90,None,TWC,F,FLASH FLOOD,3 N Tucson,Pima,AZ,Public,Swift water rescue.,AZC019,Pima,
-202406222142,2024/06/22 21:42,32.26,-110.93,None,TWC,F,FLASH FLOOD,5 NNW Tucson,Pima,AZ,Public,Swift water rescue.,AZC019,Pima,
-202406222144,2024/06/22 21:44,32.21,-110.96,None,TWC,F,FLASH FLOOD,4 W Tucson,Pima,AZ,Public,Swift water rescue.,AZC019,Pima,
-202406222145,2024/06/22 21:45,41.19,-76.88,None,CTP,D,TSTM WND DMG,1 NNW Montgomery,Lycoming,PA,Trained Spotter,Reported Power Outages_ wire down on road and multiple trees down.,PAC081,Lycoming,
-202406222145,2024/06/22 21:45,32.27,-110.96,None,TWC,F,FLASH FLOOD,7 NW Tucson,Pima,AZ,NWS Employee,NWS employee reports flooding in the streets and flow over low water crossings. Water is above the curb.,AZC019,Pima,
-202406222149,2024/06/22 21:49,44.36,-84.67,1.51,APX,R,RAIN,Roscommon County Airpor,Roscommon,MI,Public,24 hour total at KHTL - Houghton Lake - Roscommon County Airport.,MIC143,Roscommon,M
-202406222149,2024/06/22 21:49,32.24,-110.92,None,TWC,F,FLASH FLOOD,3 NNW Tucson,Pima,AZ,Public,Swift water rescue.,AZC019,Pima,
-202406222150,2024/06/22 21:50,41.21,-76.79,None,CTP,D,TSTM WND DMG,1 N Muncy,Lycoming,PA,911 Call Center,Tree across the roadway on John Bradley Dr. ! mile north of the Rt 405 intersection.,PAC081,Lycoming,
-202406222150,2024/06/22 21:50,41.19,-76.86,None,CTP,D,TSTM WND DMG,1 NNE Montgomery,Lycoming,PA,911 Call Center,Reports of trees and poles down near the 200 block of State Home Rd.,PAC081,Lycoming,
-202406222150,2024/06/22 21:50,41.26,-76.74,None,CTP,D,TSTM WND DMG,2 NW Hughesville,Lycoming,PA,911 Call Center,Trees down on Power lines along Wolf Run Rd in Wolf Township.,PAC081,Lycoming,
-202406222150,2024/06/22 21:50,41.20,-76.79,None,CTP,D,TSTM WND DMG,Muncy,Lycoming,PA,911 Call Center,Market Street in Muncy - multiple trees down. Multiple wires down.,PAC081,Lycoming,
-202406222152,2024/06/22 21:52,44.21,-91.12,5.5,ARX,R,RAIN,Franklin,Jackson,WI,Public,Total since morning of Friday June 21.,WIC053,Jackson,M
-202406222152,2024/06/22 21:52,41.36,-73.01,None,OKX,D,TSTM WND DMG,3 ENE Ansonia,New Haven,CT,Law Enforcement,Several downed trees reported by Woodbridge PD. Some of the roads include Racebrook and Bunkerhill.,CTC009,New Haven,
-202406222155,2024/06/22 21:55,41.34,-76.92,None,CTP,D,TSTM WND DMG,1 N Loyalsockville,Lycoming,PA,911 Call Center,Trees on the roadway.,PAC081,Lycoming,
-202406222155,2024/06/22 21:55,41.27,-76.72,None,CTP,D,TSTM WND DMG,1 SW Picture Rocks,Lycoming,PA,Trained Spotter,Measured .7 inches of rain_ heavy winds (no estimate of wind speed) Loss of power at home due to line down along Baker Hill Rd (Utility expected to be restored at 0600 Sunday morning).,PAC081,Lycoming,
-202406222155,2024/06/22 21:55,41.24,-76.73,None,CTP,D,TSTM WND DMG,Hughesville,Lycoming,PA,911 Call Center,Numerous trees down across the town of Hughesville especially between Main St and Cardinal Dr.,PAC081,Lycoming,
-202406222155,2024/06/22 21:55,41.24,-76.73,None,CTP,D,TSTM WND DMG,Hughesville,Lycoming,PA,911 Call Center,Report of a tree on a house at the corner of South Railroad St and West Academy St. No reports of any injuries.,PAC081,Lycoming,
-202406222156,2024/06/22 21:56,44.17,-91.27,4.0,ARX,R,RAIN,Ettrick,Trempealeau,WI,Public,Two day total.,WIC121,Trempealeau,E
-202406222157,2024/06/22 21:57,41.24,-76.73,1.0,CTP,H,HAIL,Hughesville,Lycoming,PA,Public,Quarter sized hail.,PAC081,Lycoming,M
-202406222200,2024/06/22 22:00,46.49,-86.30,1.34,MQT,R,RAIN,3 NW Cusino Lake,Schoolcraft,MI,Public,Gemini Lake. Rain total through 6 pm today.,MIC153,Schoolcraft,M
-202406222200,2024/06/22 22:00,44.91,-83.45,1.85,APX,R,RAIN,1 W Ossineke,Alpena,MI,Trained Spotter,24 hour total.,MIC007,Alpena,M
-202406222200,2024/06/22 22:00,44.23,-86.06,2.31,APX,R,RAIN,5 SSW Brethren,Manistee,MI,Public,24 hour rain total through 6pm.,MIC101,Manistee,M
-202406222200,2024/06/22 22:00,41.31,-76.99,None,CTP,D,TSTM WND DMG,2 E Cogan Station,Lycoming,PA,911 Call Center,Trees on the roadway northern end of Pleasant Hills Rd.,PAC081,Lycoming,
-202406222200,2024/06/22 22:00,41.22,-76.89,None,CTP,D,TSTM WND DMG,2 SE Montoursville,Lycoming,PA,911 Call Center,Power outages reported by multiple home owners along Armstrong Rd due to poles down along Armstrong Rd and Rt 15.,PAC081,Lycoming,
-202406222200,2024/06/22 22:00,41.31,-76.69,None,CTP,D,TSTM WND DMG,3 NNE Picture Rocks,Lycoming,PA,Public,Trees down on the roadway 2 miles north of Rt 220 on Highland Lake Rd.,PAC081,Lycoming,
-202406222200,2024/06/22 22:00,36.39,-109.93,None,FGZ,F,FLASH FLOOD,4 WSW Rough Rock,Apache,AZ,Public,DELAYED REPORT from June 22. Report from from social media. Road from Rough Rock to Blackmesa washed out_ with very large boulders blocking the road. Time estimated from radar data.,AZC001,Apache,
-202406222201,2024/06/22 22:01,44.16,-87.96,5.0,GRB,R,RAIN,Reedsville,Manitowoc,WI,Public,Rainfall total from 11am yesterday.,WIC071,Manitowoc,E
-202406222201,2024/06/22 22:01,43.47,-91.51,None,ARX,D,TSTM WND DMG,Dorchester,Allamakee,IA,Emergency Mngr,Tree blown down.,IAC005,Allamakee,
-202406222210,2024/06/22 22:10,42.85,-76.99,None,BUF,D,TSTM WND DMG,1 S Geneva,Ontario,NY,911 Call Center,Time estimated based on radar. Power lines down with a large tree limb on the lines.,NYC069,Ontario,
-202406222210,2024/06/22 22:10,42.86,-76.98,None,BUF,D,TSTM WND DMG,1 S Geneva,Ontario,NY,911 Call Center,Time estimated based on radar. Tree down completely blocking the intersection at Saint Clair Street and South Main Street.,NYC069,Ontario,
-202406222210,2024/06/22 22:10,42.85,-76.99,None,BUF,D,TSTM WND DMG,1 SSW Geneva,Ontario,NY,911 Call Center,Time estimated based on radar. Multiple reports of wires down on Jay Street in Geneva_ including a tree falling onto wires.,NYC069,Ontario,
-202406222210,2024/06/22 22:10,42.84,-76.99,None,BUF,D,TSTM WND DMG,2 SSW Geneva,Ontario,NY,911 Call Center,Time estimated based on radar. Tree down_ partially blocking White Springs Road in Geneva.,NYC069,Ontario,
-202406222210,2024/06/22 22:10,34.70,-76.74,None,MHX,P,RIP CURRENTS,Atlantic Beach,Carteret,NC,Lifeguard,Atlantic Beach Ocean Rescue reported 2 rip current rescues this afternoon.,NCC031,Carteret,
-202406222212,2024/06/22 22:12,32.58,-116.86,None,SGX,U,WILDFIRE,7 WSW Dulzura,San Diego,CA,Fire Dept/Rescue,137 acre wildfire called Border 58. Otay Mountain Truck Trail_ Otay Mountain Wilderness_ Otay Mesa_ CA. Otay Mesa SDGE site was 82F_ 54 percent humidity and wind gusts to 14 mph.,CAC073,San Diego,
-202406222213,2024/06/22 22:13,45.21,-85.00,2.05,APX,R,RAIN,3 NW Boyne City,Charlevoix,MI,Public,24 hour total.,MIC029,Charlevoix,M
-202406222214,2024/06/22 22:14,42.88,-76.96,None,BGM,D,TSTM WND DMG,Border City,Seneca,NY,911 Call Center,Trees and wires down_ snapped power pole. Time estimated by radar.,NYC099,Seneca,
-202406222214,2024/06/22 22:14,41.36,-72.84,None,OKX,D,TSTM WND DMG,2 SSE North Haven,New Haven,CT,Law Enforcement,Tree down with wires on middletown ave in North Haven.,CTC009,New Haven,
-202406222215,2024/06/22 22:15,46.28,-86.76,1.5,MQT,R,RAIN,6 SE Forest Lake,Alger,MI,Cocorahs,CoCoRaHS station MI-AL-6.,MIC003,Alger,M
-202406222219,2024/06/22 22:19,41.20,-76.73,None,CTP,D,TSTM WND DMG,3 S Hughesville,Lycoming,PA,911 Call Center,Trees down across the roadway along Clarkstown Rd west of Clarkstown_ Pa.,PAC081,Lycoming,
-202406222223,2024/06/22 22:23,41.23,-76.73,None,CTP,D,TSTM WND DMG,1 SW Hughesville,Lycoming,PA,911 Call Center,Report of a tree down on a car parked near the corner of Boak Ave and South Branch St in Hughesville_ PA boro.,PAC081,Lycoming,
-202406222224,2024/06/22 22:24,42.69,-90.71,0.25,ARX,H,HAIL,Potosi,Grant,WI,Emergency Mngr,,WIC043,Grant,M
-202406222225,2024/06/22 22:25,42.16,-76.56,None,BGM,D,TSTM WND DMG,3 S Van Etten,Chemung,NY,911 Call Center,Trees and wires down.,NYC015,Chemung,
-202406222230,2024/06/22 22:30,43.41,-91.19,None,ARX,F,FLASH FLOOD,1 S De Soto,Crawford,WI,Public,Lawrence Hill Rd washed out.,WIC023,Crawford,
-202406222230,2024/06/22 22:30,43.37,-91.13,None,ARX,F,FLASH FLOOD,3 NW Ferryville,Crawford,WI,Public,Several mubslides between De Soto and Ferryville on Hwy 35.,WIC023,Crawford,
-202406222230,2024/06/22 22:30,43.37,-91.14,None,ARX,F,FLASH FLOOD,3 WNW Ferryville,Crawford,WI,Public,Rush Creek Rd under 4 feet of water.,WIC023,Crawford,
-202406222230,2024/06/22 22:30,43.42,-91.20,None,ARX,F,FLASH FLOOD,De Soto,Crawford,WI,Public,Roughton Rd washed out.,WIC023,Crawford,
-202406222234,2024/06/22 22:34,41.03,-76.33,None,CTP,D,TSTM WND DMG,1 W Mifflinville,Columbia,PA,Emergency Mngr,Several limbs and small trees downed_ along with an overturned box truck.,PAC037,Columbia,
-202406222237,2024/06/22 22:37,42.69,-90.62,None,ARX,T,TORNADO,3 E Tennyson,Grant,WI,Emergency Mngr,Brief EF-0 tornado with tree damage near the intersection of Highway O and North lane. Touchdown was observed.,WIC043,Grant,
-202406222239,2024/06/22 22:39,42.69,-90.58,None,ARX,D,TSTM WND DMG,4 N Dickeyville,Grant,WI,Emergency Mngr,Trees down over road and debris blocking roads around Cornelia. Possible tornado damage.,WIC043,Grant,
-202406222239,2024/06/22 22:39,41.46,-73.43,None,OKX,D,TSTM WND DMG,2 ESE New Fairfield,Fairfield,CT,NWS Employee,Trees down across road at Shore rd and Hawthorne Cove Rd. Time estimated from radar.,CTC001,Fairfield,
-202406222240,2024/06/22 22:40,44.04,-83.10,None,DTX,W,WATERSPOUT,5 W Port Austin,LHZ421,MI,Trained Spotter,Waterspout reported over Saginaw Bay approximately 2 miles off shore_ roughly 5 miles west of Port Austin. It continued tracking NE staying just offshore passing just north of Port Austin Harbor. Las,LHZ421,Outer Saginaw Bay SW of Alabaster to Port Austin MI to Inner Saginaw Bay,
-202406222241,2024/06/22 22:41,41.47,-73.41,None,OKX,D,TSTM WND DMG,3 E New Fairfield,Fairfield,CT,Law Enforcement,Corrects previous tstm wnd dmg report from 3 E New Fairfield. Law Enforcement reports trees down across the town of Brookfield with numerous instances of damage. Some of these include: Tree down on a,CTC001,Fairfield,
-202406222241,2024/06/22 22:41,41.47,-73.41,None,OKX,D,TSTM WND DMG,3 E New Fairfield,Fairfield,CT,Law Enforcement,Law Enforcement reports trees down across the town of Brookfield with numerous instances of damage.,CTC001,Fairfield,
-202406222245,2024/06/22 22:45,46.69,-103.97,1.0,BIS,H,HAIL,3 SSE Golva,Golden Valley,ND,Public,Hail from 5:45 to 5:50. Swing set blown over.,NDC033,Golden Valley,M
-202406222248,2024/06/22 22:48,40.91,-74.58,0.5,PHI,H,HAIL,1 N Wharton,Morris,NJ,Trained Spotter,,NJC027,Morris,E
-202406222248,2024/06/22 22:48,40.90,-74.58,0.5,PHI,H,HAIL,Wharton,Morris,NJ,Public,,NJC027,Morris,E
-202406222249,2024/06/22 22:49,32.27,-110.89,None,TWC,F,FLASH FLOOD,5 N Tucson,Pima,AZ,911 Call Center,Delayed report. Water rescue on Fort Lowell and Swan in Tucson.,AZC019,Pima,
-202406222250,2024/06/22 22:50,40.90,-74.51,0.75,PHI,H,HAIL,Rockaway,Morris,NJ,Public,Penny size hail reported. Time estimated from radar.,NJC027,Morris,M
-202406222250,2024/06/22 22:50,41.53,-76.56,None,CTP,D,TSTM WND DMG,4 NE Forksville,Sullivan,PA,Trained Spotter,Heavy Rain - 0.95 inches in 20 minutes. Quarter sized Hail (1.0 inch). Multiple trees down along Warderton Hill Rd.,PAC113,Sullivan,
-202406222255,2024/06/22 22:55,32.26,-110.96,None,TWC,F,FLASH FLOOD,6 NW Tucson,Pima,AZ,911 Call Center,Delayed report. Water rescue on Los Altos and Laguna Street in Tucson.,AZC019,Pima,
-202406222300,2024/06/22 23:00,43.65,-92.99,1.45,ARX,R,RAIN,2 SSW Austin,Mower,MN,NWS Employee,Since 9am. Relayed by NWS employee.,MNC099,Mower,M
-202406222300,2024/06/22 23:00,45.05,-84.79,1.5,APX,R,RAIN,3 ESE Elmira,Otsego,MI,Public,,MIC137,Otsego,E
-202406222300,2024/06/22 23:00,43.38,-91.17,None,ARX,F,FLASH FLOOD,3 SSE De Soto,Crawford,WI,Public,Mudslides along Highway 35 near Lansing Bridge or Highway 82. Other mudslides reported in region as well.,WIC023,Crawford,
-202406222300,2024/06/22 23:00,43.44,-89.85,None,MKX,F,FLASH FLOOD,1 SSE North Freedom,Sauk,WI,Emergency Mngr,Several roads flooded throughout the county_ especially in the Baraboo and North Freedom areas. Some some roads and culverts damaged. Some roads still covered by water through noon 6/23. Railroad bri,WIC111,Sauk,
-202406222304,2024/06/22 23:04,43.20,-90.74,50.0,ARX,G,TSTM WND GST,4 S Mount Zion,Crawford,WI,Fire Dept/Rescue,Reported by Boscobel Fire Dept via Grant Co. Emerg Mgmt.,WIC023,Crawford,E
-202406222305,2024/06/22 23:05,43.44,-89.92,None,MKX,F,FLASH FLOOD,3 S Rock Springs,Sauk,WI,Law Enforcement,Sauk county dispatch reports flooding on WIS 154_ county N_ and county W highways.,WIC111,Sauk,
-202406222307,2024/06/22 23:07,46.55,-103.66,69.0,BIS,G,TSTM WND GST,Davis Dam 2NW,Slope,ND,Mesonet,NDAWN Site.,NDC087,Slope,M
-202406222310,2024/06/22 23:10,44.47,-84.57,1.6,APX,R,RAIN,2 SSE Roscommon,Roscommon,MI,Mesonet,Mesonet station RSCM4 Roscommon.,MIC143,Roscommon,M
-202406222310,2024/06/22 23:10,43.37,-91.23,None,ARX,F,FLASH FLOOD,1 NNW Lansing,Allamakee,IA,Emergency Mngr,Rock or mud slides along Highway 26 outside of Lansing.,IAC005,Allamakee,
-202406222312,2024/06/22 23:12,42.53,-76.34,None,BGM,D,TSTM WND DMG,2 NNE Freeville,Tompkins,NY,911 Call Center,Multiple Trees Down.,NYC109,Tompkins,
-202406222315,2024/06/22 23:15,42.56,-76.36,None,BGM,D,TSTM WND DMG,1 N Peruville,Tompkins,NY,911 Call Center,Trees down.,NYC109,Tompkins,
-202406222315,2024/06/22 23:15,42.47,-76.35,None,BGM,D,TSTM WND DMG,2 SE Etna,Tompkins,NY,911 Call Center,Trees down.,NYC109,Tompkins,
-202406222315,2024/06/22 23:15,42.59,-76.37,None,BGM,D,TSTM WND DMG,Groton,Tompkins,NY,911 Call Center,Trees down.,NYC109,Tompkins,
-202406222318,2024/06/22 23:18,42.51,-76.34,None,BGM,D,TSTM WND DMG,1 ESE Freeville,Tompkins,NY,911 Call Center,Trees down.,NYC109,Tompkins,
-202406222319,2024/06/22 23:19,43.74,-92.31,6.18,ARX,R,RAIN,2 WSW Fillmore,Fillmore,MN,Public,Rainfall total last several days.,MNC045,Fillmore,M
-202406222320,2024/06/22 23:20,42.52,-76.32,None,BGM,D,TSTM WND DMG,1 ENE Freeville,Tompkins,NY,911 Call Center,Numerous trees down. Tree down on house.,NYC109,Tompkins,
-202406222320,2024/06/22 23:20,43.60,-89.79,None,MKX,F,FLASH FLOOD,1 NW Lake Delton,Sauk,WI,Trained Spotter,Spotter report of road and yard flooding near Lake Delton WI.,WIC111,Sauk,
-202406222320,2024/06/22 23:20,41.25,-73.22,None,OKX,D,TSTM WND DMG,1 SSW Trumbull,Fairfield,CT,Law Enforcement,Large downed tree limb partially blocked residential street in Trumbull.,CTC001,Fairfield,
-202406222323,2024/06/22 23:23,42.50,-76.30,1.0,BGM,H,HAIL,1 N Dryden,Tompkins,NY,Public,Relayed via social media.,NYC109,Tompkins,M
-202406222323,2024/06/22 23:23,46.13,-86.58,1.6,MQT,R,RAIN,6 NNE Chicago Lake,Delta,MI,Mesonet,RAWS Mesonet station HBRM4 7 SW Steuben.,MIC041,Delta,M
-202406222325,2024/06/22 23:25,42.15,-75.67,None,BGM,D,TSTM WND DMG,3 NW East Windsor,Broome,NY,911 Call Center,Trees and Wires down. Time estimated by radar.,NYC007,Broome,
-202406222328,2024/06/22 23:28,46.42,-86.85,1.25,MQT,R,RAIN,1 SSW Au Train,Alger,MI,Mesonet,RAWS Mesonet station TT280 Ottawa Portable.,MIC003,Alger,M
-202406222328,2024/06/22 23:28,42.60,-76.17,None,BGM,D,TSTM WND DMG,Cortland,Cortland,NY,911 Call Center,Trees down and pole snapped.,NYC023,Cortland,
-202406222330,2024/06/22 23:30,44.25,-105.44,0.62,UNR,R,RAIN,4 SE Gillette,Campbell,WY,Co-Op Observer,24-hour rainfall.,WYC005,Campbell,M
-202406222330,2024/06/22 23:30,43.19,-90.98,1.52,ARX,R,RAIN,3 NE Eastman,Crawford,WI,Public,Total since 7 AM this morning. 1.28 inches of this fell between 530 and 615 PM.,WIC023,Crawford,M
-202406222330,2024/06/22 23:30,43.18,-91.13,None,ARX,F,FLASH FLOOD,6 WNW Eastman,Crawford,WI,Law Enforcement,Report from Crawford County Sheriff Dept of multiple water or mud over parts of Highway 35 between Ferryville and Highway 82 going into Lansing IA.,WIC023,Crawford,
-202406222330,2024/06/22 23:30,43.18,-89.43,None,MKX,F,FLASH FLOOD,1 E Waunakee,Dane,WI,Public,Photo of standing water on road from social media. Moravian Valley Rd_ Waunakee.,WIC025,Dane,
-202406222331,2024/06/22 23:31,44.38,-83.60,1.79,APX,R,RAIN,4 S Sid Town,Iosco,MI,Mesonet,Mesonet station SCKM4 Silver Creek.,MIC069,Iosco,M
-202406222332,2024/06/22 23:32,45.90,-86.93,1.1,MQT,R,RAIN,2 SE Rapid River,Delta,MI,Mesonet,RAWS Mesonet station STOM4 2 SE Rapid River.,MIC041,Delta,M
-202406222332,2024/06/22 23:32,46.25,-86.71,1.6,MQT,R,RAIN,7 NNE Round Lake,Alger,MI,Mesonet,RAWS Mesonet station DOEM4 8 SSW Wetmore.,MIC003,Alger,M
-202406222332,2024/06/22 23:32,30.32,-81.64,42.0,JAX,G,TSTM WND GST,1 ESE Jacksonville,Duval,FL,Mesonet,Mesonet station 1323W 1.3 SE Jacksonville (WEATHERSTEM). Time estimated based on 10 minute observations and radar.,FLC031,Duval,M
-202406222332,2024/06/22 23:32,30.32,-81.64,43.0,JAX,G,TSTM WND GST,1 ESE Jacksonville,Duval,FL,Mesonet,Mesonet station 1325W 121 Financial Ballpark. Time estimated based on 10 minute observations and radar.,FLC031,Duval,M
-202406222333,2024/06/22 23:33,42.51,-76.16,None,BGM,D,TSTM WND DMG,1 ESE Virgil,Cortland,NY,911 Call Center,*** 1 INJ *** Multiple Trees Down on route 392. Road impassable in spots. 1 reported injured from fallen tree.,NYC023,Cortland,
-202406222335,2024/06/22 23:35,42.90,-90.47,52.0,ARX,G,TSTM WND GST,2 W Livingston,Grant,WI,Fire Dept/Rescue,,WIC043,Grant,E
-202406222335,2024/06/22 23:35,42.49,-76.22,None,BGM,D,TSTM WND DMG,2 SW Virgil,Cortland,NY,911 Call Center,Trees down.,NYC023,Cortland,
-202406222338,2024/06/22 23:38,43.37,-91.14,None,ARX,F,FLASH FLOOD,4 WNW Ferryville,Crawford,WI,Dept of Highways,Highway 35 closed. Flooding and mudslides across Highway 35_ train stopped until tracks are cleared.,WIC023,Crawford,
-202406222338,2024/06/22 23:38,42.47,-76.08,None,BGM,D,TSTM WND DMG,3 NNE Lapeer,Cortland,NY,911 Call Center,Tree Down Blocking Road.,NYC023,Cortland,
-202406222339,2024/06/22 23:39,42.94,-77.09,None,BUF,D,TSTM WND DMG,2 SW Phelps,Ontario,NY,911 Call Center,Two trees down completely blocking Toll Road between Griffith Road and Case Road.,NYC069,Ontario,
-202406222340,2024/06/22 23:40,42.44,-76.04,None,BGM,D,TSTM WND DMG,Marathon,Cortland,NY,911 Call Center,Trees down.,NYC023,Cortland,
-202406222340,2024/06/22 23:40,41.35,-73.09,None,OKX,F,FLASH FLOOD,1 WNW Ansonia,New Haven,CT,Dept of Highways,Route 334 CLOSED between Wakelee Avenue & Riggs Street because of a washout.,CTC009,New Haven,
-202406222342,2024/06/22 23:42,44.56,-85.33,1.76,APX,R,RAIN,1 SE Fife Lake,Grand Traverse,MI,Public,,MIC055,Grand Traverse,M
-202406222342,2024/06/22 23:42,43.01,-76.97,None,BUF,D,TSTM WND DMG,4 SSE Lyons,Ontario,NY,911 Call Center,Tree down blocking the road on Thompson Station Rd.,NYC069,Ontario,
-202406222342,2024/06/22 23:42,42.98,-76.98,None,BUF,D,TSTM WND DMG,5 ENE Phelps,Ontario,NY,911 Call Center,Time estimated based on radar. Tree down in the southbound lane on State Rt 14 at Gifford Road.,NYC069,Ontario,
-202406222344,2024/06/22 23:44,42.48,-76.19,None,BGM,D,TSTM WND DMG,3 S Virgil,Cortland,NY,911 Call Center,Trees down. Poles down.,NYC023,Cortland,
-202406222345,2024/06/22 23:45,45.91,-87.21,1.7,MQT,R,RAIN,1 NE Cornell,Delta,MI,CO-OP Observer,CO-OP Observer station CRNM4 0.6 NE Cornell.,MIC041,Delta,M
-202406222345,2024/06/22 23:45,30.30,-81.65,None,JAX,E,FLOOD,1 SE San Marco,Duval,FL,NWS Employee,A NWS employee observed minor street flooding along Hendricks ave near the intersection with Atlantic Blvd. Water was ponding halfway up the tires of vehicles at least 3-6 inches of water depth.,FLC031,Duval,
-202406222345,2024/06/22 23:45,43.55,-89.15,None,MKX,F,FLASH FLOOD,2 WNW Cambria,Columbia,WI,Emergency Mngr,Water flowing over County P in Cambria. Street flooding in Pardeeville.,WIC021,Columbia,
-202406222347,2024/06/22 23:47,43.13,-89.38,1.25,MKX,H,HAIL,2 NW Maple Bluff,Dane,WI,Public,,WIC025,Dane,E
-202406222347,2024/06/22 23:47,45.17,-84.90,1.65,APX,R,RAIN,Boyne Falls,Charlevoix,MI,CO-OP Observer,,MIC029,Charlevoix,M
-202406222348,2024/06/22 23:48,41.10,-76.80,None,CTP,D,TSTM WND DMG,2 W Turbotville,Northumberland,PA,911 Call Center,Tree down on Susquehanna Trail.,PAC097,Northumberland,
-202406222349,2024/06/22 23:49,43.14,-89.38,2.0,MKX,H,HAIL,2 NNW Maple Bluff,Dane,WI,Public,Picture of measured hail via social media.,WIC025,Dane,M
-202406222350,2024/06/22 23:50,42.98,-77.20,None,BUF,D,TSTM WND DMG,2 ENE Manchester,Ontario,NY,911 Call Center,Tree down blocking the road near the intersection of Outlet Road and Curran Road.,NYC069,Ontario,
-202406222350,2024/06/22 23:50,40.93,-76.87,None,CTP,D,TSTM WND DMG,2 N Winfield,Union,PA,911 Call Center,Tree down blocking Route 11/15.,PAC119,Union,
-202406222351,2024/06/22 23:51,43.17,-89.29,1.5,MKX,H,HAIL,3 W Sun Prairie,Dane,WI,Public,,WIC025,Dane,E
-202406222353,2024/06/22 23:53,44.73,-85.57,1.11,APX,R,RAIN,2 SE Traverse City,Grand Traverse,MI,ASOS,ASOS station KTVC Traverse City - Cherry Capital Airport.,MIC055,Grand Traverse,M
-202406222353,2024/06/22 23:53,43.18,-89.28,1.25,MKX,H,HAIL,2 W Sun Prairie,Dane,WI,Public,,WIC025,Dane,E
-202406222353,2024/06/22 23:53,45.02,-84.68,1.54,APX,R,RAIN,1 SSW Gaylord,Otsego,MI,ASOS,ASOS station KGLR Gaylord - Otsego County Airport.,MIC137,Otsego,M
-202406222354,2024/06/22 23:54,45.07,-83.57,1.49,APX,R,RAIN,6 S Cathro,Alpena,MI,ASOS,ASOS station KAPN Alpena - Phelps Collins Field.,MIC007,Alpena,M
-202406222354,2024/06/22 23:54,43.20,-89.23,1.75,MKX,H,HAIL,1 N Sun Prairie,Dane,WI,Public,,WIC025,Dane,E
-202406222355,2024/06/22 23:55,44.45,-83.40,1.34,APX,R,RAIN,1 SW Wurtsmith Airfield,Iosco,MI,AWOS,AWOS station KOSC Oscoda - Wurtsmith AFB.,MIC069,Iosco,M
-202406222355,2024/06/22 23:55,42.71,-89.87,None,MKX,D,TSTM WND DMG,1 NNW Argyle,Lafayette,WI,Public,Structure damage to large shed/barn. Picture via social media.,WIC065,Lafayette,
-202406222356,2024/06/22 23:56,43.17,-89.24,1.0,MKX,H,HAIL,1 SW Sun Prairie,Dane,WI,Public,,WIC025,Dane,E
-202406222356,2024/06/22 23:56,46.41,-86.65,1.72,MQT,R,RAIN,Munising,Alger,MI,ASOS,ASOS station KP53 Munising.,MIC003,Alger,M
-202406222358,2024/06/22 23:58,43.18,-89.25,1.75,MKX,H,HAIL,1 W Sun Prairie,Dane,WI,Public,,WIC025,Dane,E
-202406222358,2024/06/22 23:58,44.91,-84.74,2.26,APX,R,RAIN,9 SSW Gaylord,Otsego,MI,Official NWS Obs,Official 24 hour observation at NWS Gaylord office as of 8pm.,MIC137,Otsego,M
-202406230000,2024/06/23 00:00,45.74,-87.08,1.02,MQT,R,RAIN,1 S Escanaba,Delta,MI,Public,Total since midnight.,MIC041,Delta,E
-202406230000,2024/06/23 00:00,41.12,-98.55,None,GID,E,FLOOD,Dannebrog,Howard,NE,Law Enforcement,Highway 58 in Dannebrog remains closed due to flooding. Sandbagging efforts of homes and businesses continue.,NEC093,Howard,
-202406230000,2024/06/23 00:00,43.21,-89.33,None,MKX,F,FLASH FLOOD,1 SE Windsor,Dane,WI,Emergency Mngr,Delayed report from 6/22 of impacts across Dane County: At least 1 culvert failed in Windsor. Some homes affected by flooding in Windsor_ Medina_ Sun Prairie. Roads flooded or damaged in Town of Dane,WIC025,Dane,
-202406230000,2024/06/23 00:00,43.31,-89.53,None,MKX,F,FLASH FLOOD,Lodi,Columbia,WI,Public,Video of flooded roadways in Lodi.,WIC021,Columbia,
-202406230001,2024/06/23 00:01,43.37,-90.39,2.84,ARX,R,RAIN,2 N Richland Center,Richland,WI,Mesonet,Rainfall today based on Wisconsin Mesonet station.,WIC103,Richland,M
-202406230002,2024/06/23 00:02,42.54,-75.90,None,BGM,D,TSTM WND DMG,1 NW Cincinnatus,Cortland,NY,911 Call Center,Trees down.,NYC023,Cortland,
-202406230003,2024/06/23 00:03,46.24,-85.94,1.51,MQT,R,RAIN,1 SW Germfask,Schoolcraft,MI,Mesonet,RAWS Mesonet station SNYM4 1 SW Germfask.,MIC153,Schoolcraft,M
-202406230003,2024/06/23 00:03,40.59,-74.88,None,PHI,D,TSTM WND DMG,2 SW McPherson,Hunterdon,NJ,Emergency Mngr,Tree down into a house. Time estimated from radar.,NJC019,Hunterdon,
-202406230004,2024/06/23 00:04,42.21,-75.27,None,BGM,D,TSTM WND DMG,1 NNW Trout Creek,Delaware,NY,911 Call Center,Trees down.,NYC025,Delaware,
-202406230004,2024/06/23 00:04,43.08,-76.87,None,BUF,D,TSTM WND DMG,Clyde,Wayne,NY,911 Call Center,Numerous trees and lines down in the town of Clyde.,NYC117,Wayne,
-202406230004,2024/06/23 00:04,43.05,-77.10,None,BUF,D,TSTM WND DMG,Newark,Wayne,NY,911 Call Center,Two trees down in the town of Newark.,NYC117,Wayne,
-202406230005,2024/06/23 00:05,46.32,-103.24,60.0,BIS,G,TSTM WND GST,10 N Buffalo Springs,Slope,ND,Public,Small hail.,NDC087,Slope,E
-202406230005,2024/06/23 00:05,40.63,-74.85,None,PHI,D,TSTM WND DMG,1 N McPherson,Hunterdon,NJ,911 Call Center,Trees and wires down near Lebanon and McPherson Township. Time estimated from radar.,NJC019,Hunterdon,
-202406230005,2024/06/23 00:05,40.58,-74.83,None,PHI,D,TSTM WND DMG,1 N Stanton,Hunterdon,NJ,Public,Report and photos relayed via social media of a large tree fallen onto a house on Tamarack Trail. Additional trees were down in the neighborhood as well. Time estimated.,NJC019,Hunterdon,
-202406230007,2024/06/23 00:07,43.14,-89.36,1.75,MKX,H,HAIL,2 N Maple Bluff,Dane,WI,Public,,WIC025,Dane,E
-202406230007,2024/06/23 00:07,41.89,-75.84,None,BGM,D,TSTM WND DMG,4 NNE Montrose,Susquehanna,PA,911 Call Center,Tree reported down blocking road on Hawk Rd.,PAC115,Susquehanna,
-202406230007,2024/06/23 00:07,43.07,-76.76,None,BUF,D,TSTM WND DMG,Savannah,Wayne,NY,911 Call Center,Trees down in the town of Savannah.,NYC117,Wayne,
-202406230010,2024/06/23 00:10,43.18,-89.21,1.5,MKX,H,HAIL,1 E Sun Prairie,Dane,WI,Public,Picture of measured hail via social media.,WIC025,Dane,M
-202406230010,2024/06/23 00:10,41.85,-75.86,None,BGM,D,TSTM WND DMG,2 NE Montrose,Susquehanna,PA,Emergency Mngr,Tree down on Fernheim Road. Time estimated by radar.,PAC115,Susquehanna,
-202406230010,2024/06/23 00:10,43.14,-89.07,None,MKX,T,TORNADO,2 S Marshall,Dane,WI,NWS Storm Survey,An EF-1 rated tornado developed south of Marshall_ progressing northeastward. Multiple farm and outbuildings_ a few homes_ and numerous trees were damaged. Peak winds are estimated to be approximatel,WIC025,Dane,
-202406230011,2024/06/23 00:11,43.06,-76.99,None,BUF,D,TSTM WND DMG,Lyons,Wayne,NY,911 Call Center,Trees down in the town of Lyons.,NYC117,Wayne,
-202406230012,2024/06/23 00:12,45.88,-87.49,1.8,MQT,R,RAIN,1 WNW La Branche,Menominee,MI,Mesonet,RAWS Mesonet station LBRM4 1 WNW La Branche.,MIC109,Menominee,M
-202406230012,2024/06/23 00:12,46.29,-87.47,1.92,MQT,R,RAIN,2 WNW Gwinn,Marquette,MI,Mesonet,RAWS Mesonet station GINM4 2 WNW Gwinn.,MIC103,Marquette,M
-202406230012,2024/06/23 00:12,42.93,-76.57,None,BGM,D,TSTM WND DMG,Auburn,Cayuga,NY,911 Call Center,Trees and Wires reported down in Auburn.,NYC011,Cayuga,
-202406230012,2024/06/23 00:12,41.15,-76.52,None,CTP,D,TSTM WND DMG,2 N Millville,Columbia,PA,Public,Tree down on SR 42.,PAC037,Columbia,
-202406230013,2024/06/23 00:13,46.01,-88.06,1.43,MQT,R,RAIN,1 N Randville,Dickinson,MI,Mesonet,RAWS Mesonet station RANM4 Randville.,MIC043,Dickinson,M
-202406230013,2024/06/23 00:13,44.03,-92.75,6.2,ARX,R,RAIN,Kasson,Dodge,MN,Public,Total over the past couple days.,MNC039,Dodge,M
-202406230013,2024/06/23 00:13,41.84,-75.85,None,BGM,D,TSTM WND DMG,1 E Montrose,Susquehanna,PA,Public,Report from mPING: 1-inch tree limbs broken; Shingles blown off.,PAC115,Susquehanna,
-202406230015,2024/06/23 00:15,46.32,-88.02,1.12,MQT,R,RAIN,2 N Witch Lake,Marquette,MI,Mesonet,Mesonet station FW8041 Republic.,MIC103,Marquette,M
-202406230015,2024/06/23 00:15,46.00,-88.16,1.38,MQT,R,RAIN,2 E Peavy Falls Dam,Iron,MI,Mesonet,Mesonet station DW8757 Peavey Falls.,MIC071,Iron,M
-202406230015,2024/06/23 00:15,43.49,-88.80,None,MKX,F,FLASH FLOOD,2 NE Beaver Dam,Dodge,WI,Emergency Mngr,Flooding on several streets in Waupun and Beaver Dam. Backyard and basement flooding.,WIC027,Dodge,
-202406230015,2024/06/23 00:15,40.57,-74.86,None,PHI,F,FLASH FLOOD,2 W Stanton,Hunterdon,NJ,Emergency Mngr,Cars trapped in flood waters in Readington Township. Time estimated from radar.,NJC019,Hunterdon,
-202406230015,2024/06/23 00:15,40.57,-74.74,None,PHI,F,FLASH FLOOD,Readington,Hunterdon,NJ,Emergency Mngr,Cars trapped in flood waters in Readington. Time estimated from radar.,NJC019,Hunterdon,
-202406230017,2024/06/23 00:17,45.81,-88.08,1.35,MQT,R,RAIN,1 E Kingsford,Dickinson,MI,Mesonet,Mesonet station GW4928 Kingsford.,MIC043,Dickinson,M
-202406230017,2024/06/23 00:17,41.18,-76.65,None,CTP,D,TSTM WND DMG,4 SSW Lairdsville,Lycoming,PA,911 Call Center,Tree across the roadway on a blind curve near the Moreland Bapist Church.,PAC081,Lycoming,
-202406230018,2024/06/23 00:18,45.88,-86.90,1.19,MQT,R,RAIN,2 SW Ensign,Delta,MI,Mesonet,Mesonet station EW4786 Rapid River.,MIC041,Delta,M
-202406230018,2024/06/23 00:18,45.79,-87.91,1.32,MQT,R,RAIN,Norway,Dickinson,MI,Mesonet,Mesonet station EW3293 Norway.,MIC043,Dickinson,M
-202406230018,2024/06/23 00:18,45.81,-87.92,1.59,MQT,R,RAIN,2 NNW Norway,Dickinson,MI,Mesonet,Mesonet station EW2513 2NW Norway.,MIC043,Dickinson,M
-202406230018,2024/06/23 00:18,45.99,-87.45,1.98,MQT,R,RAIN,3 SW Watson,Marquette,MI,Mesonet,Mesonet station GW1722 Watson.,MIC103,Marquette,M
-202406230019,2024/06/23 00:19,45.99,-87.20,1.85,MQT,R,RAIN,6 SSW Rock,Delta,MI,Mesonet,Mesonet station AW433 Rock.,MIC041,Delta,M
-202406230019,2024/06/23 00:19,46.28,-87.89,1.95,MQT,R,RAIN,6 E Witch Lake,Marquette,MI,Mesonet,Mesonet station AW159 6E Witch Lake.,MIC103,Marquette,M
-202406230020,2024/06/23 00:20,43.69,-88.36,None,MKX,F,FLASH FLOOD,Eden,Fond du Lac,WI,Emergency Mngr,Several town roads covered with water in Eden and some washouts. Some basements flooded in Eden and Waupun. In Waupun some roads still flooded into the morning of 6/24. Street flooding in Byron_ Oakf,WIC039,Fond du Lac,
-202406230020,2024/06/23 00:20,40.54,-75.66,None,PHI,D,TSTM WND DMG,2 W Breinigsville,Lehigh,PA,Trained Spotter,Tree down onto a mobile home on Fawn Grove Lane. Time estimated from radar.,PAC077,Lehigh,
-202406230020,2024/06/23 00:20,40.56,-75.66,None,PHI,D,TSTM WND DMG,2 WSW Upper Macungie Tw,Lehigh,PA,Trained Spotter,Large tree down on Adams Road blocking the roadway. Time estimated from radar.,PAC077,Lehigh,
-202406230021,2024/06/23 00:21,43.29,-89.73,None,MKX,F,FLASH FLOOD,Prairie Du Sac,Sauk,WI,Public,9th St and Galena Cir in Prairie du Sac_ estimated 7 inches of water on road_ curbs submerged.,WIC111,Sauk,
-202406230022,2024/06/23 00:22,43.12,-76.65,None,BUF,D,TSTM WND DMG,5 SW Cato,Cayuga,NY,911 Call Center,Multiple trees down in the town of Conquest.,NYC011,Cayuga,
-202406230022,2024/06/23 00:22,42.92,-89.39,None,MKX,D,TSTM WND DMG,Oregon,Dane,WI,Other Federal,DELAYED REPORT from Saturday 6/22. Tree damage noted near intersection of Janesville St. and Oak St. Large limbs_ snapped off tops of trees_ including onto powerlines. Surrounding area noted addition,WIC025,Dane,
-202406230025,2024/06/23 00:25,43.20,-76.66,None,BUF,D,TSTM WND DMG,4 SE Red Creek,Cayuga,NY,911 Call Center,Multiple trees and wires down in the town of Victory.,NYC011,Cayuga,
-202406230025,2024/06/23 00:25,40.64,-74.90,None,PHI,D,TSTM WND DMG,Clinton,Hunterdon,NJ,911 Call Center,Trees and wires down around Clinton. Time estimated from radar.,NJC019,Hunterdon,
-202406230026,2024/06/23 00:26,31.45,-82.86,0.25,JAX,H,HAIL,4 S Douglas,Coffee,GA,Trained Spotter,Estimated Pea sized hail reported.,GAC069,Coffee,E
-202406230026,2024/06/23 00:26,42.19,-75.10,None,BGM,D,TSTM WND DMG,2 NNW Colchester,Delaware,NY,911 Call Center,Tree and wires down on road.,NYC025,Delaware,
-202406230027,2024/06/23 00:27,43.17,-76.57,None,BUF,D,TSTM WND DMG,Cato,Cayuga,NY,911 Call Center,Multiple trees and wires down in the town of Cato.,NYC011,Cayuga,
-202406230028,2024/06/23 00:28,42.79,-76.56,None,BGM,D,TSTM WND DMG,1 NNE Merrifield,Cayuga,NY,911 Call Center,Trees and wires down.,NYC011,Cayuga,
-202406230028,2024/06/23 00:28,40.88,-76.60,None,CTP,D,TSTM WND DMG,3 WNW Elysburg,Northumberland,PA,Fire Dept/Rescue,Tree down and pole down - vehicle has hit the downed pole.,PAC097,Northumberland,
-202406230029,2024/06/23 00:29,42.28,-75.17,None,BGM,D,TSTM WND DMG,4 E Sidney Center,Delaware,NY,Public,Report from mPING: 1-inch tree limbs broken; Shingles blown off.,NYC025,Delaware,
-202406230030,2024/06/23 00:30,40.68,-75.17,0.88,PHI,H,HAIL,2 N Alpha,Warren,NJ,Public,Hail estimated to the size of nickels. Time estimated from radar.,NJC041,Warren,E
-202406230030,2024/06/23 00:30,42.78,-76.60,None,BGM,D,TSTM WND DMG,2 W Merrifield,Cayuga,NY,911 Call Center,Trees and Wires down.,NYC011,Cayuga,
-202406230030,2024/06/23 00:30,41.27,-76.38,None,CTP,D,TSTM WND DMG,1 SSW Central,Columbia,PA,911 Call Center,*** 1 INJ *** Tree down. 1 person injured Grassmere Park Campground.,PAC037,Columbia,
-202406230030,2024/06/23 00:30,41.24,-76.56,None,CTP,D,TSTM WND DMG,3 ENE Lairdsville,Lycoming,PA,911 Call Center,Multiples trees (reports of wires on the road) down along the length of Rte 118 between Lairdsville_ PA and Intersection with Rte 42.,PAC081,Lycoming,
-202406230030,2024/06/23 00:30,42.82,-89.64,None,MKX,F,FLASH FLOOD,New Glarus,Green,WI,Public,mPING report and public phone call regarding Street/road flooding_ and standing water in New Glarus.,WIC045,Green,
-202406230030,2024/06/23 00:30,43.18,-88.84,None,MKX,T,TORNADO,6 W Watertown,Jefferson,WI,NWS Storm Survey,An EF-1 rated tornado developed west of Watertown_ near the intersection of County Roads Q and T. The tornado progressed northeastward_ causing substantial damage to a home_ farm buildings_ and numer,WIC055,Jefferson,
-202406230031,2024/06/23 00:31,42.84,-76.41,None,BGM,D,TSTM WND DMG,1 WNW Niles,Cayuga,NY,911 Call Center,Trees and wires down.,NYC011,Cayuga,
-202406230037,2024/06/23 00:37,43.42,-93.02,5.85,ARX,R,RAIN,Carpenter,Mitchell,IA,Public,Rainfall since Midnight June 22. Flooding in nearby parks.,IAC131,Mitchell,M
-202406230040,2024/06/23 00:40,42.61,-89.15,None,MKX,D,TSTM WND DMG,5 SE Footville,Rock,WI,Public,DELAYED REPORT from Saturday 6/22. Several large branches downed to the southeast.,WIC105,Rock,
-202406230040,2024/06/23 00:40,42.61,-89.14,None,MKX,D,TSTM WND DMG,5 SE Footville,Rock,WI,Public,DELAYED REPORT from Saturday 6/22. Two trees uprooted_ other limbs downed toward the southeast.,WIC105,Rock,
-202406230041,2024/06/23 00:41,42.62,-89.13,None,MKX,D,TSTM WND DMG,5 SE Footville,Rock,WI,NWS Storm Survey,DELAYED REPORT from Saturday 6/22. Several large limbs downed toward the southeast.,WIC105,Rock,
-202406230042,2024/06/23 00:42,42.62,-89.11,None,MKX,D,TSTM WND DMG,6 SE Footville,Rock,WI,NWS Storm Survey,DELAYED REPORT from Saturday 6/22. Several large limbs downed to the southeast.,WIC105,Rock,
-202406230042,2024/06/23 00:42,42.63,-89.11,None,MKX,T,TORNADO,6 ESE Footville,Rock,WI,NWS Storm Survey,NWS Storm Survey: EF-2 tornado with estimated peak wind speeds of 115mph. Estimated to be on the ground from 7:42pm-7:53pm. Most of the damage was at EF-1 level but a few spots on the southern side o,WIC105,Rock,
-202406230044,2024/06/23 00:44,42.83,-76.40,1.25,BGM,H,HAIL,Niles,Cayuga,NY,Trained Spotter,Picture shows hail stone in hand that looks between 1 and 1.5 inches.,NYC011,Cayuga,E
-202406230045,2024/06/23 00:45,43.43,-90.89,None,ARX,F,FLASH FLOOD,5 NNE Fairview,Vernon,WI,Law Enforcement,Reports of road closures due to water and debris over roads.,WIC123,Vernon,
-202406230047,2024/06/23 00:47,43.33,-76.47,None,BUF,D,TSTM WND DMG,3 WNW Fulton,Oswego,NY,911 Call Center,Multiple trees and wires down in Granby.,NYC075,Oswego,
-202406230050,2024/06/23 00:50,40.68,-75.17,1.0,PHI,H,HAIL,2 NNW Alpha,Warren,NJ,Public,Hail estimated up to the size of quarters in the Valley View neighborhood of Phillipsburg. Time estimated from radar.,NJC041,Warren,E
-202406230050,2024/06/23 00:50,43.32,-76.41,None,BUF,D,TSTM WND DMG,Fulton,Oswego,NY,911 Call Center,Multiple trees and wires down in Fulton.,NYC075,Oswego,
-202406230053,2024/06/23 00:53,43.32,-76.41,0.7,BUF,H,HAIL,Fulton,Oswego,NY,Trained Spotter,Multiple reports of dime sized hail in Fulton.,NYC075,Oswego,E
-202406230053,2024/06/23 00:53,43.33,-76.41,1.25,BUF,H,HAIL,1 N Fulton,Oswego,NY,Public,Half dollar sized hail reported in Fulton.,NYC075,Oswego,M
-202406230053,2024/06/23 00:53,43.32,-76.41,1.5,BUF,H,HAIL,Fulton,Oswego,NY,Public,Picture of ping pong ball sized hail in Fulton sent via social media.,NYC075,Oswego,M
-202406230054,2024/06/23 00:54,40.68,-75.14,None,PHI,D,TSTM WND DMG,2 NNE Alpha,Warren,NJ,Dept of Highways,Downed tree on US 22 westbound East of CR 519/Saint James St/Uniontown Rd in Pohatcong Twp. All lanes closed. Time estimated from radar.,NJC041,Warren,
-202406230055,2024/06/23 00:55,40.68,-75.13,None,PHI,D,TSTM WND DMG,2 SW Stewartsville,Warren,NJ,911 Call Center,Several trees and wires down near Greenwich Township_ NJ. Time estimated from radar.,NJC041,Warren,
-202406230057,2024/06/23 00:57,42.63,-89.25,None,MKX,F,FLASH FLOOD,Orfordville,Rock,WI,Law Enforcement,Trained spotter reported flooding on Hwy 11 and 213 near Orfordville at 757 PM CDT. Later_ at 11 PM CDT_ Law Enforcement confirmed the roadways were still experiencing significant flooding.,WIC105,Rock,
+201906211800,2019/06/21 18:00,48.78,-104.56,1.22,GGW,R,HEAVY RAIN,PLENTYWOOD,SHERIDAN,MT,PUBLIC,SINCE 6:30 AM.,MTC091,Sheridan,M
+201906211801,2019/06/21 18:01,43.90,-99.99,None,ABR,C,FUNNEL CLOUD,3 E PRESHO,LYMAN,SD,TRAINED SPOTTER,RELAYED THROUGH HIGHWAY PATROL. 2ND FUNNEL CLOUD REPORTED WITH THESE DEVELOPING CELLS.,SDC085,Lyman,
+201906211810,2019/06/21 18:10,37.89,-93.62,0.25,SGF,H,HAIL,COLLINS,ST. CLAIR,MO,EMERGENCY MNGR,PEA SIZE HAIL.,MOC185,St. Clair,M
+201906211812,2019/06/21 18:12,48.87,-104.05,2.3,GGW,R,HEAVY RAIN,WESTBY,SHERIDAN,MT,TRAINED SPOTTER,STORM TOTAL SINCE LAST NIGHT.,MTC091,Sheridan,M
+201906211820,2019/06/21 18:20,47.88,-103.28,None,BIS,C,FUNNEL CLOUD,5 N WATFORD CITY,MCKENZIE,ND,LAW ENFORCEMENT,SEVERAL BRIEF FUNNEL CLOUDS (COLD AIR FUNNELS) WERE REPORTED NORTH OF WATFORD CITY. THESE FUNNELS ARE NOT ASSOCIATED WITH SEVERE THUNDERSTORMS.,NDC053,McKenzie,
+201906211823,2019/06/21 18:23,38.13,-91.77,48.0,SGF,G,TSTM WND GST,2 NNW VICHY,MARIES,MO,ASOS,ASOS REPORTED A 48 MPH WIND GUST AT 1:23 PM.,MOC125,Maries,M
+201906211825,2019/06/21 18:25,37.65,-92.67,40.0,SGF,G,TSTM WND GST,2 S LEBANON,LACLEDE,MO,MESONET,MESONET STATION MO008 I-44 MM 126-LEBANON.,MOC105,Laclede,M
+201906211838,2019/06/21 18:38,37.67,-93.75,None,SGF,D,TSTM WND DMG,3 SE STOCKTON,CEDAR,MO,PARK/FOREST SRVC,LARGE TREE LIMBS DOWNED NEAR CRABTREE COVE CAMPING PARK. TIME ESTIMATED BY RADAR.,MOC039,Cedar,
+201906211842,2019/06/21 18:42,38.53,-89.13,None,LSX,D,TSTM WND DMG,CENTRALIA,MARION,IL,BROADCAST MEDIA,BROADCAST MEDIA AND LAW ENFORCEMENT REPORT TREES AND LINES DOWN IN CENTRALIA.,ILC121,Marion,
+201906211843,2019/06/21 18:43,38.53,-89.13,None,LSX,D,TSTM WND DMG,CENTRALIA,MARION,IL,PUBLIC,MULTIPLE TREES DOWN. TIME ESTIMATED FROM RADAR.,ILC121,Marion,
+201906211846,2019/06/21 18:46,41.90,-92.28,1.0,DVN,R,HEAVY RAIN,BELLE PLAINE,BENTON,IA,TRAINED SPOTTER,RAINFALL SO FAR TODAY.,IAC011,Benton,M
+201906211850,2019/06/21 18:50,37.62,-93.40,None,SGF,D,TSTM WND DMG,1 NE BOLIVAR,POLK,MO,NEWSPAPER,CORRECTS PREVIOUS NON-TSTM WND DMG REPORT FROM 1 NE BOLIVAR TO TSTM WND DMG. A TREE LANDED ON A HOUSE IN BOLIVAR ON EAST DIVISION STREET. TIME ESTIMATED FROM RADAR.,MOC167,Polk,
+201906211850,2019/06/21 18:50,37.62,-93.40,None,SGF,O,NON-TSTM WND DMG,1 NE BOLIVAR,POLK,MO,NEWSPAPER,A TREE LANDED ON A HOUSE IN BOLIVAR ON EAST DIVISION STREET. TIME ESTIMATED FROM RADAR.,MOC167,Polk,
+201906211856,2019/06/21 18:56,37.32,-92.97,40.0,SGF,G,TSTM WND GST,2 NNE NORTHVIEW,WEBSTER,MO,NWS EMPLOYEE,GUST TO 40 MPH.,MOC225,Webster,M
+201906211900,2019/06/21 19:00,40.30,-107.04,0.93,GJT,R,HEAVY RAIN,OAK CREEK 5WNW,ROUTT,CO,TRAINED SPOTTER,STORM TOTAL SO FAR. INCLUDES MELTED SNOW.,COC107,Routt,M
+201906211905,2019/06/21 19:05,37.71,-91.87,None,SGF,D,TSTM WND DMG,EDGAR SPRINGS,PHELPS,MO,PUBLIC,TREE LIMBS DOWN. ESTIMATED 55-60 MPH WINDS. REPORT VIA SOCIAL MEDIA.,MOC161,Phelps,
+201906211907,2019/06/21 19:07,37.49,-93.20,None,SGF,D,TSTM WND DMG,5 ENE PLEASANT HOPE,POLK,MO,NEWSPAPER,A TREE FELL AND BLOCKED A ROADWAY ON 240TH ROAD NORTHEAST OF PLEASANT HOPE. TIME ESTIMATED FROM RADAR.,MOC167,Polk,
+201906211909,2019/06/21 19:09,38.55,-95.25,None,TOP,D,TSTM WND DMG,5 NNE PRINCETON,FRANKLIN,KS,TRAINED SPOTTER,DELAYED REPORT OF 15-20 POWER POLES SNAPPED ALONG ROCK CREEK ROAD.,KSC059,Franklin,
+201906211910,2019/06/21 19:10,39.73,-90.23,1.11,ILX,R,HEAVY RAIN,JACKSONVILLE,MORGAN,IL,CO-OP OBSERVER,RAINFALL SINCE 0700,ILC137,Morgan,M
+201906211910,2019/06/21 19:10,37.24,-93.39,39.0,SGF,G,TSTM WND GST,5 SSE WILLARD,GREENE,MO,ASOS,ASOS MEASURED 34KT WINDS. AT NWS OFFICE RSOIS REPORTED 40 MPH WIND GUST.,MOC077,Greene,M
+201906211910,2019/06/21 19:10,37.24,-93.39,40.0,SGF,G,TSTM WND GST,5 SSE WILLARD,GREENE,MO,ASOS,CORRECTS PREVIOUS TSTM WND GST REPORT FROM 5 SSE WILLARD. ASOS MEASURED 35KT WINDS.,MOC077,Greene,M
+201906211915,2019/06/21 19:15,38.29,-88.94,60.0,PAH,G,TSTM WND GST,3 SW MOUNT VERNON,JEFFERSON,IL,TRAINED SPOTTER,POWER OUTAGE.,ILC081,Jefferson,E
+201906211921,2019/06/21 19:21,37.65,-91.54,None,SGF,D,TSTM WND DMG,SALEM,DENT,MO,PUBLIC,SEVERAL REPORTS OF LIMBS AND OBJECTS DOWN IN/AROUND SALEM. REPORTS VIA SOCIAL MEDIA. TIME ESTIMATED BY RADAR.,MOC065,Dent,
+201906211922,2019/06/21 19:22,37.14,-93.24,None,SGF,O,NON-TSTM WND DMG,GALLOWAY,GREENE,MO,PUBLIC,LARGE LIMB DOWN NEAR LONE PINE-REPUBLIC RD. OCCURRED WITH OUTFLOW BOUNDARY WELL SOUTH OF EXISTING STORMS.,MOC077,Greene,
+201906211923,2019/06/21 19:23,48.54,-109.55,0.6,TFX,R,HEAVY RAIN,6 E HAVRE,HILL,MT,PUBLIC,RAIN TOTAL SO FAR. STILL RAINING.,MTC041,Hill,M
+201906211929,2019/06/21 19:29,37.24,-93.39,40.0,SGF,G,TSTM WND GST,5 SSE WILLARD,GREENE,MO,ASOS,CORRECTS PREVIOUS TSTM WND GST REPORT FROM 5 SSE WILLARD TIME. ASOS MEASURED 35KT WINDS.,MOC077,Greene,M
+201906211929,2019/06/21 19:29,37.23,-93.38,40.0,SGF,G,TSTM WND GST,6 SSE WILLARD,GREENE,MO,ASOS,ASOS STATION KSGF SPRINGFIELD ASOS.,MOC077,Greene,M
+201906211931,2019/06/21 19:31,38.77,-90.43,0.25,LSX,H,HAIL,BRIDGETON,ST. LOUIS,MO,TRAINED SPOTTER,,MOC189,St. Louis,E
+201906211940,2019/06/21 19:40,37.27,-93.12,1.0,SGF,H,HAIL,STRAFFORD,GREENE,MO,EMERGENCY MNGR,CORRECTS PREVIOUS HAIL REPORT FROM STRAFFORD FOR TIME. STRAFFORD IS REPORTING HEAVY_ CONSISTENT QUARTER SIZED HAIL. TIME BASED ON RADAR.,MOC077,Greene,M
+201906211941,2019/06/21 19:41,37.32,-92.97,0.7,SGF,H,HAIL,2 NNE NORTHVIEW,WEBSTER,MO,NWS EMPLOYEE,UNDER DIME SIZE HAIL OF 0.5 INCHL.,MOC225,Webster,M
+201906211944,2019/06/21 19:44,47.80,-107.02,54.0,GGW,N,NON-TSTM WND GST,14 NNW HELL CREEK REC A,VALLEY,MT,MESONET,MESONET STATION KIGM8 IN KING COULEE ALONG FT. PECK RSVR.,MTC105,Valley,M
+201906211944,2019/06/21 19:44,38.25,-88.51,59.0,PAH,G,TSTM WND GST,3 NE BELLE PRAIRIE CITY,HAMILTON,IL,MESONET,,ILC065,Hamilton,M
+201906211945,2019/06/21 19:45,37.27,-93.12,1.0,SGF,H,HAIL,STRAFFORD,GREENE,MO,EMERGENCY MNGR,STRAFFORD IS REPORTING HEAVY_ CONSISTENT QUARTER SIZED HAIL. TIME BASED ON RADAR.,MOC077,Greene,M
+201906212000,2019/06/21 20:00,47.96,-108.31,53.0,GGW,N,NON-TSTM WND GST,11 ENE ZORTMAN,PHILLIPS,MT,MESONET,MESONET STATION MTMAL MALTA 35S.,MTC071,Phillips,M
+201906212025,2019/06/21 20:25,36.73,-91.85,None,SGF,D,TSTM WND DMG,WEST PLAINS,HOWELL,MO,EMERGENCY MNGR,POWER LINES DOWN IN WEST PLAINS. WEST PLAINS ASOS REPORTED AT 3:19 PM 41 MPH GUST. TIME ESTIMATED.,MOC091,Howell,
+201906212043,2019/06/21 20:43,37.05,-91.06,None,PAH,D,TSTM WND DMG,4 NW VAN BUREN,CARTER,MO,EMERGENCY MNGR,*** 1 FATAL_ 2 INJ *** TREE FELL ON BOAT ON THE CURRENT RIVER IN THE VICINITY OF THE WAYMEYER SHUTE NATIONAL PARK SERVICE RIVER ACCESS. DRIVER OF THE BOAT WAS KILLED AND TWO PASSENGERS SERIOUSLY INJU,MOC035,Carter,
+201906212044,2019/06/21 20:44,47.80,-107.02,67.0,GGW,N,NON-TSTM WND GST,14 NNW HELL CREEK REC A,VALLEY,MT,MESONET,MESONET STATION KIGM8 KING COULEE.,MTC105,Valley,M
+201906212045,2019/06/21 20:45,37.07,-91.05,None,PAH,D,TSTM WND DMG,4 NNW VAN BUREN,CARTER,MO,EMERGENCY MNGR,LARGE LIMBS DOWN ON NORTH END OF M HIGHWAY.,MOC035,Carter,
+201906212050,2019/06/21 20:50,38.36,-87.57,None,PAH,D,TSTM WND DMG,PRINCETON,GIBSON,IN,TRAINED SPOTTER,POWER LINES DOWN. FLAG POLES BENT. TREE LIMBS BROKEN.,INC051,Gibson,
+201906212050,2019/06/21 20:50,36.91,-92.81,None,SGF,D,TSTM WND DMG,GOODHOPE,DOUGLAS,MO,AMATEUR RADIO,TREE AND LIMBS DOWN IN THE GOODHOPE AREA.,MOC067,Douglas,
+201906212100,2019/06/21 21:00,47.96,-108.31,60.0,GGW,N,NON-TSTM WND GST,11 ENE ZORTMAN,PHILLIPS,MT,MESONET,MEASURED AT MALTA SOUTH 191 MDT SITE MTMAL,MTC071,Phillips,M
+201906212102,2019/06/21 21:02,37.22,-91.42,None,SGF,D,TSTM WND DMG,4 S ROUND SPRING,SHANNON,MO,CO-OP OBSERVER,MULTIPLE LARGE TREE LIMBS DOWNED NORTH OF EMINENCE ALONG HWY D AND HWY 19. DELAYED REPORT. TIME ESTIMATED BY RADAR.,MOC203,Shannon,
+201906212105,2019/06/21 21:05,37.50,-90.01,None,PAH,D,TSTM WND DMG,PATTON,BOLLINGER,MO,BROADCAST MEDIA,POWERLINES DOWN. BROADCAST MEDIA RELAYED.,MOC017,Bollinger,
+201906212106,2019/06/21 21:06,39.22,-104.64,61.0,BOU,G,TSTM WND GST,6 W ELBERT,ELBERT,CO,ASOS,MONUMENT HILL ASOS.,COC039,Elbert,M
+201906212106,2019/06/21 21:06,37.45,-90.03,None,PAH,D,TSTM WND DMG,4 SSW PATTON,BOLLINGER,MO,EMERGENCY MNGR,TREES SNAPPED AND DAMAGE TO THE PORCH ON A HOUSE. TIME ESTIMATED.,MOC017,Bollinger,
+201906212108,2019/06/21 21:08,47.56,-107.53,58.0,GGW,N,NON-TSTM WND GST,7 SE DEVILS CREEK REC A,GARFIELD,MT,MESONET,MEASURED AT SOUTH SAWMILL RAWS SITE SSMM8,MTC033,Garfield,M
+201906212110,2019/06/21 21:10,37.40,-89.92,None,PAH,D,TSTM WND DMG,7 WNW BURFORDVILLE,BOLLINGER,MO,BROADCAST MEDIA,RELAYED BY BROADCAST MEDIA. 2 TREES DOWN IN SCOPUS.,MOC017,Bollinger,
+201906212110,2019/06/21 21:10,37.31,-89.97,None,PAH,D,TSTM WND DMG,MARBLE HILL,BOLLINGER,MO,EMERGENCY MNGR,NUMEROUS TREES AND POWER LINES DOWN AROUND THE COUNTY. TIME ESTIMATED.,MOC017,Bollinger,
+201906212117,2019/06/21 21:17,37.39,-89.67,None,PAH,D,TSTM WND DMG,JACKSON,CAPE GIRARDEAU,MO,BROADCAST MEDIA,BRICKS STRIPPED FROM AN APARTMENT BUILDING. HEAVY TREE DAMAGE. TIME ESTIMATED.,MOC031,Cape Girardeau,
+201906212120,2019/06/21 21:20,37.10,-90.43,0.75,PAH,H,HAIL,2 SSE GREENVILLE,WAYNE,MO,TRAINED SPOTTER,MEDIA RELAYED.,MOC223,Wayne,E
+201906212125,2019/06/21 21:25,37.22,-89.74,None,PAH,D,TSTM WND DMG,1 ESE ALLENVILLE,CAPE GIRARDEAU,MO,TRAINED SPOTTER,MULTIPLE TREES AND TREE LIMBS DOWN_ SIDING PEELED OFF.,MOC031,Cape Girardeau,
+201906212125,2019/06/21 21:25,37.30,-89.57,None,PAH,D,TSTM WND DMG,1 WSW CAPE GIRARDEAU,CAPE GIRARDEAU,MO,PUBLIC,60MPH WIND GUST_ BROKEN TREELIMBS AND ROOF SHINGLE DAMAGE.,MOC031,Cape Girardeau,
+201906212125,2019/06/21 21:25,37.30,-89.55,None,PAH,D,TSTM WND DMG,CAPE GIRARDEAU,CAPE GIRARDEAU,MO,BROADCAST MEDIA,WINDOWS BLOWN OUT OF RESTORE HORIZON. WINDOWS ALSO BLOWN OUT OF CARS. TIME ESTIMATED.,MOC031,Cape Girardeau,
+201906212129,2019/06/21 21:29,37.23,-89.58,72.0,PAH,G,TSTM WND GST,2 W SCOTT CITY,SCOTT,MO,ASOS,,MOC201,Scott,M
+201906212130,2019/06/21 21:30,36.90,-90.31,None,PAH,D,TSTM WND DMG,3 SW WAPPAPELLO,BUTLER,MO,EMERGENCY MNGR,LARGE TREE BLOCKING HIGHWAY T 1 MILE SOUTH OF ROUTE KK.,MOC023,Butler,
+201906212132,2019/06/21 21:32,37.75,-89.35,None,PAH,D,TSTM WND DMG,1 SSW MURPHYSBORO,JACKSON,IL,EMERGENCY MNGR,TREE DOWN NEAR S.20TH/LINDELL AVE.,ILC077,Jackson,
+201906212133,2019/06/21 21:33,39.35,-104.33,1.0,BOU,H,HAIL,7 E KIOWA,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,E
+201906212133,2019/06/21 21:33,36.77,-90.33,59.0,PAH,G,TSTM WND GST,4 E POPLAR BLUFF,BUTLER,MO,ASOS,,MOC023,Butler,M
+201906212136,2019/06/21 21:36,39.27,-104.31,1.75,BOU,H,HAIL,8 ENE FONDIS,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,M
+201906212140,2019/06/21 21:40,39.26,-104.15,1.2,BOU,H,HAIL,9 NNW SIMLA,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,M
+201906212140,2019/06/21 21:40,37.62,-89.21,None,PAH,D,TSTM WND DMG,2 E MAKANDA,JACKSON,IL,EMERGENCY MNGR,TWO TREES COVERING ROCKY COMFORT ROAD. TIME ESTIAMTED.,ILC077,Jackson,
+201906212140,2019/06/21 21:40,37.20,-89.69,None,PAH,D,TSTM WND DMG,2 NW CHAFFEE,CAPE GIRARDEAU,MO,PUBLIC,HOME WITH SIGNIFICANT SHINGLE DAMAGE.,MOC031,Cape Girardeau,
+201906212140,2019/06/21 21:40,37.73,-89.22,None,PAH,D,TSTM WND DMG,CARBONDALE,JACKSON,IL,EMERGENCY MNGR,LARGE TREE BRANCH ON HOUSE. TREE LIMBS DOWN AROUND THE AREA AS WELL. TIME ESTIMATED.,ILC077,Jackson,
+201906212140,2019/06/21 21:40,37.74,-87.70,None,PAH,D,TSTM WND DMG,CORYDON,HENDERSON,KY,FIRE DEPT/RESCUE,TREE DOWN ON HIGHWAY 145.,KYC101,Henderson,
+201906212141,2019/06/21 21:41,39.26,-104.15,1.3,BOU,H,HAIL,9 NNW SIMLA,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,M
+201906212145,2019/06/21 21:45,36.80,-90.08,48.0,PAH,G,TSTM WND GST,1 NE DUDLEY,STODDARD,MO,TRAINED SPOTTER,,MOC207,Stoddard,M
+201906212145,2019/06/21 21:45,33.30,-96.98,97.0,FWD,I,EXCESSIVE HEAT,AUBREY,DENTON,TX,BROADCAST MEDIA,***1 FATALITY*** A 4 YEAR OLD CHILD WAS FOUND INSIDE A CAR IN AUBREY ON FRIDAY BEFORE PASSING AWAY SATURDAY MORNING. TEMPERATURE WAS 97 DEGREES WITH A HEAT INDEX OF 107 DEGREES.,TXC121,Denton,M
+201906212145,2019/06/21 21:45,37.25,-89.19,None,PAH,D,TSTM WND DMG,2 S ULLIN,PULASKI,IL,BROADCAST MEDIA,*** 1 FATAL *** ONE PERSON WAS KILLED WHEN A TREE FELL ONTO A CAR ON OLD HIGHWAY 51.,ILC153,Pulaski,
+201906212145,2019/06/21 21:45,37.78,-89.32,None,PAH,F,FLASH FLOOD,1 NE MURPHYSBORO,JACKSON,IL,EMERGENCY MNGR,ROAD FLOODING ON 149E.,ILC077,Jackson,
+201906212146,2019/06/21 21:46,37.11,-89.20,None,PAH,D,TSTM WND DMG,MOUNDS,PULASKI,IL,EMERGENCY MNGR,*** 1 INJ *** ONE PERSON WAS SERIOUSLY INJURED WHEN A TREE FELL THEM IN A PARK IN MOUNDS. REPORT RELAYED BY PULASKI COUNTY EM.,ILC153,Pulaski,
+201906212149,2019/06/21 21:49,36.76,-90.39,None,PAH,D,TSTM WND DMG,POPLAR BLUFF,BUTLER,MO,PUBLIC,LARGE TREE SNAPPED. PHOTO RELAYED VIA TWITTER. TIME ESTIMATED.,MOC023,Butler,
+201906212150,2019/06/21 21:50,37.76,-89.07,None,PAH,D,TSTM WND DMG,1 E CARTERVILLE,WILLIAMSON,IL,TRAINED SPOTTER,TREES DOWN ALONG GRAND AVE.,ILC199,Williamson,
+201906212150,2019/06/21 21:50,37.80,-89.03,None,PAH,D,TSTM WND DMG,HERRIN,WILLIAMSON,IL,TRAINED SPOTTER,POWER OUTAGES_ TREES SNAPPED.,ILC199,Williamson,
+201906212151,2019/06/21 21:51,39.14,-104.10,1.75,BOU,H,HAIL,1 W SIMLA,ELBERT,CO,BROADCAST MEDIA,,COC039,Elbert,M
+201906212154,2019/06/21 21:54,37.81,-89.03,None,PAH,D,TSTM WND DMG,HERRIN,WILLIAMSON,IL,BROADCAST MEDIA,TREE ON A HOME. TIME ESTIMATED.,ILC199,Williamson,
+201906212155,2019/06/21 21:55,39.11,-104.04,1.8,BOU,H,HAIL,3 SE SIMLA,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,M
+201906212155,2019/06/21 21:55,36.93,-89.34,None,PAH,D,TSTM WND DMG,1 NNW CHARLESTON,MISSISSIPPI,MO,TRAINED SPOTTER,TREE LIMBS DOWN. 55-60MPH ESTIMATE.,MOC133,Mississippi,
+201906212156,2019/06/21 21:56,38.28,-86.97,None,LMK,D,TSTM WND DMG,1 SW HUNTINGBURG,DUBOIS,IN,EMERGENCY MNGR,EM REPORTS TREE DOWN ACROSS OLD SR 64 NEAR HUNTINGBURG. ALSO HAD REPORT OF TREE DOWN ACROSS DIVISION ROAD WEST OF JASPER. TIME ESTIMATED BASED ON RADAR.,INC037,Dubois,
+201906212158,2019/06/21 21:58,37.06,-88.96,1.0,PAH,H,HAIL,2 SSE LA CENTER,BALLARD,KY,PUBLIC,TIME ESTIMATED.,KYC007,Ballard,E
+201906212158,2019/06/21 21:58,37.05,-89.05,3.0,PAH,H,HAIL,BARLOW,BALLARD,KY,PUBLIC,HAIL STONE MEASURED 3.4 INCHES IN DIAMETER. PHOTO RELAYED VIA TWITTER. TIME ESTIMATED.,KYC007,Ballard,M
+201906212158,2019/06/21 21:58,37.42,-88.90,None,PAH,D,TSTM WND DMG,VIENNA,JOHNSON,IL,LAW ENFORCEMENT,NUMEROUS TREES DOWN AROUND THE COUNTY. ROADS BLOCKED BY FALLEN TREES. AT LEAST ONE POWER POLE KNOCKED DOWN. TIME ESTIMATED.,ILC087,Johnson,
+201906212159,2019/06/21 21:59,39.16,-104.08,2.0,BOU,H,HAIL,1 N SIMLA,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,M
+201906212203,2019/06/21 22:03,39.21,-103.97,2.75,BOU,H,HAIL,3 N MATHESON,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,M
+201906212203,2019/06/21 22:03,37.73,-88.80,60.0,PAH,G,TSTM WND GST,4 SE PITTSBURG,WILLIAMSON,IL,PUBLIC,TIME ESTIMATED.,ILC199,Williamson,E
+201906212203,2019/06/21 22:03,37.62,-88.83,70.0,PAH,G,TSTM WND GST,CREAL SPRINGS,WILLIAMSON,IL,PUBLIC,TIME ESTIMATED.,ILC199,Williamson,E
+201906212203,2019/06/21 22:03,37.47,-88.78,None,PAH,D,TSTM WND DMG,1 W SIMPSON,JOHNSON,IL,LAW ENFORCEMENT,SEVERAL OAK TREES OF 3 TO 4 FEET IN DIAMETER BLOWN DOWN. TIME ESTIMATED.,ILC087,Johnson,
+201906212204,2019/06/21 22:04,39.20,-103.89,1.75,BOU,H,HAIL,5 ENE MATHESON,ELBERT,CO,TRAINED SPOTTER,,COC039,Elbert,M
+201906212207,2019/06/21 22:07,39.20,-103.83,0.7,BOU,H,HAIL,8 ENE MATHESON,ELBERT,CO,TRAINED SPOTTER,ACTUALLY 0.5 INCH BUT NO OPTION.,COC039,Elbert,M
+201906212210,2019/06/21 22:10,37.05,-88.96,1.0,PAH,H,HAIL,2 SSE LA CENTER,BALLARD,KY,TRAINED SPOTTER,PHOTO RELAYED VIA TWITTER.,KYC007,Ballard,E
+201906212210,2019/06/21 22:10,37.73,-88.93,75.0,PAH,G,TSTM WND GST,1 E MARION,WILLIAMSON,IL,PUBLIC,,ILC199,Williamson,E
+201906212210,2019/06/21 22:10,37.09,-88.89,None,PAH,D,TSTM WND DMG,KEVIL,BALLARD,KY,PUBLIC,LARGE LIMBS DOWN. TREES UPROOTED.,KYC007,Ballard,
+201906212215,2019/06/21 22:15,36.97,-89.09,1.0,PAH,H,HAIL,WICKLIFFE,BALLARD,KY,PUBLIC,TIME ESTIMATED.,KYC007,Ballard,E
+201906212216,2019/06/21 22:16,37.07,-88.73,57.0,PAH,G,TSTM WND GST,5 W PADUCAH,MCCRACKEN,KY,ASOS,,KYC145,McCracken,M
+201906212216,2019/06/21 22:16,37.06,-88.77,None,PAH,D,TSTM WND DMG,2 SSE HEATH,MCCRACKEN,KY,OTHER FEDERAL,BARKLEY REGIONAL AIRPORT TEMPORARY AIRPORT TOWER TRAILER SHIFTED OFF FOUNDATION. TIME ESTIMATED.,KYC145,McCracken,
+201906212217,2019/06/21 22:17,38.21,-86.87,None,LMK,D,TSTM WND DMG,1 SSW FERDINAND,DUBOIS,IN,EMERGENCY MNGR,REPORT OF ONE LARGE TREE DOWN ADJACENT TO HOUSE NEAR E MARIAH HILL ROAD NEAR FERDINAND.,INC037,Dubois,
+201906212217,2019/06/21 22:17,37.13,-88.69,None,PAH,D,TSTM WND DMG,5 NNW PADUCAH,MCCRACKEN,KY,LAW ENFORCEMENT,SEMI TRUCK OVERTURNED ON THE I-24 BRIDGE OVER THE OHIO RIVER.,KYC145,McCracken,
+201906212221,2019/06/21 22:21,37.78,-87.11,60.0,PAH,G,TSTM WND GST,OWENSBORO,DAVIESS,KY,TRAINED SPOTTER,,KYC059,Daviess,E
+201906212221,2019/06/21 22:21,37.10,-88.62,None,PAH,D,TSTM WND DMG,2 NNE PADUCAH,MCCRACKEN,KY,BROADCAST MEDIA,DELAYED REPORT. APPROXIMATELY 175 FEET OF THE WITHERS BROADCASTING TOWER IN PADUCAH WAS KNOCKED DOWN BY THUNDERSTORM WINDS. THE TOWER IS 400 FEET TALL.,KYC145,McCracken,
+201906212222,2019/06/21 22:22,37.04,-88.67,None,PAH,D,TSTM WND DMG,LONE OAK,MCCRACKEN,KY,PUBLIC,SEVERAL TREES DOWN. TIME ESTIMATED.,KYC145,McCracken,
+201906212222,2019/06/21 22:22,37.07,-88.63,None,PAH,D,TSTM WND DMG,PADUCAH,MCCRACKEN,KY,BROADCAST MEDIA,STRUCTURAL DAMAGE TO BUILDINGS IN DOWNTOWN PADUCAH. LARGE TREES DOWN ALONG BROADWAY. TIME ESTIMATED.,KYC145,McCracken,
+201906212223,2019/06/21 22:23,37.78,-87.11,1.0,PAH,H,HAIL,OWENSBORO,DAVIESS,KY,TRAINED SPOTTER,,KYC059,Daviess,E
+201906212223,2019/06/21 22:23,39.12,-95.84,1.53,TOP,R,HEAVY RAIN,2 NE SILVER LAKE,SHAWNEE,KS,TRAINED SPOTTER,DELAYED REPORT OF RAINFALL FROM MORNING STORMS.,KSC177,Shawnee,M
+201906212223,2019/06/21 22:23,36.60,-89.53,65.0,PAH,G,TSTM WND GST,NEW MADRID,NEW MADRID,MO,EMERGENCY MNGR,ESTIMATED 60-70 MPH WIND GUSTS.,MOC143,New Madrid,E
+201906212225,2019/06/21 22:25,37.39,-87.31,65.0,PAH,G,TSTM WND GST,3 SW SACRAMENTO,HOPKINS,KY,TRAINED SPOTTER,,KYC107,Hopkins,M
+201906212225,2019/06/21 22:25,36.38,-90.20,None,MEG,D,TSTM WND DMG,PIGGOTT,CLAY,AR,SOCIAL MEDIA,NUMEROUS TREES DOWN ACROSS PIGGOTT.,ARC021,Clay,
+201906212230,2019/06/21 22:30,39.91,-105.12,0.25,BOU,H,HAIL,2 SE SUPERIOR,JEFFERSON,CO,TRAINED SPOTTER,,COC059,Jefferson,M
+201906212230,2019/06/21 22:30,39.12,-103.69,2.0,BOU,H,HAIL,10 S LIMON,LINCOLN,CO,TRAINED SPOTTER,,COC073,Lincoln,M
+201906212230,2019/06/21 22:30,37.89,-87.05,None,PAH,D,TSTM WND DMG,ROCKPORT,SPENCER,IN,TRAINED SPOTTER,TREES AND POWER LINES DOWN. TIME ESTIMATED.,INC147,Spencer,
+201906212237,2019/06/21 22:37,36.23,-90.04,60.0,MEG,G,TSTM WND GST,1 SE KENNETT,DUNKLIN,MO,AWOS,60 MPH WIND GUST AT KENNETT AIRPORT.,MOC069,Dunklin,M
+201906212238,2019/06/21 22:38,36.79,-89.01,None,PAH,D,TSTM WND DMG,ARLINGTON,CARLISLE,KY,PUBLIC,WIDESPREAD TREE AND POWER LINE DAMAGE.,KYC039,Carlisle,
+201906212239,2019/06/21 22:39,36.69,-88.71,None,PAH,D,TSTM WND DMG,3 NNE WINGO,GRAVES,KY,PUBLIC,DAMAGE TO THE FRONT OF THE CATFISH HOUSE. WINDOWS BLOWN OUT OF CARS. TIME ESTIMATED.,KYC083,Graves,
+201906212240,2019/06/21 22:40,36.42,-89.05,None,MEG,D,TSTM WND DMG,UNION CITY,OBION,TN,SOCIAL MEDIA,TREES_ POWER LINES_ AND UTILITY POLES DOWN.,TNC131,Obion,
+201906212242,2019/06/21 22:42,37.00,-88.30,None,PAH,D,TSTM WND DMG,2 S GILBERTSVILLE,MARSHALL,KY,NWS STORM SURVEY,MICROBURST AT THE KENTUCKY DAM VILLAGE GOLF CLUB. PEAK WINDS 110 MPH. SNAPPED OR UPROOTED 75 TREES.,KYC157,Marshall,
+201906212242,2019/06/21 22:42,36.99,-88.30,None,PAH,T,TORNADO,2 S GILBERTSVILLE,MARSHALL,KY,NWS STORM SURVEY,50 YARD WIDE TORNADO WITH PATH LENGTH OF .75 MILES. PEAK WINDS 110 MPH_ RATED EF1. SNAPPED AND UPROOTED TREES. DAMAGED 2 PIERS AT KENTUCKY DAM MARINA.,KYC157,Marshall,
+201906212245,2019/06/21 22:45,32.87,-100.83,1.5,MAF,H,HAIL,10 WSW HUDD,SCURRY,TX,PUBLIC,,TXC415,Scurry,E
+201906212247,2019/06/21 22:47,39.14,-103.47,60.0,BOU,G,TSTM WND GST,HUGO,LINCOLN,CO,TRAINED SPOTTER,NICKEL-SIZED HAIL; 0.22 INCH OF RAIN.,COC073,Lincoln,M
+201906212247,2019/06/21 22:47,37.03,-88.24,None,PAH,D,TSTM WND DMG,2 N GRAND RIVERS,LIVINGSTON,KY,PUBLIC,AT KENTUCKY DAM MARINA MULTIPLE BOATS BROKE LOOSE FROM MOORINGS. PARTS OF THE MARINA SUFFERED WIND DAMAGE. TIME ESTIMATED.,KYC139,Livingston,
+201906212249,2019/06/21 22:49,37.53,-86.97,None,LMK,D,TSTM WND DMG,2 NNW BEDA,OHIO,KY,911 CALL CENTER,REPORT OF TREE DOWN NEAR US HWY 231 N.,KYC183,Ohio,
+201906212250,2019/06/21 22:50,36.34,-88.86,None,MEG,D,TSTM WND DMG,MARTIN,WEAKLEY,TN,TRAINED SPOTTER,SPOTTER REPORTED MULTIPLE TREES FALLEN IN MARTIN TN.,TNC183,Weakley,
+201906212254,2019/06/21 22:54,36.86,-88.35,1.75,PAH,H,HAIL,BENTON,MARSHALL,KY,FIRE DEPT/RESCUE,PING PONG BALL TO GOLF BALL SIZE HAIL.,KYC157,Marshall,E
+201906212254,2019/06/21 22:54,36.86,-88.35,70.0,PAH,G,TSTM WND GST,BENTON,MARSHALL,KY,FIRE DEPT/RESCUE,,KYC157,Marshall,E
+201906212254,2019/06/21 22:54,37.76,-86.68,None,LMK,D,TSTM WND DMG,3 SE PATESVILLE,HANCOCK,KY,911 CALL CENTER,TREE DOWN ACROSS STATE ROUTE 1700. TIME ESTIMATED FROM RADAR.,KYC091,Hancock,
+201906212255,2019/06/21 22:55,36.13,-90.16,None,MEG,D,TSTM WND DMG,SENATH,DUNKLIN,MO,SOCIAL MEDIA,LARGE TREE DOWN AT THE BASEBALL FIELD.,MOC069,Dunklin,
+201906212255,2019/06/21 22:55,36.56,-88.81,None,PAH,D,TSTM WND DMG,1 SSW WATER VALLEY,GRAVES,KY,EMERGENCY MNGR,TREE FELL ON UNOCCUPIED HOUSE.,KYC083,Graves,
+201906212255,2019/06/21 22:55,36.76,-88.30,None,PAH,D,TSTM WND DMG,HARDIN,MARSHALL,KY,TRAINED SPOTTER,SIDING BLOWN OFF A HOME.,KYC157,Marshall,
+201906212300,2019/06/21 23:00,39.09,-108.12,0.25,GJT,H,HAIL,MESA 5SSE,MESA,CO,NWS EMPLOYEE,HAIL UP TO 0.5 IN DIAMETER.,COC077,Mesa,M
+201906212300,2019/06/21 23:00,38.92,-104.56,0.7,PUB,H,HAIL,3 ESE FALCON,EL PASO,CO,TRAINED SPOTTER,,COC041,El Paso,M
+201906212300,2019/06/21 23:00,30.89,-102.67,1.0,MAF,H,HAIL,13 E FORT STOCKTON,PECOS,TX,PUBLIC,,TXC371,Pecos,M
+201906212300,2019/06/21 23:00,36.70,-88.40,50.0,PAH,G,TSTM WND GST,2 NE KIRKSEY,CALLOWAY,KY,EMERGENCY MNGR,,KYC035,Calloway,M
+201906212300,2019/06/21 23:00,36.26,-89.01,None,MEG,D,TSTM WND DMG,4 N KENTON,OBION,TN,TRAINED SPOTTER,TWO LARGE OAK TREES AND SEVERAL APPLE TREES WERE DOWN OFF OF EAST UNION GROVE ROAD NORTH OF KENTON. TIME ESTIMATED OFF RADAR.,TNC131,Obion,
+201906212300,2019/06/21 23:00,36.60,-88.41,None,PAH,D,TSTM WND DMG,2 ENE LYNN GROVE,CALLOWAY,KY,EMERGENCY MNGR,KY-94 AT KY-299 BLOCKED DUE TO DOWN POWER LINE. POWER POLE SNAPPED.,KYC035,Calloway,
+201906212304,2019/06/21 23:04,36.65,-88.46,75.0,PAH,G,TSTM WND GST,3 SW KIRKSEY,CALLOWAY,KY,PUBLIC,ESTIMATED 70-80 MPH WINDS. CARPORT ANCHORS RIPPED FROM CONCRETE. TREES DOWN. RELAYED VIA TWITTER.,KYC035,Calloway,E
+201906212307,2019/06/21 23:07,31.73,-102.35,0.88,MAF,H,HAIL,8 S ODESSA,ECTOR,TX,PUBLIC,,TXC135,Ector,E
+201906212308,2019/06/21 23:08,36.59,-88.34,65.0,PAH,G,TSTM WND GST,2 SW MURRAY,CALLOWAY,KY,NWS EMPLOYEE,ESTIMATED 60-65 MPH WINDS. TREE LIMBS DOWN. REPORTED BY OFF-DUTY NWS EMPLOYEE.,KYC035,Calloway,E
+201906212310,2019/06/21 23:10,36.78,-88.07,65.0,PAH,G,TSTM WND GST,3 WSW GOLDON POND,TRIGG,KY,TRAINED SPOTTER,REPORTED ON THE TRACE NEAR US 68.,KYC221,Trigg,E
+201906212310,2019/06/21 23:10,30.71,-102.68,None,MAF,T,TORNADO,16 SE FORT STOCKTON,PECOS,TX,PUBLIC,,TXC371,Pecos,
+201906212312,2019/06/21 23:12,31.63,-102.33,1.25,MAF,H,HAIL,3 N PLEASANT FARMS,CRANE,TX,PUBLIC,,TXC103,Crane,E
+201906212313,2019/06/21 23:13,30.71,-102.68,None,MAF,T,TORNADO,16 SE FORT STOCKTON,PECOS,TX,LAW ENFORCEMENT,FUNNEL NOT FULLY CONDENSED_ BEGAN TO DISSIPATE.,TXC371,Pecos,
+201906212315,2019/06/21 23:15,37.89,-87.05,2.0,PAH,R,HEAVY RAIN,ROCKPORT,SPENCER,IN,TRAINED SPOTTER,MEASURED IN 15 TO 20 MINUTES.,INC147,Spencer,E
+201906212315,2019/06/21 23:15,36.28,-88.69,None,MEG,D,TSTM WND DMG,DRESDEN,WEAKLEY,TN,BROADCAST MEDIA,LARGE TREE DOWN ACROSS STATE HIGHWAY 54 SOUTH OF DRESDEN AT LIBERTY RD.,TNC183,Weakley,
+201906212315,2019/06/21 23:15,36.86,-87.84,None,PAH,D,TSTM WND DMG,1 WSW CADIZ,TRIGG,KY,BROADCAST MEDIA,POWER LINE DOWN ON DEPOT STREET WITH 4 OR 5 KNOCKED DOWN ON TOP OF IT. TIME ESTIMATED.,KYC221,Trigg,
+201906212315,2019/06/21 23:15,36.86,-87.83,None,PAH,D,TSTM WND DMG,CADIZ,TRIGG,KY,TRAINED SPOTTER,TREES DOWN AROUND TRIGG COUNTY. TIME ESTIMATED.,KYC221,Trigg,
+201906212315,2019/06/21 23:15,36.61,-88.31,None,PAH,D,TSTM WND DMG,MURRAY,CALLOWAY,KY,EMERGENCY MNGR,POWER LINES DOWN.,KYC035,Calloway,
+201906212316,2019/06/21 23:16,36.77,-88.12,60.0,PAH,G,TSTM WND GST,1 ESE AURORA,MARSHALL,KY,TRAINED SPOTTER,REPORTED NEAR THE EGGNERS FERRY BRIDGE.,KYC157,Marshall,E
+201906212318,2019/06/21 23:18,36.19,-88.80,None,MEG,D,TSTM WND DMG,9 SW DRESDEN,WEAKLEY,TN,TRAINED SPOTTER,TREES DOWN ALONG HIGHWAY 45 NEAR SHARON. A BUILDING WAS ALSO DAMAGED ON MAIN ST IN THE TOWN OF SHARON.,TNC183,Weakley,
+201906212320,2019/06/21 23:20,37.88,-87.05,2.0,PAH,R,HEAVY RAIN,ROCKPORT,SPENCER,IN,TRAINED SPOTTER,FELL IN 20 MINUTES.,INC147,Spencer,M
+201906212320,2019/06/21 23:20,37.79,-86.35,None,LMK,D,TSTM WND DMG,GARFIELD,BRECKINRIDGE,KY,911 CALL CENTER,REPORT OF TREE FALLEN ON POWER LINES NEAR W HWY 86. POWER LINES ON THE GROUND_ AND LOCAL POWER OUTAGES.,KYC027,Breckinridge,
+201906212320,2019/06/21 23:20,35.93,-89.89,None,MEG,D,TSTM WND DMG,2 E BLYTHEVILLE,MISSISSIPPI,AR,TRAINED SPOTTER,TREE UPROOTED ON NORTH HOLLYWOOD ST. DELAYED REPORT.,ARC093,Mississippi,
+201906212320,2019/06/21 23:20,36.28,-88.69,None,MEG,D,TSTM WND DMG,DRESDEN,WEAKLEY,TN,BROADCAST MEDIA,REPORT OF A LARGE TREE DOWN ON HIGHWAY 89 NEAR TRAVIS CHAPEL RD. NEAR SHARON_ TN.,TNC183,Weakley,
+201906212320,2019/06/21 23:20,36.86,-87.77,None,PAH,D,TSTM WND DMG,3 E CADIZ,TRIGG,KY,BROADCAST MEDIA,MULTIPLE LARGE TREES SNAPPED. TIME ESTIMATED.,KYC221,Trigg,
+201906212320,2019/06/21 23:20,36.51,-88.32,None,PAH,D,TSTM WND DMG,HAZEL,CALLOWAY,KY,LAW ENFORCEMENT,MULTIPLE TREES DOWN.,KYC035,Calloway,
+201906212322,2019/06/21 23:22,36.87,-87.77,None,PAH,T,TORNADO,3 E CADIZ,TRIGG,KY,NWS STORM SURVEY,THE TORNADO WAS MINOR ROOF DAMAGE TO AT LEAST EIGHT HOMES_ PRIMARILY FROM FALLING TREES. ONE HOME HAD A BROKEN WINDOW. ONE BARN WAS LEVELED. SEVERAL POWER LINES WERE DOWNED_ MAINLY FROM FALLING TREES,KYC221,Trigg,
+201906212323,2019/06/21 23:23,36.04,-89.38,None,MEG,D,TSTM WND DMG,DYERSBURG,DYER,TN,TRAINED SPOTTER,TRACTOR TRAILOR BLOWN OVER ON HIGHWAY 412.,TNC045,Dyer,
+201906212325,2019/06/21 23:25,30.78,-102.83,1.75,MAF,H,HAIL,8 SSE FORT STOCKTON,PECOS,TX,LAW ENFORCEMENT,,TXC371,Pecos,M
+201906212325,2019/06/21 23:25,37.70,-86.14,None,LMK,D,TSTM WND DMG,VERTREES,HARDIN,KY,AMATEUR RADIO,LARGE TREE COMPLETELY BLOCKING ROAD AND ON POWER LINES. NEAR 12000 BLOCK OF HARDINSBURG ROAD IN HARDIN CO.,KYC093,Hardin,
+201906212325,2019/06/21 23:25,30.76,-102.78,None,MAF,D,TSTM WND DMG,10 SE FORT STOCKTON,PECOS,TX,EMERGENCY MNGR,POWER POLE SNAPPED AT MID POINT AND POWER LINES DOWN JUST WEST OF HWY 285.,TXC371,Pecos,
+201906212328,2019/06/21 23:28,30.78,-102.83,1.75,MAF,H,HAIL,8 SSE FORT STOCKTON,PECOS,TX,LAW ENFORCEMENT,,TXC371,Pecos,M
+201906212330,2019/06/21 23:30,36.88,-87.74,70.0,PAH,G,TSTM WND GST,4 W GRACEY,TRIGG,KY,BROADCAST MEDIA,MEASURED AT WKDZ RADIO. TIME ESTIMATED.,KYC221,Trigg,M
+201906212330,2019/06/21 23:30,36.01,-89.40,None,MEG,D,TSTM WND DMG,2 SE BRADLEYTOWN,DYER,TN,PUBLIC,ROOF PULLED OFF THE SUNRISE MOTEL IN DYERSBURG_ TN.,TNC045,Dyer,
+201906212330,2019/06/21 23:30,36.48,-88.02,None,OHX,D,TSTM WND DMG,10 W DOVER,STEWART,TN,EMERGENCY MNGR,TREES AND POWERLINES DOWN ON OLD PARIS LANDING ROAD AND TOBACCO PORT ROAD.,TNC161,Stewart,
+201906212330,2019/06/21 23:30,37.40,-87.76,None,PAH,F,FLASH FLOOD,1 E PROVIDENCE,WEBSTER,KY,EMERGENCY MNGR,HIGHWAY 120 AND HIGHWAY 630 HAVE WATER OVER THEM AND THEY ARE CLOSED.,KYC233,Webster,
+201906212331,2019/06/21 23:31,36.32,-88.26,None,MEG,D,TSTM WND DMG,3 ENE PARIS,HENRY,TN,TRAINED SPOTTER,SPOTTER REPORT OF MULTIPLE TREES DOWN ON KYLE LN.,TNC079,Henry,
+201906212331,2019/06/21 23:31,36.77,-87.65,None,PAH,T,TORNADO,5 NW HERNDON,CHRISTIAN,KY,NWS STORM SURVEY,THIS CORRECTS PREVIOUS TORNADO REPORT FROM 1.4 MILES NORTHEAST OF HERNDON. THE PATH LENGTH WAS ADJUSTED TO 7.6 MILES. THE TORNADO APPEARED TO BEGIN IN A CORNFIELD ALONG HWY 164 NORTH OF PEEDEE. IT TH,KYC047,Christian,
+201906212331,2019/06/21 23:31,36.80,-87.61,None,PAH,T,TORNADO,6 N HERNDON,CHRISTIAN,KY,NWS STORM SURVEY,EF1 TORNADO APPEARED TO START ALONG PIERCE LN NEAR BOYD ROAD AND TRAVELED ALONG PIERCE LN FOR ALMOST A MILE. IT DESTROYED 3 EMPTY GRAIN BINS AND MOVED INTO A FIELD. MOST OF THE DAMAGE WAS ON THE SOUT,KYC047,Christian,
+201906212332,2019/06/21 23:32,37.28,-86.85,1.0,LMK,H,HAIL,2 SE COOL SPRINGS,OHIO,KY,PUBLIC,SOCIAL MEDIA REPORT OF QUARTER SIZE HAIL IN SOUTHERN OHIO COUNTY.,KYC183,Ohio,E
+201906212338,2019/06/21 23:38,30.73,-102.89,1.75,MAF,H,HAIL,11 S FORT STOCKTON,PECOS,TX,EMERGENCY MNGR,,TXC371,Pecos,M
+201906212338,2019/06/21 23:38,36.75,-87.55,None,PAH,T,TORNADO,1.4 NE HERNDON,CHRISTIAN,KY,NWS STORM SURVEY,EF 1 TORNADO MOVED ALONG STRIPED BRIDGE RD SOUTH OF THE INTERSECTION OF WOOSLEY RD. TORNADO DID MAINLY SOFFIT AND ROOF DAMAGE TO 8-10 HOMES ALONG STRIPED BRIDGE RD. ONE SMALL GUEST HOUSE WAS DESTROYE,KYC047,Christian,
+201906212340,2019/06/21 23:40,36.76,-87.53,None,PAH,D,TSTM WND DMG,5 NE HERNDON,CHRISTIAN,KY,EMERGENCY MNGR,TREE FELL ON HOUSE.,KYC047,Christian,
+201906212340,2019/06/21 23:40,36.81,-87.61,None,PAH,D,TSTM WND DMG,6 SE GRACEY,CHRISTIAN,KY,EMERGENCY MNGR,RELAYED SPOTTER REPORT OF MAJOR TREE DAMAGE AND DEBRIS FIELD ON NEWSTEAD RD.,KYC047,Christian,
+201906212340,2019/06/21 23:40,36.76,-87.48,None,PAH,D,TSTM WND DMG,7 W PEMBROKE,CHRISTIAN,KY,EMERGENCY MNGR,FIBERGLASS POLE IS DOWN. MANY TREES DOWN IN AREA.,KYC047,Christian,
+201906212341,2019/06/21 23:41,36.01,-88.63,None,MEG,D,TSTM WND DMG,1 WSW TREZEVANT,CARROLL,TN,SOCIAL MEDIA,REPORT OF TREES DOWN ON ATWOOD ST. TREZEVANT_ TN 38258,TNC017,Carroll,
+201906212342,2019/06/21 23:42,36.76,-87.53,None,PAH,D,TSTM WND DMG,5 NE HERNDON,CHRISTIAN,KY,EMERGENCY MNGR,TREE BLOCKING LAFAYETTE ROAD. TIME ESTIMATED.,KYC047,Christian,
+201906212342,2019/06/21 23:42,36.77,-87.52,None,PAH,D,TSTM WND DMG,6 NE HERNDON,CHRISTIAN,KY,EMERGENCY MNGR,SIGNIFICANT DAMAGE TO A HOUSE ON LOCUS GROVE ROAD. TIME ESTIMATED.,KYC047,Christian,
+201906212345,2019/06/21 23:45,37.29,-87.18,1.55,PAH,R,HEAVY RAIN,6 N GREENVILLE,MUHLENBERG,KY,MESONET,IT OCCURRED IN 30 MINUTES.,KYC177,Muhlenberg,M
+201906212346,2019/06/21 23:46,36.67,-87.49,63.0,PAH,G,TSTM WND GST,2 WNW FORT CAMPBELL NOR,CHRISTIAN,KY,ASOS,RECORDED AT KHOP ASOS.,KYC047,Christian,M
+201906212349,2019/06/21 23:49,36.09,-88.31,None,MEG,D,TSTM WND DMG,3 WSW VALE,CARROLL,TN,AMATEUR RADIO,TREES AND POWER LINES DOWN ON BARREN SPRINGS RD.,TNC017,Carroll,
+201906212350,2019/06/21 23:50,36.48,-87.84,None,OHX,D,TSTM WND DMG,DOVER,STEWART,TN,EMERGENCY MNGR,TREES AND POWERLINES DOWN COUNTY WIDE.,TNC161,Stewart,
+201906212350,2019/06/21 23:50,36.72,-87.46,None,PAH,D,TSTM WND DMG,4 NNW OAK GROVE,CHRISTIAN,KY,EMERGENCY MNGR,BUILDING AND ROOF DAMAGE TO WEST POWER TOOL. TIME ESTIMATED.,KYC047,Christian,
+201906212350,2019/06/21 23:50,36.73,-87.49,None,PAH,D,TSTM WND DMG,6 NW OAK GROVE,CHRISTIAN,KY,TRAINED SPOTTER,TREES DOWN ALONG MILE 83 ON I-24.,KYC047,Christian,
+201906212353,2019/06/21 23:53,36.32,-87.76,None,OHX,D,TSTM WND DMG,TENNESSEE RIDGE,HOUSTON,TN,911 CALL CENTER,NUMEROUS TREES DOWN IN TENNESSEE RIDGE AND A FEW DOWN IN ERIN.,TNC083,Houston,
+201906212353,2019/06/21 23:53,36.77,-87.39,None,PAH,D,TSTM WND DMG,2 W PEMBROKE,CHRISTIAN,KY,EMERGENCY MNGR,TREE FELL INTO A HOUSE. TIME ESTIMATED.,KYC047,Christian,
+201906212355,2019/06/21 23:55,36.06,-88.10,None,MEG,D,TSTM WND DMG,CAMDEN,BENTON,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN AND POWER OUTAGES THOUGHT THE CITY OF CAMDEN AND SEVERAL SCATTERED THROUGH OUT BENTON COUNTY. PSAP IS DOWN AND ALL 911 CALLS ARE BEING ROUTED TO HUMPHREYS AND HENRY COUNTIES.,TNC005,Benton,
+201906212355,2019/06/21 23:55,36.06,-88.10,None,MEG,D,TSTM WND DMG,CAMDEN,BENTON,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN AND POWER OUTAGES THROUGHOUT THE CITY OF CAMDEN AND SEVERAL SCATTERED THROUGH OUT BENTON COUNTY. PSAP IS DOWN AND ALL 911 CALLS ARE BEING ROUTED TO HUMPHREYS AND HENRY COUNTIES.,TNC005,Benton,
+201906212357,2019/06/21 23:57,36.70,-87.26,None,PAH,T,TORNADO,2 S TRENTON,TODD,KY,NWS STORM SURVEY,THE TORNADO STARTED ALONG HAMMACKSVILLE ROAD SOUTH OF TRENTON. PATH LENGTH WAS 2.8 MILES WITH PEAK WINDS OF 85 MPH AND MAX WIDTH OF 60 YARDS. IT TRACKED THROUGH CORNFIELDS_ WITH STRONG CONVERGENCE NO,KYC219,Todd,
+201906220001,2019/06/22 00:01,36.68,-87.26,None,PAH,C,FUNNEL CLOUD,3 S TRENTON,TODD,KY,BROADCAST MEDIA,PICTURE OF FUNNEL CLOUD SOUTH OF TRENTON_ KY. TIME ESTIMATED.,KYC219,Todd,
+201906220004,2019/06/22 00:04,36.01,-86.64,None,OHX,C,FUNNEL CLOUD,4 WNW LA VERGNE,DAVIDSON,TN,BROADCAST MEDIA,VIDEO SHARED TO FOX 17 SHOWED FUNNEL CLOUD IN THIS AREA. LOCATION ESTIMATED.,TNC037,Davidson,
+201906220004,2019/06/22 00:04,36.56,-87.35,None,OHX,D,TSTM WND DMG,CLARKSVILLE,MONTGOMERY,TN,TRAINED SPOTTER,TREES DOWN ALONG WILMA-RUDOLPH BLVD.,TNC125,Montgomery,
+201906220005,2019/06/22 00:05,36.69,-87.29,None,PAH,D,TSTM WND DMG,3 SSW TRENTON,TODD,KY,LAW ENFORCEMENT,SEVERAL TREES DOWN ALONG HIGHWAY 104_ VEHICLE STUCK BETWEEN TREES.,KYC219,Todd,
+201906220007,2019/06/22 00:07,39.62,-96.41,None,TOP,C,FUNNEL CLOUD,6 S FRANKFORT,MARSHALL,KS,LAW ENFORCEMENT,,KSC117,Marshall,
+201906220008,2019/06/22 00:08,36.83,-86.91,None,LMK,D,TSTM WND DMG,1 SW RUSSELLVILLE,LOGAN,KY,911 CALL CENTER,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 1 SW RUSSELLVILLE. TREES AND POWER LINES DOWN. POSSIBLE FIRE DUE TO LIGHTNING STRIKE. REPORTED NEAR 100 BLOCK OF NORTH CRESCENT LANE_ RUSSELLVILLE KY.,KYC141,Logan,
+201906220008,2019/06/22 00:08,36.83,-86.91,None,LMK,D,TSTM WND DMG,1 SW RUSSELLVILLE,LOGAN,KY,911 CALL CENTER,TREES AND POWER LINES DOWN. POSSIBLE FIRE DUE TO LIGHTNING STRIKE. REPORTED AT 79 NORTH CRESCENT LANE_ RUSSELLVILLE KY.,KYC141,Logan,
+201906220008,2019/06/22 00:08,35.93,-86.84,None,OHX,D,TSTM WND DMG,FRANKLIN,WILLIAMSON,TN,LAW ENFORCEMENT,TREES DOWN ACROSS THE COUNTY. CITIES OF FRANKLIN AND FAIRVIEW WERE THE HARDEST HIT AREAS.,TNC187,Williamson,
+201906220008,2019/06/22 00:08,35.25,-87.34,None,OHX,D,TSTM WND DMG,LAWRENCEBURG,LAWRENCE,TN,LAW ENFORCEMENT,TREES DOWN ACROSS LAWRENCEBURG,TNC099,Lawrence,
+201906220009,2019/06/22 00:09,36.31,-87.37,None,OHX,D,TSTM WND DMG,16 N DICKSON,DICKSON,TN,PUBLIC,NUMEROUS TREES DOWN AROUND 6388 HIGHWAY 48 NORTH,TNC043,Dickson,
+201906220009,2019/06/22 00:09,36.09,-87.77,None,OHX,D,TSTM WND DMG,1 E WAVERLY,HUMPHREYS,TN,SOCIAL MEDIA,PHOTO OF TREE OVER ROAD IN WAVERLY.,TNC085,Humphreys,
+201906220015,2019/06/22 00:15,36.47,-86.98,None,OHX,C,FUNNEL CLOUD,6 WSW SPRINGFIELD,ROBERTSON,TN,PUBLIC,FUNNEL CLOUD FILMED FOR 5 MINUTES. NO APPARENT TOUCHDOWN OR DAMAGE. LOCATION ESTIMATED.,TNC147,Robertson,
+201906220019,2019/06/22 00:19,36.18,-87.35,None,OHX,D,TSTM WND DMG,CHARLOTTE,DICKSON,TN,SOCIAL MEDIA,PHOTO OF TREE ACROSS BREEDEN RD. OFF HWY 49.,TNC043,Dickson,
+201906220021,2019/06/22 00:21,39.08,-108.58,0.25,GJT,H,HAIL,1 WSW GRAND JUNCTION,MESA,CO,COCORAHS,,COC077,Mesa,E
+201906220027,2019/06/22 00:27,37.16,-86.67,1.17,LMK,R,HEAVY RAIN,2 WSW WOODBURY,BUTLER,KY,MESONET,KY MESONET REPORTS 1.17 INCHES AT BUTLER COUNTY SITE IN LAST 15 MINUTES.,KYC031,Butler,M
+201906220027,2019/06/22 00:27,36.39,-87.06,None,OHX,D,TSTM WND DMG,8 N ASHLAND CITY,CHEATHAM,TN,SOCIAL MEDIA,PHOTO OF POWER POLE LEANING OVER HWY 49 NEAR SWEETHOME RD.,TNC021,Cheatham,
+201906220028,2019/06/22 00:28,36.81,-86.53,None,LMK,D,TSTM WND DMG,2 S WOODBURN,SIMPSON,KY,911 CALL CENTER,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 2 S WOODBURN. TREE DOWN. BLOCKING ENTIRE ROAD. REPORTED IN 3000 BLOCK OF SPORTSMAN LAKE ROAD WOODBURN_ KY.,KYC213,Simpson,
+201906220028,2019/06/22 00:28,36.81,-86.53,None,LMK,D,TSTM WND DMG,2 S WOODBURN,SIMPSON,KY,911 CALL CENTER,TREE DOWN. BLOCKING ENTIRE ROAD. REPORTED AT 3172 SPORTSMAN LAKE ROAD WOODBURN_ KY.,KYC213,Simpson,
+201906220029,2019/06/22 00:29,39.02,-104.77,0.88,PUB,H,HAIL,4 W BLACK FOREST,EL PASO,CO,COCORAHS,,COC041,El Paso,M
+201906220029,2019/06/22 00:29,36.07,-87.36,None,OHX,D,TSTM WND DMG,1 SE DICKSON,DICKSON,TN,SOCIAL MEDIA,POWER LINE SNAPPED ON OLD COLUMBIA RD. NEAR HWY 70,TNC043,Dickson,
+201906220030,2019/06/22 00:30,39.07,-108.50,0.25,GJT,H,HAIL,2 SW FRUITVALE,MESA,CO,COCORAHS,LARGEST 0.375 INCHES.,COC077,Mesa,M
+201906220030,2019/06/22 00:30,36.83,-86.38,None,LMK,D,TSTM WND DMG,1 WSW BOYCE,WARREN,KY,PUBLIC,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 1 WSW BOYCE. UNKNOWN CAUSE. REPORT FROM PUBLIC WHO HEARD ABOUT THE INCIDENT ON POLICE SCANNER TO EMS. REPORTED IN 10000 BLOCK OF WOODBURN ALLEN SPRINGS RD_ ,KYC227,Warren,
+201906220030,2019/06/22 00:30,36.83,-86.38,None,LMK,D,TSTM WND DMG,1 WSW BOYCE,WARREN,KY,PUBLIC,UNKNOWN CAUSE. REPORT FROM PUBLIC WHO HEARD ABOUT THE INCIDENT ON POLICE SCANNER TO EMS. REPORTED AT 10551 WOODBURN ALLEN SPRINGS RD_ ALVATON_ KY 42122.,KYC227,Warren,
+201906220030,2019/06/22 00:30,36.73,-86.53,None,LMK,D,TSTM WND DMG,3 E FRANKLIN,SIMPSON,KY,911 CALL CENTER,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 3 E FRANKLIN. TREE DOWN ON ROAD. REPORTED IN 100 BLOCK OF ROARK ROAD FRANKLIN.,KYC213,Simpson,
+201906220030,2019/06/22 00:30,36.73,-86.53,None,LMK,D,TSTM WND DMG,3 E FRANKLIN,SIMPSON,KY,911 CALL CENTER,TREE DOWN ON ROAD. REPORTED AT 106 ROARK ROAD FRANKLIN.,KYC213,Simpson,
+201906220030,2019/06/22 00:30,37.24,-86.18,None,LMK,D,TSTM WND DMG,5 WNW MAMMOTH CAVE,EDMONSON,KY,911 CALL CENTER,REPORT OF TREE DOWN ACROSS OLLIE RIDGE ROAD. TIME ESTIMATED FROM RADAR.,KYC061,Edmonson,
+201906220032,2019/06/22 00:32,36.85,-86.45,None,LMK,D,TSTM WND DMG,3 SW PLANO,WARREN,KY,PUBLIC,TREE DOWN. SOCIAL MEDIA REPORT. REPORTED AT OLD UNION CHURCH ROAD KENTUCKY 42104.,KYC227,Warren,
+201906220035,2019/06/22 00:35,36.68,-86.61,51.0,LMK,G,TSTM WND GST,3 ENE PROVIDENCE,SIMPSON,KY,MESONET,MEASURED AT THE SIMPSON COUNTY KENTUCKY MESONET STATION.,KYC213,Simpson,M
+201906220035,2019/06/22 00:35,36.80,-86.48,None,LMK,T,TORNADO,4 NNW GOLD CITY,SIMPSON,KY,NWS STORM SURVEY,BRIEF EF1 TORNADO TOUCHED DOWN NEAR I-65. THE SURVEY CREW FOUND A MIXTURE OF STRAIGHT LINE WINDS AND A SMALL AREA OF A TORNADO EMBEDDED WITHIN. THE TORNADO HIT THE SALEM ROAD AREA HARD WITH EXTENSIVE,KYC213,Simpson,
+201906220035,2019/06/22 00:35,35.65,-88.39,None,MEG,D,TSTM WND DMG,LEXINGTON,HENDERSON,TN,EMERGENCY MNGR,SEVERAL TREES DOWN ACROSS HENDERSON COUNTY.,TNC077,Henderson,
+201906220036,2019/06/22 00:36,35.75,-87.80,None,OHX,D,TSTM WND DMG,LOBELVILLE,PERRY,TN,911 CALL CENTER,WIDESPREAD TREE DAMAGE AND POWER OUTAGES. TREE FELL ON A HOUSE IN LOBELVILLE.,TNC135,Perry,
+201906220036,2019/06/22 00:36,37.66,-89.01,None,PAH,F,FLASH FLOOD,6 SW MARION,WILLIAMSON,IL,MESONET,2.22 INCHES OF RAIN FELL IN TWO HOURS. SIGNIFICANT CREEK FLOODING.,ILC199,Williamson,
+201906220038,2019/06/22 00:38,36.80,-86.48,None,LMK,D,TSTM WND DMG,4 NNW GOLD CITY,SIMPSON,KY,BROADCAST MEDIA,SOCIAL MEDIA REPORT OF ROOF BLOWN OFF A HOME ON BLACKJACK RD IN NE SIMPSON COUNTY. LOCATED NEAR WHITESIDE FORD RD. TIME ESTIMATED FROM RADAR.,KYC213,Simpson,
+201906220038,2019/06/22 00:38,36.75,-86.45,None,LMK,D,TSTM WND DMG,GOLD CITY,SIMPSON,KY,BROADCAST MEDIA,VIEWER REPORTS NUMEROUS TREES DOWN ALONG CRAFT ROAD AND BARN SCHOOL ROAD.,KYC213,Simpson,
+201906220039,2019/06/22 00:39,36.77,-86.39,None,LMK,T,TORNADO,1 NNW MT. ARIEAL,ALLEN,KY,NWS STORM SURVEY,ANOTHER EF1 TORNADO EMBEDDED WITHIN A WIDESPREAD SWATH OF STRAIGHT LINE WIND DAMAGE. THIS ONE WAS ON THE GROUND LONGER_ 4.6 MILES AND HAD A PEAK WIND OF 95 MPH AND WIDTH OF 125 YARDS. THE TORNADO TOU,KYC003,Allen,
+201906220041,2019/06/22 00:41,40.49,-107.25,2.04,GJT,R,HEAVY RAIN,HAYDEN,ROUTT,CO,CO-OP OBSERVER,CO-OP OBSERVER STATION HAYC2 HAYDEN.,COC107,Routt,M
+201906220042,2019/06/22 00:42,36.50,-86.88,80.0,OHX,G,TSTM WND GST,SPRINGFIELD,ROBERTSON,TN,TRAINED SPOTTER,ESTIMATED 80 MPH WIND GUST IN SPRINGFIELD,TNC147,Robertson,E
+201906220043,2019/06/22 00:43,36.72,-86.52,None,LMK,D,TSTM WND DMG,3 E FRANKLIN,SIMPSON,KY,EMERGENCY MNGR,TREE DOWN ON GOLD CITY ROAD NEAR ROARK ROAD IN SIMPSON COUNTY.,KYC213,Simpson,
+201906220043,2019/06/22 00:43,35.98,-87.12,None,OHX,D,TSTM WND DMG,FAIRVIEW,WILLIAMSON,TN,AMATEUR RADIO,TREE DOWN ON HOUSE AT INTERSECTION OF FAIRLAWN RD AND BRUSH CREEK RD.,TNC187,Williamson,
+201906220044,2019/06/22 00:44,36.50,-86.88,1.0,OHX,H,HAIL,SPRINGFIELD,ROBERTSON,TN,TRAINED SPOTTER,1 INCH HAIL IN SPRINGFIELD,TNC147,Robertson,E
+201906220044,2019/06/22 00:44,35.79,-87.45,None,OHX,D,TSTM WND DMG,CENTERVILLE,HICKMAN,TN,LAW ENFORCEMENT,TREES DOWN COUNTY WIDE.,TNC081,Hickman,
+201906220045,2019/06/22 00:45,36.70,-86.42,None,LMK,D,TSTM WND DMG,3 NE RAPIDS,SIMPSON,KY,EMERGENCY MNGR,LARGE TREE DOWN AT SIMPSON/ALLEN COUNTY LINE ON HWY 100.,KYC213,Simpson,
+201906220045,2019/06/22 00:45,36.78,-86.41,None,LMK,D,TSTM WND DMG,3 NW MT. ARIEAL,SIMPSON,KY,EMERGENCY MNGR,TREE ACROSS ROAD AT HARRIS/TEMPERANCE ROADS IN SIMPSON COUNTY.,KYC213,Simpson,
+201906220046,2019/06/22 00:46,32.73,-101.45,1.0,MAF,H,HAIL,3 S GAIL,BORDEN,TX,PUBLIC,,TXC033,Borden,M
+201906220048,2019/06/22 00:48,39.08,-108.44,0.25,GJT,H,HAIL,CLIFTON,MESA,CO,NWS EMPLOYEE,LARGEST HAIL 0.625 INCHES.,COC077,Mesa,M
+201906220050,2019/06/22 00:50,32.77,-101.45,59.0,MAF,G,TSTM WND GST,GAIL,BORDEN,TX,MESONET,,TXC033,Borden,M
+201906220050,2019/06/22 00:50,36.17,-86.78,None,OHX,D,TSTM WND DMG,NASHVILLE,DAVIDSON,TN,EMERGENCY MNGR,TREES AND POWER LINES DOWN THROUGHOUT THE COUNTY WITH SEVERAL FALLING ON HOMES. 77 POWER POLES WERE SNAPPED. OVER 48000 PEOPLE WITHOUT POWER.,TNC037,Davidson,
+201906220056,2019/06/22 00:56,36.20,-86.69,None,OHX,D,TSTM WND DMG,3 NNW DONELSON,DAVIDSON,TN,NWS STORM SURVEY,A MICROBURST AFFECTED THE SUNSET VIEW AND CUMBERLAND TRACE NEIGHBORHOODS ALONG MCGAVOCK PIKE AND ADJACENT SIDE STREETS. SCATTERED TREES AND POWER LINES WERE BLOWN DOWN IN THIS AREA TOWARDS THE SOUTHE,TNC037,Davidson,
+201906220056,2019/06/22 00:56,36.29,-86.60,None,OHX,D,TSTM WND DMG,HENDERSONVILLE,SUMNER,TN,NWS EMPLOYEE,TREES DOWN IN HENDERSONVILLE.,TNC165,Sumner,
+201906220057,2019/06/22 00:57,36.17,-86.78,None,OHX,D,TSTM WND DMG,NASHVILLE,DAVIDSON,TN,PUBLIC,TREES AND POWERLINES DOWN WESTERN HALF OF COUNTY.,TNC037,Davidson,
+201906220100,2019/06/22 01:00,39.50,-108.38,0.98,GJT,R,HEAVY RAIN,15 NW DE BEQUE,GARFIELD,CO,CO-OP OBSERVER,CO-OP OBSERVER STATION ATBC2 ALTENBERN_ DEBEQUE 15SE.,COC045,Garfield,M
+201906220100,2019/06/22 01:00,36.75,-86.21,49.0,LMK,G,TSTM WND GST,1 W SCOTTSVILLE,ALLEN,KY,MESONET,RECORDED AT THE ALLEN COUNTY KENTUCKY MESONET STATION.,KYC003,Allen,M
+201906220100,2019/06/22 01:00,36.78,-86.04,None,LMK,D,TSTM WND DMG,3 ENE MAYNARD,BARREN,KY,911 CALL CENTER,TREE DOWN. REPORTED AT BEWLEY TOWN RUNAWAY DRIVE KENTUCKY.,KYC009,Barren,
+201906220100,2019/06/22 01:00,36.78,-86.14,None,LMK,D,TSTM WND DMG,3 WNW MAYNARD,ALLEN,KY,BROADCAST MEDIA,*** 1 FATAL *** A TREE KILLED A MAN WHEN IT FELL ON HIS TRUCK ON WASHINGTON SCHOOL ROAD.,KYC003,Allen,
+201906220100,2019/06/22 01:00,36.62,-86.08,None,OHX,D,TSTM WND DMG,7 NNW LAFAYETTE,MACON,TN,NWS STORM SURVEY,AN UNUSUALLY LARGE AND INTENSE DOWNBURST MOVED SOUTHEAST ACROSS NORTHERN MACON COUNTY FROM THE KENTUCKY BORDER TO AROUND HIGHWAY 261. SCATTERED TREES WERE SNAPPED AND UPROOTED...NUMEROUS BARNS WERE D,TNC111,Macon,
+201906220100,2019/06/22 01:00,36.18,-86.66,None,OHX,T,TORNADO,2 NNE DONELSON,DAVIDSON,TN,NWS STORM SURVEY,A BRIEF EF0 TORNADO TOUCHED DOWN IN STONES RIVER BEND PARK AND MOVED SOUTHEAST ACROSS THE STANDFORD ESTATES SUBDIVISION AND STONES RIVER GREENWAY BEFORE LIFTING. NUMEROUS LARGE TREES WERE SNAPPED AND,TNC037,Davidson,
+201906220101,2019/06/22 01:01,36.83,-86.01,None,LMK,D,TSTM WND DMG,1 NE AUSTIN,BARREN,KY,911 CALL CENTER,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 1 NE AUSTIN. TREE DOWN. REPORTED IN 4000 BLOCK OF AUSTIN TRACEY ROAD KENTUCKY.,KYC009,Barren,
+201906220101,2019/06/22 01:01,36.83,-86.01,None,LMK,D,TSTM WND DMG,1 NE AUSTIN,BARREN,KY,911 CALL CENTER,TREE DOWN. REPORTED AT 4060 AUSTIN TRACEY ROAD KENTUCKY.,KYC009,Barren,
+201906220101,2019/06/22 01:01,36.19,-86.59,None,OHX,D,TSTM WND DMG,2 E HERMITAGE,DAVIDSON,TN,NWS EMPLOYEE,TREE OVER ROAD WITH POWER LINES DOWN ON TULIP GROVE RD JUST NORTH OF OLD LEBANON DIRT RD.,TNC037,Davidson,
+201906220101,2019/06/22 01:01,36.23,-86.60,None,OHX,D,TSTM WND DMG,2 WSW GREEN HILL,DAVIDSON,TN,NWS EMPLOYEE,LARGE TREE OVER SAUNDERSVILLE RD. NEAR WYNTERGRACE FARM RD. BLOCKING TRAFFIC.,TNC037,Davidson,
+201906220104,2019/06/22 01:04,36.94,-86.04,None,LMK,D,TSTM WND DMG,4 ENE FINNEY,BARREN,KY,911 CALL CENTER,TREE DOWN. REPORTED AT 5000-BLOCK FINNEY ROAD_ GLASGOW.,KYC009,Barren,
+201906220104,2019/06/22 01:04,36.65,-86.08,None,LMK,T,TORNADO,4 SSW HOLLAND,ALLEN,KY,NWS STORM SURVEY,THE NATIONAL WEATHER SERVICE CONDUCTED A STORM DAMAGE SURVEY ACROSS SOUTHEAST ALLEN COUNTY TO ASSESS DAMAGE FROM THE STORMS ON FRIDAY EVENING_ JUNE 21. INTERSPERSED AMONGST THE STRAIGHT LINE WIND DAM,KYC003,Allen,
+201906220104,2019/06/22 01:04,36.08,-86.61,None,OHX,T,TORNADO,6 NNW LA VERGNE,DAVIDSON,TN,NWS STORM SURVEY,A SMALL_ BRIEF EF0 TORNADO TOUCHED DOWN IN ANTIOCH NEAR THE INTERSECTION OF ANDERSON ROAD AND COUNTRY WAY ROAD AND MOVED SOUTHEAST BEFORE LIFTING NEAR SMITH SPRINGS PARKWAY AT MT VIEW ROAD. NUMEROUS ,TNC037,Davidson,
+201906220106,2019/06/22 01:06,36.90,-85.92,None,LMK,D,TSTM WND DMG,1 N ROSEVILLE,BARREN,KY,911 CALL CENTER,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 1 N ROSEVILLE. MULTIPLE TREES DOWN ALONG ROSEVILLE ROAD. REPORTED AT ROSEVILLE ROAD KENTUCKY.,KYC009,Barren,
+201906220106,2019/06/22 01:06,36.90,-85.92,None,LMK,D,TSTM WND DMG,1 N ROSEVILLE,BARREN,KY,911 CALL CENTER,MULTIPLE TREES DOWN ALONG ROSEVILLE ROAD. NO EXACT ADDRESSES PROVIDED. REPORTED AT ROSEVILLE ROAD KENTUCKY.,KYC009,Barren,
+201906220106,2019/06/22 01:06,36.81,-85.94,None,LMK,D,TSTM WND DMG,2 ENE TRACY,BARREN,KY,911 CALL CENTER,TREES DOWN AT THE INTERSECTION OF THOMERSON PARK ROAD AND DESEATED CREEK ROAD.,KYC009,Barren,
+201906220107,2019/06/22 01:07,36.62,-86.02,None,OHX,T,TORNADO,6 N LAFAYETTE,MACON,TN,NWS STORM SURVEY,A BRIEF EF1 TORNADO TOUCHED DOWN IN FAR NORTHERN MACON COUNTY NEAR GREEN VALLEY ROAD AND MOVED EASTWARD ACROSS OAK KNOB ROAD AND UNDERWOOD ROAD BEFORE LIFTING. HUNDREDS OF TREES WERE SNAPPED AND UPRO,TNC111,Macon,
+201906220108,2019/06/22 01:08,35.93,-86.84,None,OHX,D,TSTM WND DMG,FRANKLIN,WILLIAMSON,TN,LAW ENFORCEMENT,TREES DOWN ACROSS THE COUNTY. CITIES OF FRANKLIN AND FAIRVIEW WERE THE HARDEST HIT AREAS.,TNC187,Williamson,
+201906220108,2019/06/22 01:08,39.74,-96.31,None,TOP,F,FLASH FLOOD,3 NW VERMILLION,MARSHALL,KS,TRAINED SPOTTER,SPOTTER REPORTED FLOODING IN THE YARD.,KSC117,Marshall,
+201906220110,2019/06/22 01:10,33.08,-101.52,68.0,LUB,G,TSTM WND GST,5 SSW GRAHAM,GARZA,TX,MESONET,,TXC169,Garza,M
+201906220111,2019/06/22 01:11,32.95,-101.22,0.88,MAF,H,HAIL,6 NW FLUVANNA,BORDEN,TX,PUBLIC,,TXC033,Borden,M
+201906220111,2019/06/22 01:11,32.95,-101.22,60.0,MAF,G,TSTM WND GST,6 NW FLUVANNA,BORDEN,TX,PUBLIC,,TXC033,Borden,M
+201906220113,2019/06/22 01:13,38.76,-102.85,1.25,GLD,H,HAIL,3 W KIT CARSON,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220114,2019/06/22 01:14,36.17,-86.78,None,OHX,D,TSTM WND DMG,NASHVILLE,DAVIDSON,TN,TRAINED SPOTTER,TREES DOWN ACROSS EASTERN PORTIONS OF THE COUNTY,TNC037,Davidson,
+201906220115,2019/06/22 01:15,38.76,-102.80,0.88,GLD,H,HAIL,KIT CARSON,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220115,2019/06/22 01:15,36.98,-85.63,None,LMK,D,TSTM WND DMG,1 WNW EDMONTON,METCALFE,KY,911 CALL CENTER,TREES DOWN AT INTERSECTION OF WEST STOCKTON STREET AND LOVE STREET.,KYC169,Metcalfe,
+201906220115,2019/06/22 01:15,36.91,-85.65,None,LMK,D,TSTM WND DMG,3 NNW BEAUMONT,METCALFE,KY,911 CALL CENTER,TREES DOWN AT 6000 BLOCK OF TOMPKINSVILLE ROAD.,KYC169,Metcalfe,
+201906220115,2019/06/22 01:15,36.05,-86.48,None,OHX,C,FUNNEL CLOUD,5 SSE RURAL HILL,RUTHERFORD,TN,SOCIAL MEDIA,FACEBOOK VIDEO SHOWED FUNNEL CLOUD IN THIS AREA. LOCATION ESTIMATED.,TNC149,Rutherford,
+201906220115,2019/06/22 01:15,35.55,-87.56,None,OHX,D,TSTM WND DMG,HOHENWALD,LEWIS,TN,911 CALL CENTER,TREES DOWN AND POWER OUT_ ESPECIALLY ON HWY 20.,TNC101,Lewis,
+201906220116,2019/06/22 01:16,33.05,-101.17,1.25,LUB,H,HAIL,2 ENE JUSTICEBURG,GARZA,TX,TRAINED SPOTTER,,TXC169,Garza,E
+201906220116,2019/06/22 01:16,33.05,-101.17,1.75,LUB,H,HAIL,2 ENE JUSTICEBURG,GARZA,TX,TRAINED SPOTTER,,TXC169,Garza,E
+201906220117,2019/06/22 01:17,36.52,-86.03,None,OHX,D,TSTM WND DMG,LAFAYETTE,MACON,TN,LAW ENFORCEMENT,TREES DOWN COUNTY WIDE. DAMAGE TO BARNS AND HOUSES ACROSS THE COUNTY. *POSSIBLE* TORNADO ACROSS NORTHERN PORTION OF COUNTY.,TNC111,Macon,
+201906220120,2019/06/22 01:20,38.76,-102.65,1.0,GLD,H,HAIL,7 WSW FIRSTVIEW,CHEYENNE,CO,PUBLIC,PICTURE SHARED ON TWITTER. TIME ESTIMATED BY RADAR.,COC017,Cheyenne,E
+201906220120,2019/06/22 01:20,38.76,-102.80,1.0,GLD,H,HAIL,KIT CARSON,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220120,2019/06/22 01:20,38.76,-102.80,60.0,GLD,G,TSTM WND GST,KIT CARSON,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220120,2019/06/22 01:20,35.44,-87.76,None,OHX,D,TSTM WND DMG,8 N WAYNESBORO,WAYNE,TN,911 CALL CENTER,TREES AND POWER LINES DOWN ACROSS THE NORTH-CENTRAL PORTION OF WAYNE COUNTY.,TNC181,Wayne,
+201906220120,2019/06/22 01:20,35.62,-87.05,None,OHX,D,TSTM WND DMG,COLUMBIA,MAURY,TN,EMERGENCY MNGR,TREES DOWN AND POWER OUTAGES COUNTY WIDE. FIRE AND SHERIFF DEPT. ASSISTING IN REMOVING TREES FROM MAIN ROADWAYS.,TNC119,Maury,
+201906220122,2019/06/22 01:22,36.39,-86.16,None,OHX,D,TSTM WND DMG,HARTSVILLE,TROUSDALE,TN,LAW ENFORCEMENT,TREES AND POWER LINES DOWN COUNTY WIDE...MOST NUMEROUS ACROSS WESTERN HALF OF COUNTY.,TNC169,Trousdale,
+201906220122,2019/06/22 01:22,35.96,-86.38,None,OHX,D,TSTM WND DMG,WALTERHILL,RUTHERFORD,TN,NWS EMPLOYEE,WIDESPREAD TREE DAMAGE IN WALTERHILL.,TNC149,Rutherford,
+201906220124,2019/06/22 01:24,35.71,-86.70,None,OHX,D,TSTM WND DMG,3 SW EAGLEVILLE,MARSHALL,TN,SOCIAL MEDIA,PHOTO OF TREE OVER FULLER RD IN COLLEGE GROVE.,TNC117,Marshall,
+201906220124,2019/06/22 01:24,35.96,-86.38,None,OHX,D,TSTM WND DMG,WALTERHILL,RUTHERFORD,TN,NWS STORM SURVEY,A LARGE AND INTENSE DOWNBURST AFFECTED NORTHERN RUTHERFORD COUNTY FROM I-840 SOUTHEASTWARD TO AROUND THE WALTERHILL AREA. DOZENS OF TREES WERE SNAPPED AND UPROOTED...POWER LINES AND POLES WERE BLOWN ,TNC149,Rutherford,
+201906220125,2019/06/22 01:25,33.20,-101.37,60.0,LUB,G,TSTM WND GST,1 NE POST,GARZA,TX,MESONET,,TXC169,Garza,M
+201906220128,2019/06/22 01:28,35.86,-86.42,None,OHX,D,TSTM WND DMG,2 WNW MURFREESBORO,RUTHERFORD,TN,SOCIAL MEDIA,LARGE TREES DOWN OFF MEDICAL CENTER PKWY.,TNC149,Rutherford,
+201906220129,2019/06/22 01:29,36.21,-86.69,None,OHX,D,TSTM WND DMG,2 E INGLEWOOD,DAVIDSON,TN,PUBLIC,TREES DOWN AT OPRY MILLS,TNC037,Davidson,
+201906220130,2019/06/22 01:30,38.78,-102.80,1.25,GLD,H,HAIL,1 N KIT CARSON,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220130,2019/06/22 01:30,33.20,-101.37,64.0,LUB,G,TSTM WND GST,1 NE POST,GARZA,TX,MESONET,,TXC169,Garza,M
+201906220130,2019/06/22 01:30,36.70,-85.69,None,LMK,D,TSTM WND DMG,TOMPKINSVILLE,MONROE,KY,911 CALL CENTER,MULTIPLE REPORTS OF TREES AND POWER LINES DOWN. TIME IS ESTIMATED BASED OFF RADAR.,KYC171,Monroe,
+201906220132,2019/06/22 01:32,47.91,-108.50,52.0,GGW,N,NON-TSTM WND GST,1 ESE ZORTMAN,PHILLIPS,MT,MESONET,MEASURED AT THE ZORTMAN BLM RAWS SITE ALDM8,MTC071,Phillips,M
+201906220134,2019/06/22 01:34,41.78,-98.08,1.0,OAX,H,HAIL,5 S PETERSBURG,BOONE,NE,TRAINED SPOTTER,REPORTED AT LORETO_ NE.,NEC011,Boone,E
+201906220134,2019/06/22 01:34,38.81,-102.55,63.0,GLD,G,TSTM WND GST,1 SW FIRSTVIEW,CHEYENNE,CO,MESONET,,COC017,Cheyenne,M
+201906220135,2019/06/22 01:35,36.81,-85.43,53.0,LMK,G,TSTM WND GST,4 WNW BURKESVILLE,CUMBERLAND,KY,MESONET,REPORTED AT THE CUMBERLAND COUNTY KENTUCKY MESONET STATION.,KYC057,Cumberland,E
+201906220136,2019/06/22 01:36,35.83,-86.17,None,OHX,D,TSTM WND DMG,READYVILLE,CANNON,TN,FIRE DEPT/RESCUE,TREES DOWN ON BRADYVILLE RD AND LOCKE'S CREEK NEAR READYVILLE.,TNC015,Cannon,
+201906220140,2019/06/22 01:40,37.05,-85.31,None,LMK,D,TSTM WND DMG,3 S COLUMBIA,ADAIR,KY,911 CALL CENTER,MULTIPLE REPORTS OF TREES AND POWER LINES DOWN ACROSS THE SOUTHERN HALF OF ADAIR COUNTY.,KYC001,Adair,
+201906220140,2019/06/22 01:40,36.79,-85.37,None,LMK,D,TSTM WND DMG,BURKESVILLE,CUMBERLAND,KY,911 CALL CENTER,MULTIPLE TREES AND POWER LINES DOWN THROUGHOUT THE COUNTY_ MAINLY IN BURKESVILLE. REPORTED AT BURKESVILLE KENTUCKY.,KYC057,Cumberland,
+201906220141,2019/06/22 01:41,35.25,-87.34,None,OHX,D,TSTM WND DMG,LAWRENCEBURG,LAWRENCE,TN,LAW ENFORCEMENT,TREES DOWN ACROSS LAWRENCEBURG,TNC099,Lawrence,
+201906220142,2019/06/22 01:42,36.36,-85.65,None,OHX,D,TSTM WND DMG,GAINESBORO,JACKSON,TN,911 CALL CENTER,WIDESPREAD TREE DAMAGE AND POWER OUTAGES ACROSS JACKSON COUNTY.,TNC087,Jackson,
+201906220144,2019/06/22 01:44,36.55,-85.50,None,OHX,D,TSTM WND DMG,CELINA,CLAY,TN,LAW ENFORCEMENT,TREES AND POWERLINES DOWN COUNTY WIDE. A DOWNED POWERLINE CAUSED A FIRE WHICH BURNED AN OUTDOOR GARAGE DOWN TO THE GROUND AT NEELY CREEK.,TNC027,Clay,
+201906220144,2019/06/22 01:44,35.85,-86.39,None,OHX,D,TSTM WND DMG,MURFREESBORO,RUTHERFORD,TN,PUBLIC,NUMEROUS TREES DOWN COUNTY WIDE.,TNC149,Rutherford,
+201906220144,2019/06/22 01:44,35.49,-86.45,None,OHX,D,TSTM WND DMG,SHELBYVILLE,BEDFORD,TN,PUBLIC,NUMEROUS TREES DOWN COUNTY WIDE.,TNC003,Bedford,
+201906220145,2019/06/22 01:45,39.43,-107.11,0.25,GJT,H,HAIL,2 NNW EL JEBEL,EAGLE,CO,COCORAHS,,COC037,Eagle,E
+201906220145,2019/06/22 01:45,38.82,-102.37,0.7,GLD,H,HAIL,1 W CHEYENNE WELLS,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220145,2019/06/22 01:45,38.85,-102.17,None,GLD,D,TSTM WND DMG,ARAPAHOE,CHEYENNE,CO,PUBLIC,PARTS OF A HOUSE WAS STRIPPED TO THE CONCRETE.,COC017,Cheyenne,
+201906220145,2019/06/22 01:45,36.39,-85.47,None,OHX,D,TSTM WND DMG,8 W LIVINGSTON,OVERTON,TN,TRAINED SPOTTER,NUMEROUS TREES DOWN IN AN AT LEAST 2 MILE LONG BY 0.75 MILE WIDE PATH FROM OLD UNION ROAD AT BOLES ROAD TO STANDING STONE HIGHWAY AT CAMPGROUND ROAD.,TNC133,Overton,
+201906220145,2019/06/22 01:45,35.43,-87.31,None,OHX,D,TSTM WND DMG,SUMMERTOWN,LAWRENCE,TN,EMERGENCY MNGR,2 36 INCH TREES BLOWN DOWN ON A HOUSE TRAILER. POWER LINES DOWN THROUGHOUT THE COUNTY.,TNC099,Lawrence,
+201906220146,2019/06/22 01:46,38.82,-102.35,1.0,GLD,H,HAIL,CHEYENNE WELLS,CHEYENNE,CO,PUBLIC,EST 60 PLUS MPH WINDS. PUBLIC SENT PICTURE OF DAMAGE TO HOUSE.,COC017,Cheyenne,E
+201906220148,2019/06/22 01:48,38.69,-102.35,95.0,GLD,G,TSTM WND GST,9 S CHEYENNE WELLS,CHEYENNE,CO,STORM CHASER,MEASURED WITH A DAVIS VANTAGE VUE WHILE STATIONARY.,COC017,Cheyenne,M
+201906220148,2019/06/22 01:48,43.47,-97.44,None,FSD,C,FUNNEL CLOUD,3 WSW DOLTON,HUTCHINSON,SD,TRAINED SPOTTER,,SDC067,Hutchinson,
+201906220150,2019/06/22 01:50,38.80,-102.24,1.0,GLD,H,HAIL,5 SW ARAPAHOE,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220150,2019/06/22 01:50,38.82,-102.35,1.0,GLD,H,HAIL,CHEYENNE WELLS,CHEYENNE,CO,PUBLIC,PUBLIC REPORTED 1 INCH HAIL IN DOWNTOWN CHEYENNE WELLS. DELAYED REPORT FROM LAST NIGHTS STORM. TIME ESTIMATED BASED ON RADAR AND OTHER REPORTS.,COC017,Cheyenne,E
+201906220150,2019/06/22 01:50,38.70,-102.35,95.0,GLD,G,TSTM WND GST,8 S CHEYENNE WELLS,CHEYENNE,CO,STORM CHASER,,COC017,Cheyenne,E
+201906220150,2019/06/22 01:50,38.82,-102.35,None,GLD,D,TSTM WND DMG,CHEYENNE WELLS,CHEYENNE,CO,PUBLIC,DELAYED REPORT FROM LAST NIGHTS STORM. PUBLIC REPORTED THUNDERSTORM WIND DAMAGE IN DOWNTOWN CHEYENNE WELLS. DAMAGE INCLUDES THE ROOF BLOWN OFF OF A HOTEL_ AN OLD GRAIN ELEVATOR BLOWN OVER_ AND SEVERA,COC017,Cheyenne,
+201906220150,2019/06/22 01:50,36.51,-85.30,None,OHX,D,TSTM WND DMG,8 N LIVINGSTON,OVERTON,TN,NWS EMPLOYEE,TIN PEELED OFF BARN ON OZONE ROAD. A FEW TREES DOWN IN THE AREA.,TNC133,Overton,
+201906220151,2019/06/22 01:51,38.82,-102.35,0.88,GLD,H,HAIL,CHEYENNE WELLS,CHEYENNE,CO,TRAINED SPOTTER,,COC017,Cheyenne,E
+201906220151,2019/06/22 01:51,36.87,-85.23,None,LMK,D,TSTM WND DMG,2 WSW CREELSBORO,RUSSELL,KY,911 CALL CENTER,DISPATCH CENTER REPORTS TREES DOWN ACROSS POWER LINES. TIME ESTIMATED FROM RADAR.,KYC207,Russell,
+201906220152,2019/06/22 01:52,36.16,-85.51,None,OHX,D,TSTM WND DMG,COOKEVILLE,PUTNAM,TN,PUBLIC,TREES AND POWERLINES DOWN COUNTY WIDE.,TNC141,Putnam,
+201906220154,2019/06/22 01:54,35.96,-85.82,None,OHX,D,TSTM WND DMG,SMITHVILLE,DE KALB,TN,LAW ENFORCEMENT,TREES ABD POWERLINES DOWN COUNTY WIDE.,TNC041,De Kalb,
+201906220154,2019/06/22 01:54,35.96,-85.82,None,OHX,D,TSTM WND DMG,SMITHVILLE,DE KALB,TN,LAW ENFORCEMENT,TREES AND POWERLINES DOWN COUNTY WIDE.,TNC041,De Kalb,
+201906220156,2019/06/22 01:56,38.82,-102.35,0.88,GLD,H,HAIL,CHEYENNE WELLS,CHEYENNE,CO,TRAINED SPOTTER,,COC017,Cheyenne,E
+201906220156,2019/06/22 01:56,38.79,-102.35,1.0,GLD,H,HAIL,2 S CHEYENNE WELLS,CHEYENNE,CO,PUBLIC,,COC017,Cheyenne,E
+201906220156,2019/06/22 01:56,38.82,-102.35,62.0,GLD,G,TSTM WND GST,CHEYENNE WELLS,CHEYENNE,CO,TRAINED SPOTTER,,COC017,Cheyenne,E
+201906220157,2019/06/22 01:57,36.69,-85.14,None,LMK,D,TSTM WND DMG,ALBANY,CLINTON,KY,911 CALL CENTER,TREES AND POWER LINES DOWN THROUGHOUT CLINTON COUNTY_ MAINLY NEAR ALBANY. REPORTED AT ALBANY KENTUCKY.,KYC053,Clinton,
+201906220158,2019/06/22 01:58,38.17,-104.16,1.0,PUB,H,HAIL,8 SE BOONE,PUEBLO,CO,TRAINED SPOTTER,SEVERE STORM. WIND GUST MAXED OBSERVERS HOME STATION AT 60 MPH. 0.50 INCH HEAVY RAIN.,COC101,Pueblo,M
+201906220200,2019/06/22 02:00,37.97,-87.53,2.4,PAH,R,HEAVY RAIN,1 SSE EVANSVILLE,VANDERBURGH,IN,TRAINED SPOTTER,STORM TOTAL RAINFALL.,INC163,Vanderburgh,M
+201906220200,2019/06/22 02:00,38.80,-102.22,62.0,GLD,G,TSTM WND GST,4 SW ARAPAHOE,CHEYENNE,CO,MESONET,MESONET STATION FW2420 ARAPAHOE.,COC017,Cheyenne,M
+201906220200,2019/06/22 02:00,45.88,-98.23,None,ABR,E,FLOOD,4 W HECLA,BROWN,SD,PUBLIC,WATER OVER RURAL ROADS. REPORT RELAYED VIA SOCIAL MEDIA - TIME ESTIMATED.,SDC013,Brown,
+201906220202,2019/06/22 02:02,35.33,-86.53,None,HUN,D,TSTM WND DMG,6 E PETERSBURG,MOORE,TN,PUBLIC,MULTIPLE TREES DOWN AT US-231 AND 129 AND AT 127 BAGLEY HOLLOW RD.,TNC127,Moore,
+201906220202,2019/06/22 02:02,36.82,-84.99,None,JKL,D,TSTM WND DMG,1 SE CABELL,WAYNE,KY,PUBLIC,TREE DOWN ON OLD SAWMILL ROAD IN CABELL OFF OF KENTUCKY HIGHWAY 1546. REPORT OBTAINED FROM SOCIAL MEDIA.,KYC231,Wayne,
+201906220202,2019/06/22 02:02,36.83,-85.00,None,JKL,D,TSTM WND DMG,1 SE CABELL,WAYNE,KY,PUBLIC,TREE DOWN ON OLD SAWMILL ROAD IN CABELL OFF OF KENTUCKY HIGHWAY 1546. REPORT OBTAINED FROM SOCIAL MEDIA.,KYC231,Wayne,
+201906220202,2019/06/22 02:02,36.16,-85.51,None,OHX,D,TSTM WND DMG,COOKEVILLE,PUTNAM,TN,MEDIA,TREE DOWN ON HOUSE ALONG GAINESBORO-GRADE.,TNC141,Putnam,
+201906220202,2019/06/22 02:02,36.39,-85.33,None,OHX,D,TSTM WND DMG,LIVINGSTON,OVERTON,TN,PUBLIC,POWER LINES DOWN ALONG PEACH DR AND HIDDEN VALLEY LANE. TREE DOWN ALONG CELINA HWY AND STANDING STONE HWY. POWER LINES DOWN ALONG FLETCHER DR.,TNC133,Overton,
+201906220202,2019/06/22 02:02,36.39,-85.33,None,OHX,D,TSTM WND DMG,LIVINGSTON,OVERTON,TN,PUBLIC,TREES AND POWERLINES DOWN COUNTY WIDE.,TNC133,Overton,
+201906220203,2019/06/22 02:03,38.13,-104.02,None,PUB,D,TSTM WND DMG,FOWLER,OTERO,CO,PUBLIC,POWER OUTAGE. MEDIUM TREE LIMBS DOWN. DIME SIZE HAIL.,COC089,Otero,
+201906220204,2019/06/22 02:04,38.14,-104.02,60.0,PUB,G,TSTM WND GST,1 N FOWLER,OTERO,CO,TRAINED SPOTTER,,COC089,Otero,E
+201906220204,2019/06/22 02:04,34.93,-87.75,None,HUN,D,TSTM WND DMG,5 NW UNDERWOOD-PETERSVI,LAUDERDALE,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN AT 1300 BLOCK OF CR 11.,ALC077,Lauderdale,
+201906220204,2019/06/22 02:04,36.57,-85.13,None,OHX,D,TSTM WND DMG,BYRDSTOWN,PICKETT,TN,LAW ENFORCEMENT,TREES AND POWER LINES DOWN COUNTY WIDE.,TNC137,Pickett,
+201906220205,2019/06/22 02:05,39.71,-96.33,4.0,TOP,R,HEAVY RAIN,4 W VERMILLION,MARSHALL,KS,TRAINED SPOTTER,CORRECTS PREVIOUS HEAVY RAIN REPORT FROM 4 W VERMILLION. STORM TOTAL AS OF 9 PM. STILL RAINING.,KSC117,Marshall,E
+201906220205,2019/06/22 02:05,39.71,-96.33,4.0,TOP,R,HEAVY RAIN,4 W VERMILLION,MARSHALL,KS,TRAINED SPOTTER,STORM TOTAL SINCE 9 PM. STILL RAINING.,KSC117,Marshall,E
+201906220206,2019/06/22 02:06,34.91,-88.06,None,HUN,D,TSTM WND DMG,1 ESE WATERLOO,LAUDERDALE,AL,EMERGENCY MNGR,MULTIPLE TREES DOWN IN THE WATERLOO AND FLORENCE COMMUNITIES.,ALC077,Lauderdale,
+201906220206,2019/06/22 02:06,36.24,-86.40,None,OHX,D,TSTM WND DMG,CAIRO BEND,WILSON,TN,NWS EMPLOYEE,TREES DOWN,TNC189,Wilson,
+201906220208,2019/06/22 02:08,35.27,-86.58,60.0,HUN,G,TSTM WND GST,5 SE PETERSBURG,LINCOLN,TN,TRAINED SPOTTER,,TNC103,Lincoln,E
+201906220208,2019/06/22 02:08,35.37,-86.33,None,HUN,D,TSTM WND DMG,6 NNE LYNCHBURG,MOORE,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN ACROSS DANIEL HOLLOW RD AND FIVE POINTS RD.,TNC127,Moore,
+201906220209,2019/06/22 02:09,35.37,-86.22,None,OHX,D,TSTM WND DMG,TULLAHOMA,COFFEE,TN,EMERGENCY MNGR,TREES DOWN IN TULLAHOMA AND ACROSS NORTHERN COFFEE COUNTY.,TNC031,Coffee,
+201906220210,2019/06/22 02:10,35.96,-85.82,65.0,OHX,G,TSTM WND GST,SMITHVILLE,DE KALB,TN,TRAINED SPOTTER,ESTIMATED 60-65 MPH GUST,TNC041,De Kalb,E
+201906220210,2019/06/22 02:10,35.34,-86.38,None,HUN,D,TSTM WND DMG,4 NNW LYNCHBURG,MOORE,TN,PUBLIC,MULTIPLE TREES DOWN NEAR WISEMAN RD_ ANDERSON RD_ TN-82_ BEDFORD HOLLOW RD_ AND COUNTYLINE RD.,TNC127,Moore,
+201906220211,2019/06/22 02:11,36.84,-84.85,None,JKL,D,TSTM WND DMG,MONTICELLO,WAYNE,KY,BROADCAST MEDIA,A UTILITY POLE FELL NEXT TO A FIREWORK TENT AT THE CUMBERLAND CROSSING SHOPPING CENTER IN MONTICELLO AND THEN THE TENT CAME DOWN 5 MINUTES LATER WITH ANOTHER WIND GUST.,KYC231,Wayne,
+201906220211,2019/06/22 02:11,35.66,-85.84,None,OHX,D,TSTM WND DMG,4 WSW MCMINNVILLE,WARREN,TN,PUBLIC,PUBLIC REPORTED 18 TREES BLOWN DOWN AROUND THEIR HOME AT 499 PEACH AVE NEAR MCMINNVILLE.,TNC177,Warren,
+201906220212,2019/06/22 02:12,35.31,-86.33,None,HUN,D,TSTM WND DMG,3 NE LYNCHBURG,MOORE,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN ACROSS PRICE HOLLOW RD_ COBB HOLLOW RD_ AND PLEASANT HILL RD.,TNC127,Moore,
+201906220215,2019/06/22 02:15,36.87,-84.83,None,JKL,D,TSTM WND DMG,2 NNE MONTICELLO,WAYNE,KY,EMERGENCY MNGR,NUMEROUS TREES DOWN IN AND NORTH OF MONTICELLO ALONG KY HWY 90. THIS RESULTED IN POWERLINES BEING KNOCKED DOWN...LEADING TO OVER 4_000 POWER OUTAGES. A FEW TIN ROOFS WERE ALSO BLOWN OFF OF BUILDINGS.,KYC231,Wayne,
+201906220216,2019/06/22 02:16,35.27,-86.39,None,HUN,D,TSTM WND DMG,2 WSW LYNCHBURG,MOORE,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN ACROSS BUCKEYE LOOP_ FAYETTEVILLE HWY_ WINCHESTER HWY_ AND NORMAN WISEMAN RD.,TNC127,Moore,
+201906220218,2019/06/22 02:18,35.28,-86.31,None,HUN,D,TSTM WND DMG,3 E LYNCHBURG,MOORE,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN ACROSS HURRICANE CREEK RD_ GRIFFIN RD_ CHESTNUT RIDGE RD_ GALBRETH RD_ AND RIDGEVILLE RD.,TNC127,Moore,
+201906220218,2019/06/22 02:18,35.15,-86.57,None,HUN,D,TSTM WND DMG,FAYETTEVILLE,LINCOLN,TN,LAW ENFORCEMENT,TREES WERE KNOCKED DOWN AT MULTIPLE LOCATIONS IN LINCOLN. SPECIFICS NOT AVAILABLE AS OF YET.,TNC103,Lincoln,
+201906220219,2019/06/22 02:19,34.75,-87.70,None,HUN,D,TSTM WND DMG,1 S SHEFFIELD,COLBERT,AL,EMERGENCY MNGR,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 1 S SHEFFIELD. POWER LINES DOWN WITHIN THE SHEFFIELD AND MUSCLE SHOALS COMMUNITIES.,ALC033,Colbert,
+201906220220,2019/06/22 02:20,34.86,-87.73,None,HUN,D,TSTM WND DMG,2 SW UNDERWOOD-PETERSVI,LAUDERDALE,AL,EMERGENCY MNGR,CORRECTS PREVIOUS TSTM WND DMG REPORT FROM 2 SW UNDERWOOD-PETERSVILLE. TREE DOWN NEAR THE INTERSECTION OF COUNTY ROAD 41 AND RASCH ROAD.,ALC077,Lauderdale,
+201906220220,2019/06/22 02:20,34.86,-87.73,None,HUN,D,TSTM WND DMG,2 SW UNDERWOOD-PETERSVI,LAUDERDALE,AL,EMERGENCY MNGR,TREE DOWN NEAR THE INTERSECTION OF COUNTY ROAD 41 AND RASH ROAD.,ALC077,Lauderdale,
+201906220220,2019/06/22 02:20,34.91,-87.64,None,HUN,D,TSTM WND DMG,3 NNW SAINT FLORIAN,LAUDERDALE,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN ONTO THE INTERSECTION OF CR 24 AND CR 28.,ALC077,Lauderdale,
+201906220220,2019/06/22 02:20,36.19,-85.02,None,OHX,D,TSTM WND DMG,13 ENE MONTEREY,FENTRESS,TN,NWS STORM SURVEY,A MICROBURST CAUSED SUBSTANTIAL WIND DAMAGE IN AND AROUND CLARKRANGE. THE FRONT PORCH OF A FUNERAL HOME WAS BLOWN DOWN...ANOTHER FUNERAL HOME SUFFERED ROOF DAMAGE...SHEET METAL ROOFING WAS BLOWN OFF ,TNC049,Fentress,
+201906220220,2019/06/22 02:20,36.43,-84.94,None,OHX,D,TSTM WND DMG,JAMESTOWN,FENTRESS,TN,AMATEUR RADIO,COUNTY WIDE TREE DAMAGE AND POWER OUTAGES.,TNC049,Fentress,
+201906220222,2019/06/22 02:22,35.29,-86.37,None,HUN,D,TSTM WND DMG,1 WNW LYNCHBURG,MOORE,TN,LAW ENFORCEMENT,TREES HAVE BEEN KNOCKED DOWN AT MULTIPLE LOCATIONS IN MOORE COUNTY.,TNC127,Moore,
+201906220222,2019/06/22 02:22,35.22,-86.32,None,HUN,D,TSTM WND DMG,5 SSE LYNCHBURG,MOORE,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN ACROSS TANYARD HILL RD_ LEE GRAY RD_ AND LITTLE BEAN HOLLOW RD.,TNC127,Moore,
+201906220222,2019/06/22 02:22,35.69,-85.78,None,OHX,D,TSTM WND DMG,MCMINNVILLE,WARREN,TN,LAW ENFORCEMENT,TREES DOWN COUNTY WIDE.,TNC177,Warren,
+201906220224,2019/06/22 02:24,29.37,-100.92,64.0,EWX,G,TSTM WND GST,2 WNW DEL RIO,VAL VERDE,TX,ASOS,MEASURED AT KDRT.,TXC465,Val Verde,M
+201906220224,2019/06/22 02:24,36.38,-84.80,None,OHX,T,TORNADO,8 ESE JAMESTOWN,FENTRESS,TN,NWS STORM SURVEY,AN EF1 TORNADO TOUCHED DOWN IN THE ARMATHWAITE COMMUNITY WEST OF BRANNON LANE AND MOVED EAST ACROSS STOCKTON ROAD...MT HELEN ROAD...HM BROOKS ROAD...CHESTNUT RIDGE ROAD...AND SAM SMITH ROAD BEFORE LI,TNC049,Fentress,
+201906220225,2019/06/22 02:25,29.40,-100.93,None,EWX,D,TSTM WND DMG,3 NNW DEL RIO,VAL VERDE,TX,PUBLIC,LARGE TREE TOPPLED_ PICTURE VIA TWITTER.,TXC465,Val Verde,
+201906220225,2019/06/22 02:25,29.40,-100.93,None,EWX,D,TSTM WND DMG,3 NW DEL RIO,VAL VERDE,TX,TRAINED SPOTTER,MAJOR TREE DAMAGE_ PICTURE FROM TWITTER.,TXC465,Val Verde,
+201906220226,2019/06/22 02:26,35.16,-86.57,None,HUN,D,TSTM WND DMG,1 NW FAYETTEVILLE,LINCOLN,TN,911 CALL CENTER,TREES DOWN ACROSS THE COUNTY.,TNC103,Lincoln,
+201906220226,2019/06/22 02:26,35.19,-86.36,None,HUN,D,TSTM WND DMG,7 S LYNCHBURG,MOORE,TN,EMERGENCY MNGR,MULTIPLE TREES DOWN ACROSS WET PRONG RD AND OAK GROVE RD.,TNC127,Moore,
+201906220228,2019/06/22 02:28,35.95,-85.04,None,OHX,D,TSTM WND DMG,CROSSVILLE,CUMBERLAND,TN,EMERGENCY MNGR,TREE DOWN OVER HWY 70 N AND POWER OUTAGES IN CUMBERLAND COUNTY.,TNC035,Cumberland,
+201906220229,2019/06/22 02:29,38.81,-101.86,60.0,GLD,G,TSTM WND GST,6 ESE WESKAN,WALLACE,KS,TRAINED SPOTTER,ESTIMATE WIND OVER 60 MPH.,KSC199,Wallace,E
+201906220229,2019/06/22 02:29,38.81,-101.86,None,GLD,B,DOWNBURST,6 ESE WESKAN,WALLACE,KS,TRAINED SPOTTER,CORRECTS PREVIOUS DOWNBURST REPORT FROM 6 ESE WESKAN. CORRECTS PREVIOUS TSTM WND GST REPORT FROM 6 ESE WESKAN. ESTIMATE WIND OVER 60 MPH. SPOTTER CALLED BACK REPORTING THAT THE DOWNBRUST TOOK OUT A 6,KSC199,Wallace,
+201906220229,2019/06/22 02:29,38.81,-101.86,None,GLD,B,DOWNBURST,6 ESE WESKAN,WALLACE,KS,TRAINED SPOTTER,CORRECTS PREVIOUS TSTM WND GST REPORT FROM 6 ESE WESKAN. ESTIMATE WIND OVER 60 MPH.,KSC199,Wallace,
+201906220230,2019/06/22 02:30,38.22,-103.73,1.0,PUB,H,HAIL,1 E ORDWAY,CROWLEY,CO,COCORAHS,,COC025,Crowley,M
+201906220230,2019/06/22 02:30,38.90,-101.75,1.5,GLD,H,HAIL,SHARON SPRINGS,WALLACE,KS,PUBLIC,,KSC199,Wallace,E
+201906220230,2019/06/22 02:30,36.93,-84.60,None,JKL,D,TSTM WND DMG,2 SE QUINTON,PULASKI,KY,911 CALL CENTER,TREE DOWN ON DANNY DRIVE.,KYC199,Pulaski,
+201906220230,2019/06/22 02:30,35.93,-85.47,None,OHX,D,TSTM WND DMG,SPARTA,WHITE,TN,LAW ENFORCEMENT,TREES DOWN COUNTY WIDE.,TNC185,White,
+201906220232,2019/06/22 02:32,38.90,-101.75,1.75,GLD,H,HAIL,SHARON SPRINGS,WALLACE,KS,PUBLIC,REPORT RECEIVED VIA SOCIAL MEDIA.,KSC199,Wallace,E
+201906220232,2019/06/22 02:32,38.90,-101.75,80.0,GLD,G,TSTM WND GST,SHARON SPRINGS,WALLACE,KS,PUBLIC,REPORT RECEIVED VIA SOCIAL MEDIA.,KSC199,Wallace,E
+201906220232,2019/06/22 02:32,38.89,-101.75,None,GLD,D,TSTM WND DMG,SHARON SPRINGS,WALLACE,KS,PUBLIC,TREE FELL ON A TRUCK. EST GOLF BALL SIZE HAIL AND 80 PLUS MPH WIND GUSTS.,KSC199,Wallace,
+201906220232,2019/06/22 02:32,34.65,-87.52,None,HUN,D,TSTM WND DMG,4 S LEIGHTON,COLBERT,AL,EMERGENCY MNGR,POWER LINES DOWN ON LOWERY RD SOUTH OF LEIGHTON.,ALC033,Colbert,
+201906220234,2019/06/22 02:34,29.36,-100.78,70.0,EWX,G,TSTM WND GST,LAUGHLIN AFB,VAL VERDE,TX,AWOS,MEASURED AT KDLF.,TXC465,Val Verde,M
+201906220234,2019/06/22 02:34,38.90,-101.78,94.0,GLD,G,TSTM WND GST,2 WNW SHARON SPRINGS,WALLACE,KS,MESONET,,KSC199,Wallace,M
+201906220237,2019/06/22 02:37,38.91,-101.72,1.75,GLD,H,HAIL,2 ENE SHARON SPRINGS,WALLACE,KS,STORM CHASER,,KSC199,Wallace,E
+201906220237,2019/06/22 02:37,35.26,-85.75,None,OHX,D,TSTM WND DMG,TRACY CITY,GRUNDY,TN,LAW ENFORCEMENT,TREES DOWN IN TRACY CITY AND MONTEAGLE.,TNC061,Grundy,
+201906220238,2019/06/22 02:38,38.87,-101.97,None,GLD,D,TSTM WND DMG,1 NNW WESKAN,WALLACE,KS,PUBLIC,REPORT OF WIND DAMAGE IN THE TOWN OF WESKAN_ KS. LARGE BRANCHES BROKEN AND ONE LARGE TREE UPROOTED.,KSC199,Wallace,
+201906220238,2019/06/22 02:38,34.93,-86.59,None,HUN,D,TSTM WND DMG,1 WNW HAZEL GREEN,MADISON,AL,PUBLIC,TREE DOWN ON POWER LINES NEAR THE INTERSECTION OF BRITT ADAM LANE AND WEST LIMESTONE ROAD. WEST LIMESTONE ROAD IMPASSIBLE. TIME ESTIMATED FROM RADAR.,ALC089,Madison,
+201906220240,2019/06/22 02:40,45.59,-98.18,2.68,ABR,R,HEAVY RAIN,2 N PUTNEY,BROWN,SD,PUBLIC,RELAYED THROUGH SOCIAL MEDIA.,SDC013,Brown,M
+201906220240,2019/06/22 02:40,34.98,-86.85,None,HUN,D,TSTM WND DMG,1 W ARDMORE,LIMESTONE,AL,911 CALL CENTER,SEVERAL TREES AND POWER LINES DOWN IN THE ARDMORE COMMUNITY AND IN THE 7 MILE POST AREA.,ALC083,Limestone,
+201906220240,2019/06/22 02:40,36.72,-84.48,None,JKL,D,TSTM WND DMG,WHITLEY CITY,MCCREARY,KY,911 CALL CENTER,TREES DOWN ALL OVER COUNTY_ ESPEICALLY ACROSS THE NORTHERN HALF OF THE COUNTY.,KYC147,McCreary,
+201906220241,2019/06/22 02:41,35.19,-86.11,None,HUN,D,TSTM WND DMG,WINCHESTER,FRANKLIN,TN,LAW ENFORCEMENT,NUMEROUS REPORTS OF TREES AND POWER LINES BEING KNOCKED DOWN THROUGHOUT THE COUNTY.,TNC051,Franklin,
+201906220241,2019/06/22 02:41,35.19,-86.11,None,HUN,D,TSTM WND DMG,WINCHESTER,FRANKLIN,TN,LAW ENFORCEMENT,TREES AND POWER LINES DOWN AT MULTIPLE LOCATIONS THROUGHOUT THE COUNTY.,TNC051,Franklin,
+201906220242,2019/06/22 02:42,48.76,-108.60,2.02,TFX,R,HEAVY RAIN,7 SSE HOGELAND,BLAINE,MT,TRAINED SPOTTER,RAINFALL SINCE 7 AM THIS MORNING.,MTC005,Blaine,M
+201906220243,2019/06/22 02:43,35.74,-85.46,None,OHX,D,TSTM WND DMG,SPENCER,VAN BUREN,TN,LAW ENFORCEMENT,TREES DOWN COUNTY WIDE.,TNC175,Van Buren,
+201906220244,2019/06/22 02:44,38.05,-103.51,70.0,PUB,G,TSTM WND GST,4 S CHERAW,OTERO,CO,ASOS,CORRECTS PREVIOUS TSTM WND GST REPORT FROM 4 S CHERAW. GUST OCCURRED 8:44 PM_ RECEIVED ON 8:53 OBSERVATION. OUTFLOW WINDS FROM STORMS IN CROWLEY COUNTY.,COC089,Otero,M
+201906220245,2019/06/22 02:45,34.86,-86.56,48.0,HUN,G,TSTM WND GST,1 SSE MERIDIANVILLE,MADISON,AL,AWOS,,ALC089,Madison,M
+201906220245,2019/06/22 02:45,36.41,-84.50,None,MRX,D,TSTM WND DMG,1 W HUNTSVILLE,SCOTT,TN,911 CALL CENTER,REPORTS OF TREES DOWN ACROSS THE COUNTY.,TNC151,Scott,
+201906220249,2019/06/22 02:49,34.80,-86.97,None,HUN,D,TSTM WND DMG,1 NNW ATHENS,LIMESTONE,AL,911 CALL CENTER,POWER LINES DOWN WITHIN THE ATHENS COMMUNITY.,ALC083,Limestone,
+201906220249,2019/06/22 02:49,35.71,-86.70,None,OHX,D,TSTM WND DMG,3 SW EAGLEVILLE,MARSHALL,TN,SOCIAL MEDIA,PHOTO OF TREE OVER FULLER RD IN COLLEGE GROVE.,TNC117,Marshall,
+201906220250,2019/06/22 02:50,36.31,-84.77,None,MRX,D,TSTM WND DMG,5 SW RUGBY,MORGAN,TN,911 CALL CENTER,COUPLE OF TREES DOWN ON PETERS FORD RD.,TNC129,Morgan,
+201906220251,2019/06/22 02:51,38.20,-103.51,0.75,PUB,H,HAIL,6 N CHERAW,CROWLEY,CO,STORM CHASER,,COC025,Crowley,E
+201906220253,2019/06/22 02:53,38.05,-103.51,70.0,PUB,G,TSTM WND GST,4 S CHERAW,OTERO,CO,ASOS,OUTFLOW WINDS FROM STORMS IN CROWLEY COUNTY.,COC089,Otero,M
+201906220255,2019/06/22 02:55,34.72,-86.73,None,HUN,D,TSTM WND DMG,2 NE MADISON,MADISON,AL,NWS EMPLOYEE,TREE FELL ON ROAD AT THE INTERSECTION OF EASTVIEW DRIVE AND MABRY DRIVE.,ALC089,Madison,
+201906220256,2019/06/22 02:56,48.50,-99.71,3.1,BIS,R,HEAVY RAIN,WOLFORD,PIERCE,ND,PUBLIC,RAINFALL FROM 3PM TO 930 PM. RELAYED THROUGH BROADCAST MEDIA.,NDC069,Pierce,E
+201906220300,2019/06/22 03:00,34.60,-87.02,None,HUN,D,TSTM WND DMG,3 NW DECATUR,MORGAN,AL,EMERGENCY MNGR,SEVERAL TREES DOWN ACROSS DECATUR NEAR MOULTON HEIGHTS NEIGHBORHOOD.,ALC103,Morgan,
+201906220300,2019/06/22 03:00,35.94,-84.55,None,MRX,D,TSTM WND DMG,1 ENE HARRIMAN,ROANE,TN,EMERGENCY MNGR,POWER LOSS IN HIDDEN ACRES AREA. 911 CENTER REPORTS SCATTERED TREES DOWN.,TNC145,Roane,
+201906220301,2019/06/22 03:01,36.72,-84.14,None,JKL,D,TSTM WND DMG,2 SE WILLIAMSBURG,WHITLEY,KY,911 CALL CENTER,TREE DOWN ON A HOUSE ON TACKETT CREEK RD.,KYC235,Whitley,
+201906220301,2019/06/22 03:01,35.61,-85.21,None,MRX,D,TSTM WND DMG,1 W PIKEVILLE,BLEDSOE,TN,911 CALL CENTER,FEW REPORTS OF TREES DOWN ACROSS THE COUNTY.,TNC007,Bledsoe,
+201906220304,2019/06/22 03:04,34.35,-85.98,None,HUN,D,TSTM WND DMG,2 SE GERALDINE,DEKALB,AL,EMERGENCY MNGR,TREE AND POWER LINES DOWN ON COUNTY ROAD 583.,ALC049,DeKalb,
+201906220304,2019/06/22 03:04,35.93,-84.56,None,MRX,D,TSTM WND DMG,HARRIMAN,ROANE,TN,911 CALL CENTER,SEVERAL TREES DOWN NEAR HARRIMAN.,TNC145,Roane,
+201906220308,2019/06/22 03:08,38.76,-101.75,None,GLD,D,TSTM WND DMG,9 S SHARON SPRINGS,WALLACE,KS,PUBLIC,SHARON SPRINGS HAS TREES DOWN AND CAR WINDOWS BROKEN. POWER OUT IN PARTS OF SHARON SPRINGS.,KSC199,Wallace,
+201906220310,2019/06/22 03:10,34.98,-85.62,None,HUN,D,TSTM WND DMG,6 ENE BRIDGEPORT,JACKSON,AL,EMERGENCY MNGR,MINOR DAMAGE TO A HOME ON COUNTY ROAD 159 IN THE BRYANT COMMUNITY. TIME ESTIMATED FROM RADAR.,ALC071,Jackson,
+201906220312,2019/06/22 03:12,36.20,-84.04,None,MRX,D,TSTM WND DMG,ANDERSONVILLE,ANDERSON,TN,AMATEUR RADIO,GAZEBO AND OTHER DEBRIS BLOWN INTO BUFFALO ROAD IN ANDERSONVILLE.,TNC001,Anderson,
+201906220313,2019/06/22 03:13,35.56,-84.95,None,MRX,D,TSTM WND DMG,EVENSVILLE,RHEA,TN,TRAINED SPOTTER,DOWNED POWER LINES AND DOWNED TREES IN THE AREA OF EVENSVILLE TN.,TNC143,Rhea,
+201906220313,2019/06/22 03:13,35.56,-84.95,None,MRX,D,TSTM WND DMG,EVENSVILLE,RHEA,TN,TRAINED SPOTTER,DOWNED POWER LINES IN THE AREA OF EVENSVILLE TN.,TNC143,Rhea,
+201906220315,2019/06/22 03:15,36.37,-84.14,None,MRX,D,TSTM WND DMG,1 WSW LA FOLLETTE,CAMPBELL,TN,911 CALL CENTER,EXTENSIVE DOWNED TREES ACROSS THE COUNTY.,TNC013,Campbell,
+201906220315,2019/06/22 03:15,35.15,-85.59,None,MRX,D,TSTM WND DMG,3 WSW MARTIN SPRINGS,MARION,TN,911 CALL CENTER,EXTENSIVE NUMBERS OF TREES AND POWER LINES DOWN ACROSS THE COUNTY.,TNC115,Marion,
+201906220318,2019/06/22 03:18,48.91,-99.77,2.42,BIS,R,HEAVY RAIN,4 SW SAINT JOHN,ROLETTE,ND,PUBLIC,RAINFALL TODAY. YESTERDAY RECORDED 0.56 INCHES. RELAYED BY BROADCAST MEDIA.,NDC079,Rolette,M
+201906220319,2019/06/22 03:19,36.12,-84.17,None,MRX,D,TSTM WND DMG,3 NW CLINTON,ANDERSON,TN,911 CALL CENTER,SEVERAL REPORTS OF TREES DOWN ACROSS THE COUNTY.,TNC001,Anderson,
+201906220320,2019/06/22 03:20,39.01,-101.18,2.5,GLD,H,HAIL,5 SE WINONA,LOGAN,KS,EMERGENCY MNGR,SECOND HAND REPORT FROM THE EM.,KSC109,Logan,E
+201906220320,2019/06/22 03:20,34.72,-86.56,None,HUN,D,TSTM WND DMG,4 E HUNTSVILLE,MADISON,AL,BROADCAST MEDIA,TREE DOWN ON POWER LINE_ CAUSING POWER OUTAGE ALONG GOVERNORS DRIVE. LARGE TREE LIMBS DOWN.,ALC089,Madison,
+201906220322,2019/06/22 03:22,34.57,-86.44,None,HUN,D,TSTM WND DMG,2 SE OWENS CROSSROADS,MADISON,AL,PUBLIC,TREE DOWN ON HOME NEAR THE INTERSECTION OF ED SPEARS ROAD AND SEDGEWICK DRIVE.,ALC089,Madison,
+201906220324,2019/06/22 03:24,34.60,-86.10,None,HUN,D,TSTM WND DMG,5 N LANGSTON,JACKSON,AL,EMERGENCY MNGR,*** 1 INJ *** A TREE WAS KNOCKED DOWN ONTO CR 114. A VEHICLE RAN INTO THE TREE AND WAS INJURED LATER.,ALC071,Jackson,
+201906220324,2019/06/22 03:24,35.67,-84.66,None,MRX,D,TSTM WND DMG,TEN MILE,MEIGS,TN,TRAINED SPOTTER,TRAINED OBSERVER REPORTS TREES DOWN AND POWER OUT AT TEN MILE TN.,TNC121,Meigs,
+201906220325,2019/06/22 03:25,34.71,-85.80,None,HUN,D,TSTM WND DMG,4 NE PISGAH,JACKSON,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN ON CR 126.,ALC071,Jackson,
+201906220325,2019/06/22 03:25,34.68,-85.85,None,HUN,D,TSTM WND DMG,PISGAH,JACKSON,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN ON CR 88.,ALC071,Jackson,
+201906220325,2019/06/22 03:25,35.13,-85.30,None,MRX,D,TSTM WND DMG,1 N RED BANK,HAMILTON,TN,911 CALL CENTER,REPORT OF POWER LINES DOWN NEAR RED BANK.,TNC065,Hamilton,
+201906220328,2019/06/22 03:28,34.57,-86.14,None,HUN,D,TSTM WND DMG,4 NW LANGSTON,JACKSON,AL,EMERGENCY MNGR,TREE DOWN ON CR 77 NEAR THE SWEARINGEN COMMUNITY.,ALC071,Jackson,
+201906220328,2019/06/22 03:28,34.56,-86.19,None,HUN,D,TSTM WND DMG,5 NE GRANT,MARSHALL,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN ON CR 77 IN SWEARINGEN.,ALC095,Marshall,
+201906220328,2019/06/22 03:28,34.79,-85.59,None,HUN,D,TSTM WND DMG,8 NNE IDER,DEKALB,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN ON THE ROAD AT THE INTERSECTION OF AL 75 AND CR 832.,ALC049,DeKalb,
+201906220330,2019/06/22 03:30,34.71,-85.66,None,HUN,D,TSTM WND DMG,1 NNE IDER,DEKALB,AL,EMERGENCY MNGR,POWER OUTAGE REPORTED ALONG CR 140 IN IDER. POWER LINES AND TREES DOWN IN BOTH THE IDER AND HENAGAR COMMUNITIES.,ALC049,DeKalb,
+201906220330,2019/06/22 03:30,34.63,-85.79,None,HUN,D,TSTM WND DMG,3 W HENAGAR,JACKSON,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN ON THE ROAD AT 12342 HIGHWAY 40. POWER LINE INVOLVED.,ALC071,Jackson,
+201906220330,2019/06/22 03:30,35.74,-84.34,None,MRX,D,TSTM WND DMG,1 ENE LOUDON,LOUDON,TN,EMERGENCY MNGR,WIDESPREAD DOWNED TREES AND POWER OUTAGES ACROSS THE COUNTY.,TNC105,Loudon,
+201906220330,2019/06/22 03:30,35.80,-84.27,None,MRX,D,TSTM WND DMG,LENOIR CITY,LOUDON,TN,EMERGENCY MNGR,TWO REPORTS OF TREES DOWN ON HOUSES NEAR 9TH AVE AND C ST IN LENOIR CITY. NO INJURIES REPORTED.,TNC105,Loudon,
+201906220331,2019/06/22 03:31,35.79,-84.27,None,MRX,D,TSTM WND DMG,1 SSE LENOIR CITY,LOUDON,TN,AMATEUR RADIO,MULTIPLE TREES DOWN NEAR JUSTICE CENTER ON HIGHWAY 11.,TNC105,Loudon,
+201906220332,2019/06/22 03:32,34.57,-86.18,None,HUN,D,TSTM WND DMG,5 NE GRANT,MARSHALL,AL,EMERGENCY MNGR,TREE DOWN ON CR 77 NEAR THE SWEARENGIN COMMUNITY.,ALC095,Marshall,
+201906220332,2019/06/22 03:32,36.73,-83.73,None,JKL,D,TSTM WND DMG,CLEAR CREEK SPRINGS,BELL,KY,911 CALL CENTER,TREE DOWN ON HIGHWAY 190.,KYC013,Bell,
+201906220332,2019/06/22 03:32,35.00,-85.33,None,MRX,D,TSTM WND DMG,6 SW CHATTANOOGA,HAMILTON,TN,EMERGENCY MNGR,TREE ON HOME 4900 BLOCK OF ALABAMA AVENUE. OCCUPANTS DISPLACED.,TNC065,Hamilton,
+201906220334,2019/06/22 03:34,38.17,-97.11,0.7,ICT,H,HAIL,PEABODY,MARION,KS,LAW ENFORCEMENT,,KSC115,Marion,E
+201906220334,2019/06/22 03:34,38.17,-97.11,0.7,ICT,H,HAIL,PEABODY,MARION,KS,LAW ENFORCEMENT,.,KSC115,Marion,E
+201906220336,2019/06/22 03:36,36.77,-83.69,None,JKL,D,TSTM WND DMG,1 NE PINEVILLE,BELL,KY,911 CALL CENTER,TREE DOWN ON DORTON BRANCH ROAD.,KYC013,Bell,
+201906220338,2019/06/22 03:38,34.61,-85.65,None,HUN,D,TSTM WND DMG,3 NNW HAMMONDVILLE,DEKALB,AL,911 CALL CENTER,TREE BLOCKING BOTH LANES OF HWY 40. POWER LINES INVOLVED.,ALC049,DeKalb,
+201906220338,2019/06/22 03:38,35.43,-84.59,None,MRX,D,TSTM WND DMG,2 SE ATHENS,MCMINN,TN,PUBLIC,TREES REPORTED DOWN IN ATHENS.,TNC107,McMinn,
+201906220338,2019/06/22 03:38,35.87,-84.09,None,MRX,D,TSTM WND DMG,5 E FARRAGUT,KNOX,TN,911 CALL CENTER,POWER LINES DOWN.,TNC093,Knox,
+201906220339,2019/06/22 03:39,36.08,-83.78,None,MRX,D,TSTM WND DMG,1 NW MASCOT,KNOX,TN,911 CALL CENTER,TREES DOWN AND POWER OUTAGES NEAR ROBERTS RD AND MILLERTOWN PIKE.,TNC093,Knox,
+201906220339,2019/06/22 03:39,36.01,-83.92,None,MRX,D,TSTM WND DMG,3 NNE KNOXVILLE,KNOX,TN,911 CALL CENTER,POWER LINES DOWN AND TRAFFIC LIGHTS WITHOUT POWER.,TNC093,Knox,
+201906220340,2019/06/22 03:40,47.27,-98.87,1.23,BIS,R,HEAVY RAIN,ARROWWOOD RAWS,STUTSMAN,ND,OTHER FEDERAL,RAINFALL FROM 330 PM TO 930 PM CDT.,NDC093,Stutsman,E
+201906220340,2019/06/22 03:40,34.95,-85.55,None,FFC,D,TSTM WND DMG,2 SSE COLE CITY,DADE,GA,EMERGENCY MNGR,EM REPORTED THAT TREES ARE DOWN ON SAND MOUNTAIN.,GAC083,Dade,
+201906220341,2019/06/22 03:41,34.86,-85.49,None,FFC,D,TSTM WND DMG,1 SE TRENTON,DADE,GA,SOCIAL MEDIA,A TREE CAME DOWN ON A CAR ON LAURA LANE IN TRENTON.,GAC083,Dade,
+201906220341,2019/06/22 03:41,35.44,-84.59,None,MRX,D,TSTM WND DMG,1 SE ATHENS,MCMINN,TN,911 CALL CENTER,TREE ON HOME IN ATHENS CITY.,TNC107,McMinn,
+201906220342,2019/06/22 03:42,34.92,-85.59,None,FFC,D,TSTM WND DMG,3 NW STEPHENSVILLE,DADE,GA,EMERGENCY MNGR,TREES DOWN ALONG REEVE ROAD IN DADE COUNTY.,GAC083,Dade,
+201906220345,2019/06/22 03:45,34.60,-86.11,None,HUN,D,TSTM WND DMG,5 SW SCOTTSBORO,JACKSON,AL,EMERGENCY MNGR,TREE OVER ROADWAY ON COUNTY ROAD 114. TIME ESTIMATED FROM RADAR.,ALC071,Jackson,
+201906220345,2019/06/22 03:45,35.75,-83.97,None,MRX,D,TSTM WND DMG,1 NE MARYVILLE,BLOUNT,TN,PUBLIC,WIDESPREAD DOWNED TREES COUNTY WIDE.,TNC009,Blount,
+201906220348,2019/06/22 03:48,34.79,-85.48,None,FFC,D,TSTM WND DMG,2 S CLOUDLAND CANYON ST,DADE,GA,SOCIAL MEDIA,REPORT OF A TREE THAT FELL ON A HOUSE AND A TRUCK ON PLUM NELLY ROAD APPROXIMATELY 5 MILES SSE OF TRENTON_ GA.,GAC083,Dade,
+201906220348,2019/06/22 03:48,35.74,-84.62,None,MRX,D,TSTM WND DMG,4 SW FAIRVIEW,ROANE,TN,EMERGENCY MNGR,SOUTH ROANE COUNTY VFD REPORTS POWER OUTAGES (VOLUNTEER ELECTRIC) ALONG SR58 ON EITHER SIDE OR ROANE/MEIGS LINE.,TNC145,Roane,
+201906220349,2019/06/22 03:49,39.04,-100.74,1.0,GLD,H,HAIL,6 S CAMPUS,GOVE,KS,TRAINED SPOTTER,,KSC063,Gove,E
+201906220350,2019/06/22 03:50,34.95,-85.26,None,FFC,D,TSTM WND DMG,FORT OGLETHORPE,CATOOSA,GA,TRAINED SPOTTER,NUMEROUS LARGE BRANCHES AND POWER LINES DOWN NEAR THE INTERSECTION OF LAFAYETTE RD AND FORREST RD.,GAC047,Catoosa,
+201906220350,2019/06/22 03:50,34.48,-85.82,None,HUN,D,TSTM WND DMG,2 SE RAINSVILLE,DEKALB,AL,911 CALL CENTER,A TREE WAS KNOCKED DOWN ONTO POWER LINES.,ALC049,DeKalb,
+201906220350,2019/06/22 03:50,34.53,-85.80,None,HUN,D,TSTM WND DMG,2 S SYLVANIA,DEKALB,AL,911 CALL CENTER,POWER LINES WERE KNOCKED DOWN AT 758 OAK GROVE ROAD.,ALC049,DeKalb,
+201906220352,2019/06/22 03:52,36.28,-83.52,None,MRX,D,TSTM WND DMG,1 NE RUTLEDGE,GRAINGER,TN,911 CALL CENTER,CORRECTS TIME PREVIOUS TSTM WND DMG REPORT FROM 1 NE RUTLEDGE. MULTIPLE TREES DOWN ACROSS THE COUNTY.,TNC057,Grainger,
+201906220358,2019/06/22 03:58,36.10,-83.56,None,MRX,D,TSTM WND DMG,1 WNW NEW MARKET,JEFFERSON,TN,911 CALL CENTER,TREE ON A HOUSE NEAR NEW MARKET. WIDESPREAD TREE DAMAGE.,TNC089,Jefferson,
+201906220406,2019/06/22 04:06,35.17,-84.66,0.88,MRX,H,HAIL,1 WSW BENTON,POLK,TN,911 CALL CENTER,NICKEL SIZE HAIL NEAR BENTON.,TNC139,Polk,E
+201906220406,2019/06/22 04:06,35.17,-84.66,None,MRX,D,TSTM WND DMG,1 SW BENTON,POLK,TN,911 CALL CENTER,COUPLE OF TREES DOWN NEAR BENTON.,TNC139,Polk,
+201906220408,2019/06/22 04:08,34.26,-86.09,None,HUN,D,TSTM WND DMG,5 WSW CROSSVILLE,DEKALB,AL,EMERGENCY MNGR,A TREE WAS KNOCKED DOWN ALONG CR 479.,ALC049,DeKalb,
+201906220408,2019/06/22 04:08,36.02,-83.42,None,MRX,D,TSTM WND DMG,DANDRIDGE,JEFFERSON,TN,911 CALL CENTER,TREE ON A HOUSE NEAR DANDRIDGE. WIDESPREAD TREE DAMAGE ACROSS JEFFERSON COUNTY.,TNC089,Jefferson,
+201906220409,2019/06/22 04:09,35.32,-83.81,None,GSP,D,TSTM WND DMG,ROBBINSVILLE,GRAHAM,NC,911 CALL CENTER,TREES DOWN ACROSS THE COUNTY.,NCC075,Graham,
+201906220411,2019/06/22 04:11,33.90,-100.13,58.0,LUB,G,TSTM WND GST,2 SSE HACKBERRY,COTTLE,TX,MESONET,,TXC101,Cottle,M
+201906220416,2019/06/22 04:16,34.26,-85.87,None,HUN,D,TSTM WND DMG,COLLINSVILLE,DEKALB,AL,911 CALL CENTER,A TREE WAS KNOCKED DOWN ONTO POWER LINES.,ALC049,DeKalb,
+201906220424,2019/06/22 04:24,34.68,-84.48,None,FFC,D,TSTM WND DMG,1 SW EAST ELLIJAY,GILMER,GA,SOCIAL MEDIA,REPORT THAT THE CLOCK TOWER HAS FALLEN OVER THE AT CLOCK TOWER CENTER ON MADDOX DRIVE IN EAST ELIJAY.,GAC123,Gilmer,
+201906220425,2019/06/22 04:25,33.17,-100.20,58.0,LUB,G,TSTM WND GST,3 NE ASPERMONT,STONEWALL,TX,MESONET,,TXC433,Stonewall,M
+201906220425,2019/06/22 04:25,34.45,-85.39,None,FFC,D,TSTM WND DMG,BERRYTON,CHATTOOGA,GA,EMERGENCY MNGR,TREES REPORTED DOWN ALONG THE 1500 BLOCK OF BACK BERRYTON RD.,GAC055,Chattooga,
+201906220427,2019/06/22 04:27,46.07,-98.09,1.91,BIS,R,HEAVY RAIN,4 S OAKES,DICKEY,ND,MESONET,NDAWN MESONET. RAINFALL TOTAL FOR THE DAY.,NDC021,Dickey,M
+201906220429,2019/06/22 04:29,35.34,-83.57,None,GSP,D,TSTM WND DMG,2 S ALMOND,SWAIN,NC,911 CALL CENTER,TREES DOWN ACROSS HIGHWAY 19 IN THE NANTAHALA GORGE. EXACT LOCATION ESTIMATED.,NCC173,Swain,
+201906220430,2019/06/22 04:30,34.70,-84.56,None,FFC,D,TSTM WND DMG,3 E TAILS CREEK,GILMER,GA,SOCIAL MEDIA,POWER LINES AND A FEW TREES DOWN ALONG HICKS FORD RD.,GAC123,Gilmer,
+201906220430,2019/06/22 04:30,34.70,-84.56,None,FFC,D,TSTM WND DMG,3 E TAILS CREEK,GILMER,GA,SOCIAL MEDIA,POWER LINES AND A FEW TREES DOWN ALONG HICKS FORD RD IN ELIJAY.,GAC123,Gilmer,
+201906220430,2019/06/22 04:30,36.64,-83.43,None,MRX,D,TSTM WND DMG,EWING,LEE,VA,911 CALL CENTER,MULTIPLE TREES DOWN IN EWING.,VAC105,Lee,
+201906220435,2019/06/22 04:35,46.91,-99.99,1.45,BIS,R,HEAVY RAIN,5 NW STEELE,KIDDER,ND,MESONET,NDAWN MESONET. RAINFALL FOR THE DAY.,NDC043,Kidder,M
+201906220436,2019/06/22 04:36,34.51,-85.44,None,FFC,D,TSTM WND DMG,2 NE MENLO,CHATTOOGA,GA,EMERGENCY MNGR,TREES DOWN NEAR THE CONER OF OLD HIGHWAY 37 AND AGNEW RD NW OF SUMMERVILLE.,GAC055,Chattooga,
+201906220436,2019/06/22 04:36,34.87,-85.00,None,FFC,D,TSTM WND DMG,3 SW VARNELL,WHITFIELD,GA,EMERGENCY MNGR,FLYING DEBRIS DAMAGED A GARAGE ON THE 2900 BLOCK OF CROW VALLEY ROAD.,GAC313,Whitfield,
+201906220437,2019/06/22 04:37,34.87,-83.94,None,FFC,D,TSTM WND DMG,1 ESE BLAIRSVILLE,UNION,GA,EMERGENCY MNGR,A FEW TREES DOWN ALONG PINEY POINT RD. ALSO SOME TREES DOWN ALONG WOLF PEN GAP RD.,GAC291,Union,
+201906220437,2019/06/22 04:37,36.34,-82.84,None,MRX,D,TSTM WND DMG,1 NNW BAILEYTON,GREENE,TN,911 CALL CENTER,MULTIPLE TREES DOWN ACROSS NORTHERN GREENE COUNTY.,TNC059,Greene,
+201906220438,2019/06/22 04:38,35.29,-83.49,None,GSP,D,TSTM WND DMG,5 SW ALARKA,MACON,NC,911 CALL CENTER,TREES DOWN. ONE WAS DOWN ACROSS HIGHWAY 28 BLOCKING THE ROAD.,NCC113,Macon,
+201906220440,2019/06/22 04:40,36.48,-82.82,None,MRX,D,TSTM WND DMG,2 E SURGOINSVILLE,HAWKINS,TN,BROADCAST MEDIA,PHIPPS BEND INDUSTRIAL PARK. A METAL WAREHOUSE HAD A WALL RIPPED OPEN.,TNC073,Hawkins,
+201906220445,2019/06/22 04:45,36.47,-82.85,None,MRX,D,TSTM WND DMG,SURGOINSVILLE,HAWKINS,TN,911 CALL CENTER,TREE THROUGH THE ROOF OF HOME.,TNC073,Hawkins,
+201906220447,2019/06/22 04:47,34.96,-84.85,None,FFC,D,TSTM WND DMG,3 N BEAVERDALE,WHITFIELD,GA,EMERGENCY MNGR,A GAZEBO WAS BLOWN DOWN ALONG THE 2100 BLOCK OF LEDFORD RD NEAR THE INTERSECTION OF LEDFORD RD AND MT PLEASENT RD.,GAC313,Whitfield,
+201906220448,2019/06/22 04:48,35.48,-83.00,None,GSP,D,TSTM WND DMG,WAYNESVILLE,HAYWOOD,NC,911 CALL CENTER,A TREE DOWN ON CHILDRENS STREET IN WAYNESVILLE AND ANOTHER TREE DOWN IN CLYDE.,NCC087,Haywood,
+201906220450,2019/06/22 04:50,35.80,-82.68,None,GSP,D,TSTM WND DMG,MARSHALL,MADISON,NC,911 CALL CENTER,SCATTERED TREES DOWN ACROSS THE COUNTY.,NCC115,Madison,
+201906220450,2019/06/22 04:50,36.58,-82.62,None,MRX,D,TSTM WND DMG,3 ENE MOUNT CARMEL,HAWKINS,TN,LAW ENFORCEMENT,SEVERAL TREES DOWN.,TNC073,Hawkins,
+201906220451,2019/06/22 04:51,38.17,-97.11,0.7,ICT,H,HAIL,PEABODY,MARION,KS,LAW ENFORCEMENT,,KSC115,Marion,E
+201906220451,2019/06/22 04:51,38.17,-97.11,0.7,ICT,H,HAIL,PEABODY,MARION,KS,LAW ENFORCEMENT,.,KSC115,Marion,E
+201906220453,2019/06/22 04:53,35.05,-83.92,None,MRX,D,TSTM WND DMG,2 ENE BRASSTOWN,CLAY,NC,LAW ENFORCEMENT,SEVERAL TREES DOWN.,NCC043,Clay,
+201906220454,2019/06/22 04:54,34.29,-84.52,None,FFC,D,TSTM WND DMG,3 SE WALESKA,CHEROKEE,GA,EMERGENCY MNGR,TREE DOWN BLOCKING THE ROAD AT THE INTERSECTION OF REINHARDT COLLEGE PARKWAY AND SAME NELSON RD IN CANTON.,GAC057,Cherokee,
+201906220455,2019/06/22 04:55,34.41,-84.53,None,FFC,D,TSTM WND DMG,2 ESE TALMADGE,PICKENS,GA,TRAINED SPOTTER,20+ TREES DOWN AT INTERSECTION OF HENDERSON MOUNTAIN RD AND S BASIN DR. POWER POLE AND LINES DOWN ~1 MILE NORTH.,GAC227,Pickens,
+201906220455,2019/06/22 04:55,34.41,-84.53,None,FFC,D,TSTM WND DMG,2 ESE TALMADGE,PICKENS,GA,TRAINED SPOTTER,5+ TREES DOWN AT INTERSECTION OF HENDERSON MOUNTAIN RD AND S BASIN DR. POWER POLE AND LINES DOWN ~1 MILE NORTH.,GAC227,Pickens,
+201906220456,2019/06/22 04:56,38.17,-97.11,1.0,ICT,H,HAIL,PEABODY,MARION,KS,PUBLIC,,KSC115,Marion,E
+201906220456,2019/06/22 04:56,34.60,-84.01,None,FFC,D,TSTM WND DMG,4 SSE GOOCH MOUNTAIN SH,LUMPKIN,GA,911 CALL CENTER,A FEW TREES DOWN.,GAC187,Lumpkin,
+201906220459,2019/06/22 04:59,48.84,-99.74,3.43,BIS,R,HEAVY RAIN,BELCOURT,ROLETTE,ND,OTHER FEDERAL,BIA TURTLE MOUNTAIN AGENCY HEADQUARTERS.,NDC079,Rolette,M
+201906220500,2019/06/22 05:00,36.22,-82.69,None,MRX,D,TSTM WND DMG,CHUCKY,GREENE,TN,LAW ENFORCEMENT,SEVERAL TREES DOWN.,TNC059,Greene,
+201906220506,2019/06/22 05:06,35.05,-83.61,None,MRX,D,TSTM WND DMG,3 ENE SHOOTING CREEK,CLAY,NC,LAW ENFORCEMENT,TREES DOWN ACROSS THE COUNTY.,NCC043,Clay,
+201906220507,2019/06/22 05:07,35.57,-82.55,None,GSP,D,TSTM WND DMG,ASHEVILLE,BUNCOMBE,NC,911 CALL CENTER,SCATTERED TREES DOWN ACROSS THE COUNTY.,NCC021,Buncombe,
+201906220509,2019/06/22 05:09,34.47,-84.45,None,FFC,D,TSTM WND DMG,1 W JASPER,PICKENS,GA,SOCIAL MEDIA,ROOF DAMAGED NEAR THE INTERSECTION OF JONAH LANE AND NOAH DRIVE.,GAC227,Pickens,
+201906220513,2019/06/22 05:13,35.92,-82.30,None,GSP,D,TSTM WND DMG,BURNSVILLE,YANCEY,NC,911 CALL CENTER,A FEW SCATTERED TREES DOWN.,NCC199,Yancey,
+201906220513,2019/06/22 05:13,35.11,-83.10,None,GSP,D,TSTM WND DMG,CASHIERS,JACKSON,NC,911 CALL CENTER,TREES DOWN ACROSS THE COUNTY ESPECIALLY AROUND CASHIERS.,NCC099,Jackson,
+201906220518,2019/06/22 05:18,34.25,-84.36,None,FFC,D,TSTM WND DMG,3 W LATHEMTOWN,CHEROKEE,GA,SOCIAL MEDIA,REPORT OF A TREE DOWN ON GA 20 IN CHEROKEE COUNTY NEAR UNION HILL ROAD.,GAC057,Cherokee,
+201906220520,2019/06/22 05:20,34.37,-84.07,None,FFC,D,TSTM WND DMG,1 S DOUGHERTY,DAWSON,GA,EMERGENCY MNGR,TREES DOWN ALONG GRIZZLE RD BETWEEN HUGH STOWERS RD AND LUMPKIN CAMP GROUND RD S.,GAC085,Dawson,
+201906220520,2019/06/22 05:20,34.39,-84.24,None,FFC,D,TSTM WND DMG,2 NE HOLLIS LATHEM RESE,DAWSON,GA,EMERGENCY MNGR,TREES DOWN NEAR INTERSECTION OF BLUE BIRD TRAIL AND KELLY BRIDGE RD. ALSO AT 2237 & 8188 KELLY BRIDGE RD.,GAC085,Dawson,
+201906220520,2019/06/22 05:20,34.40,-84.12,None,FFC,D,TSTM WND DMG,2 S DAWSONVILLE,DAWSON,GA,EMERGENCY MNGR,TREES DOWN AT 1875 HWY 9 S.,GAC085,Dawson,
+201906220524,2019/06/22 05:24,34.30,-84.56,None,FFC,D,TSTM WND DMG,1 SSW WALESKA,CHEROKEE,GA,EMERGENCY MNGR,TREE DOWN ON LITTLE REFUGE RD NEAR FINCHER RD IN WALESKA.,GAC057,Cherokee,
+201906220524,2019/06/22 05:24,34.21,-84.29,None,FFC,D,TSTM WND DMG,1 W HOLBROOK,CHEROKEE,GA,EMERGENCY MNGR,TREES DOWN NEAR LITTLE RIVER FARMS TRAIL AND FREEHOME HWY,GAC057,Cherokee,
+201906220525,2019/06/22 05:25,34.47,-83.58,None,GSP,D,TSTM WND DMG,2 SW BALDWIN,HABERSHAM,GA,911 CALL CENTER,911 CALL CENTER REPORTED MULTIPLE TREES AND POWER LINES DOWN IN THE ALTO AREA. TIME ESTIMATED FROM RADAR.,GAC137,Habersham,
+201906220528,2019/06/22 05:28,34.35,-83.49,None,FFC,D,TSTM WND DMG,2 NNE HOMER,BANKS,GA,SOCIAL MEDIA,LARGE TREE TOPPLED AND PORTA POTTY KNOCKED OVER AT CHIMNEY OAKS GOLF CLUB.,GAC011,Banks,
+201906220530,2019/06/22 05:30,34.30,-84.08,None,FFC,D,TSTM WND DMG,2 NNE COAL MOUNTAIN,FORSYTH,GA,PUBLIC,REPORT OF 5-6 TREES AND MULTIPLE POWER LINES DOWN ON ROB COURT IN CUMMING_ GA.,GAC117,Forsyth,
+201906220530,2019/06/22 05:30,33.82,-84.80,None,FFC,D,TSTM WND DMG,3 WNW BROWNSVILLE,PAULDING,GA,SOCIAL MEDIA,REPORT OF A TREE THAT FELL ON A HOUSE ON RIDGE RUN DRIVE IN SOUTH PAULDING COUNTY.,GAC223,Paulding,
+201906220530,2019/06/22 05:30,35.13,-82.93,None,GSP,D,TSTM WND DMG,LAKE TOXAWAY,TRANSYLVANIA,NC,911 CALL CENTER,TREES DOWN ACROSS ROADS IN THE VICINITY OF LAKE TOXAWAY AND IN THE PISGAH NATIONAL FOREST.,NCC175,Transylvania,
+201906220530,2019/06/22 05:30,36.55,-82.09,None,MRX,D,TSTM WND DMG,2 N SOUTH HOLSTON DAM,SULLIVAN,TN,LAW ENFORCEMENT,SEVERAL TREES DOWN ACROSS THE COUNTY.,TNC163,Sullivan,
+201906220531,2019/06/22 05:31,38.17,-97.11,None,ICT,F,FLASH FLOOD,PEABODY,MARION,KS,LAW ENFORCEMENT,AUTHORITIES ARE CLOSING THE 9TH STREET BRIDGE DUE TO TWO FEET OF WATER OVER IT.,KSC115,Marion,
+201906220534,2019/06/22 05:34,34.12,-84.48,None,FFC,D,TSTM WND DMG,2 ESE LEBANON,CHEROKEE,GA,EMERGENCY MNGR,POWER LINES REPORTED DOWN NEAR TARA COURT IN WOODSTOCK GA.,GAC057,Cherokee,
+201906220540,2019/06/22 05:40,35.81,-82.05,None,GSP,D,TSTM WND DMG,2 NNW WOODLAWN,MCDOWELL,NC,EMERGENCY MNGR,MULTIPLE TREES DOWN NEAR THE INTERSECTION OF EP BOYD ROAD AND STOCKTON ROAD.,NCC111,McDowell,
+201906220544,2019/06/22 05:44,35.84,-81.80,None,GSP,D,TSTM WND DMG,TABLE ROCK,BURKE,NC,911 CALL CENTER,TREES DOWN ON HIGHWAY 181.,NCC023,Burke,
+201906220544,2019/06/22 05:44,35.84,-81.80,None,GSP,x,DEBRIS FLOW,TABLE ROCK,BURKE,NC,911 CALL CENTER,TREES DOWN ON HIGHWAY 181.,NCC023,Burke,
+201906220545,2019/06/22 05:45,33.91,-84.80,None,FFC,D,TSTM WND DMG,3 ESE DALLAS,PAULDING,GA,SOCIAL MEDIA,TREES DOWN AT 1300 MERCHANTS DRIVE,GAC223,Paulding,
+201906220548,2019/06/22 05:48,34.25,-83.87,None,FFC,D,TSTM WND DMG,2 NNE OAKWOOD,HALL,GA,EMERGENCY MNGR,REPORT OF A TREE ON A HOME ON MOONEY DRIVE IN GAINESVILLE_ GA.,GAC139,Hall,
+201906220550,2019/06/22 05:50,34.18,-83.99,None,FFC,D,TSTM WND DMG,2 SW AQUALAND PARK,HALL,GA,EMERGENCY MNGR,REPORT OF MULTIPLE TREES DOWN CAUSING DAMAGE TO 15-20 TENTS_ A CAMPER_ AND A CAR.,GAC139,Hall,
+201906220553,2019/06/22 05:53,38.11,-97.11,3.03,ICT,R,HEAVY RAIN,4 S PEABODY,MARION,KS,MESONET,WUNDERGROUND STATION. SINCE ABOUT 10 PM FRIDAY EVENING.,KSC115,Marion,M
+201906220554,2019/06/22 05:54,33.99,-83.03,None,FFC,D,TSTM WND DMG,1 WSW POINT PETER,OGLETHORPE,GA,EMERGENCY MNGR,DOWNED ELECTRICAL LINES SPARKED A GRASSFIRE NW OF LAWRENCEVILLE.,GAC221,Oglethorpe,
+201906220554,2019/06/22 05:54,34.51,-82.96,None,GSP,D,TSTM WND DMG,2 E FAIR PLAY,ANDERSON,SC,LAW ENFORCEMENT,SC HIGHWAY PATROL REPORTED A TREE DOWN ON INTERSTATE 85 AT MILE MARKER 5.,SCC007,Anderson,
+201906220555,2019/06/22 05:55,38.17,-97.11,4.0,ICT,R,HEAVY RAIN,PEABODY,MARION,KS,PUBLIC,VIA SOCIAL MEDIA.,KSC115,Marion,M
+201906220555,2019/06/22 05:55,34.03,-84.09,None,FFC,D,TSTM WND DMG,2 SW SUWANEE,GWINNETT,GA,EMERGENCY MNGR,TREES AND WIRES DOWN IN ROADWAY AT INTERSECTION OF SUWANEE CREEK RD NW AND BUFORD HIGHWAY NW.,GAC135,Gwinnett,
+201906220555,2019/06/22 05:55,34.36,-83.25,None,GSP,D,TSTM WND DMG,1 WSW CARNESVILLE,FRANKLIN,GA,DEPT OF HIGHWAYS,DEPT OF HIGHWAYS REPORTED TREES DOWN BLOCKING COMMERCE RD. TIME ESTIMATED FROM RADAR.,GAC119,Franklin,
+201906220555,2019/06/22 05:55,34.50,-82.94,None,GSP,D,TSTM WND DMG,5 SSW TOWNVILLE,ANDERSON,SC,LAW ENFORCEMENT,SCHP REPORTED A TREE DOWN AT OLD DOBBINS BRIDGE RD AND SULLIVAN RD.,SCC007,Anderson,

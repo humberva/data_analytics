@@ -1,0 +1,27 @@
+https://mtarchive.geol.iastate.edu/2020/07/20/mrms/ncep/FLASH/CREST_MAXUNITSTREAMFLOW/CREST_MAXUNITSTREAMFLOW_00.00_20200720-000000.grib2.gz
+   → Got the file! Size: 2,478,225 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 2,548,638 bytes
+   → Unzipped file saved temporarily at: /tmp/tmpy4d2g6zq.grib2
+https://mtarchive.geol.iastate.edu/2020/07/20/mrms/ncep/FLASH/CREST_MAXSOILSAT/CREST_MAXSOILSAT_00.00_20200720-000000.grib2.gz
+   → Got the file! Size: 3,547,971 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 3,623,946 bytes
+   → Unzipped file saved temporarily at: /tmp/tmplmtv0l2k.grib2
+Found 1 granule
+→ Success! File saved here: /home/hvergaraarrieta/Data_Science/data_analytics/lsr_list.csv
+   File size: 60.0 KB
+Reading file: lsr_list.csv
+
+Showing reports where TYPETEXT = 'FLASH FLOOD'
+Found 14 matching reports
+
+               VALID2                  CITY   COUNTY     TYPETEXT  MAG
+60   2020/07/19 19:45       2 W BONITO LAKE  LINCOLN  FLASH FLOOD  NaN
+184  2020/07/19 22:17        JEFFERSON CITY     COLE  FLASH FLOOD  NaN
+205  2020/07/19 22:30              CHRISMAN    EDGAR  FLASH FLOOD  NaN
+211  2020/07/19 22:40  2 ESE JEFFERSON CITY     COLE  FLASH FLOOD  NaN
+212  2020/07/19 22:40        JEFFERSON CITY     COLE  FLASH FLOOD  NaN
+214  2020/07/19 22:45           16 W CORONA  LINCOLN  FLASH FLOOD  NaN
+244  2020/07/19 23:17        JEFFERSON CITY     COLE  FLASH FLOOD  NaN
+295  2020/07/20 00:26  2 ESE JEFFERSON CITY     COLE  FLASH FLOOD  NaN

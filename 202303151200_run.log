@@ -1,0 +1,26 @@
+https://mtarchive.geol.iastate.edu/2023/03/15/mrms/ncep/FLASH/CREST_MAXUNITSTREAMFLOW/CREST_MAXUNITSTREAMFLOW_00.00_20230315-120000.grib2.gz
+   → Got the file! Size: 2,360,247 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 2,429,478 bytes
+   → Unzipped file saved temporarily at: /tmp/tmpu92rbry2.grib2
+https://mtarchive.geol.iastate.edu/2023/03/15/mrms/ncep/FLASH/CREST_MAXSOILSAT/CREST_MAXSOILSAT_00.00_20230315-120000.grib2.gz
+   → Got the file! Size: 4,376,545 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 4,453,930 bytes
+   → Unzipped file saved temporarily at: /tmp/tmp822649p5.grib2
+Found 1 granule
+→ Success! File saved here: /home/hvergaraarrieta/Data_Science/data_analytics/lsr_list.csv
+   File size: 173.5 KB
+Reading file: lsr_list.csv
+
+Showing reports where TYPETEXT = 'FLASH FLOOD'
+Found 7 matching reports
+
+                VALID2                     CITY       COUNTY     TYPETEXT  MAG
+111   2023/03/15 09:00          1 E CULVER CITY  LOS ANGELES  FLASH FLOOD  NaN
+1044  2023/03/15 14:40           12 S VALENTINE       MOHAVE  FLASH FLOOD  NaN
+1045  2023/03/15 14:42  1 ENE SPRING MOUNTAIN R        CLARK  FLASH FLOOD  NaN
+1102  2023/03/15 15:35       9 NE HUALAPAI PEAK       MOHAVE  FLASH FLOOD  NaN
+1111  2023/03/15 15:50              3 N ZION NP   WASHINGTON  FLASH FLOOD  NaN
+1134  2023/03/15 16:15               SE HILDALE   WASHINGTON  FLASH FLOOD  NaN
+1137  2023/03/15 16:26    2 ESE RED ROCK CANYON        CLARK  FLASH FLOOD  NaN

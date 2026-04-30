@@ -11,16 +11,19 @@ import queue as qu
 from threading import Thread
 import os
 import subprocess as sp
-import datetime as dt
+from datetime import datetime
 import glob
 
 def worker():
     while True:
-        #Obtain string array of filenames and folders 
-        filename = qu.get()                
-	
-        print("/hydros/humberva/EF5/EF5/bin/ef5 " + filename)
-        sp.call("echo " + filename + " > " + filename + "_run.log", shell=True)
+        #Obtain date 
+        case_date = qu.get()                
+
+        case_date_dt = datetime.strptime(case_date, "%Y-%m-%d %H:%M")
+        case_date_stamp = case_date_dt.strftime("%Y%m%d%H%M")
+        
+        print("python runWorkFlow.py " + case_date)
+        sp.call("python runWorkFlow.py '" + case_date + "' > " + case_date_stamp + "_run.log", shell=True)
 
         #Complete worker's task
         qu.task_done()
@@ -34,10 +37,10 @@ for i in range(numworkers):
     t.start()
 
 #Iterate over list of control files
-ctrl_list = ['run0','run1','run2', 'run3', 'run4']
-for ctr_file in ctrl_list:
-    #Pass string array of filenames and folders
-    qu.put(ctr_file)
+dates_table = ["2019-05-27 00:00", "2019-06-22 00:00", "2020-07-20 00:00", "2021-10-01 00:00", "2023-03-15 12:00"]
+for package in dates_table:
+    #Pass string array of dates
+    qu.put(package)
 
 #block until all tasks are done
 qu.join()

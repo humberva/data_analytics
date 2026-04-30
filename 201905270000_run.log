@@ -1,0 +1,27 @@
+https://mtarchive.geol.iastate.edu/2019/05/27/mrms/ncep/FLASH/CREST_MAXUNITSTREAMFLOW/CREST_MAXUNITSTREAMFLOW_00.00_20190527-000000.grib2.gz
+   → Got the file! Size: 2,250,101 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 2,318,259 bytes
+   → Unzipped file saved temporarily at: /tmp/tmpiq1t7kps.grib2
+https://mtarchive.geol.iastate.edu/2019/05/27/mrms/ncep/FLASH/CREST_MAXSOILSAT/CREST_MAXSOILSAT_00.00_20190527-000000.grib2.gz
+   → Got the file! Size: 3,292,786 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 3,364,050 bytes
+   → Unzipped file saved temporarily at: /tmp/tmpxykqku65.grib2
+Found 1 granule
+→ Success! File saved here: /home/hvergaraarrieta/Data_Science/data_analytics/lsr_list.csv
+   File size: 99.9 KB
+Reading file: lsr_list.csv
+
+Showing reports where TYPETEXT = 'FLASH FLOOD'
+Found 25 matching reports
+
+               VALID2                 CITY    COUNTY     TYPETEXT  MAG
+152  2019/05/26 21:25  10 N SHARON SPRINGS   WALLACE  FLASH FLOOD  NaN
+181  2019/05/26 21:50          1 NNW COLBY    THOMAS  FLASH FLOOD  NaN
+192  2019/05/26 21:53            1 N COLBY    THOMAS  FLASH FLOOD  NaN
+216  2019/05/26 22:15                COLBY    THOMAS  FLASH FLOOD  NaN
+221  2019/05/26 22:23             SUBLETTE   HASKELL  FLASH FLOOD  NaN
+224  2019/05/26 22:25               SELDEN  SHERIDAN  FLASH FLOOD  NaN
+227  2019/05/26 22:28              OBERLIN   DECATUR  FLASH FLOOD  NaN
+231  2019/05/26 22:30          6 NE WINONA     LOGAN  FLASH FLOOD  NaN

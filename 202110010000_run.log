@@ -1,0 +1,11 @@
+https://mtarchive.geol.iastate.edu/2021/10/01/mrms/ncep/FLASH/CREST_MAXUNITSTREAMFLOW/CREST_MAXUNITSTREAMFLOW_00.00_20211001-000000.grib2.gz
+   → Got the file! Size: 1,127,328 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 1,186,429 bytes
+   → Unzipped file saved temporarily at: /tmp/tmpjgrtque2.grib2
+https://mtarchive.geol.iastate.edu/2021/10/01/mrms/ncep/FLASH/CREST_MAXSOILSAT/CREST_MAXSOILSAT_00.00_20211001-000000.grib2.gz
+   → Got the file! Size: 5,346,155 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 5,432,859 bytes
+   → Unzipped file saved temporarily at: /tmp/tmpjsy0hbrf.grib2
+Found 1 granule

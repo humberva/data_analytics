@@ -1,0 +1,24 @@
+https://mtarchive.geol.iastate.edu/2019/06/22/mrms/ncep/FLASH/CREST_MAXUNITSTREAMFLOW/CREST_MAXUNITSTREAMFLOW_00.00_20190622-000000.grib2.gz
+   → Got the file! Size: 2,248,153 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 2,317,052 bytes
+   → Unzipped file saved temporarily at: /tmp/tmp0qcinc47.grib2
+https://mtarchive.geol.iastate.edu/2019/06/22/mrms/ncep/FLASH/CREST_MAXSOILSAT/CREST_MAXSOILSAT_00.00_20190622-000000.grib2.gz
+   → Got the file! Size: 3,470,053 bytes (compressed)
+Starting to unzip and load the radar file...
+   → Unzipped! New size = 3,545,550 bytes
+   → Unzipped file saved temporarily at: /tmp/tmp994b5tbz.grib2
+Found 1 granule
+→ Success! File saved here: /home/hvergaraarrieta/Data_Science/data_analytics/lsr_list.csv
+   File size: 91.7 KB
+Reading file: lsr_list.csv
+
+Showing reports where TYPETEXT = 'FLASH FLOOD'
+Found 5 matching reports
+
+               VALID2              CITY      COUNTY     TYPETEXT  MAG
+68   2019/06/21 21:45  1 NE MURPHYSBORO     JACKSON  FLASH FLOOD  NaN
+160  2019/06/21 23:30    1 E PROVIDENCE     WEBSTER  FLASH FLOOD  NaN
+215  2019/06/22 00:36       6 SW MARION  WILLIAMSON  FLASH FLOOD  NaN
+252  2019/06/22 01:08   3 NW VERMILLION    MARSHALL  FLASH FLOOD  NaN
+506  2019/06/22 05:31           PEABODY      MARION  FLASH FLOOD  NaN
